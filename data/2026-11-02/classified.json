@@ -1,0 +1,146 @@
+[
+  {
+    "source": "BBC",
+    "title": "Война в Украине: Зеленский заявил, что готов встретиться с Путиным в Турции",
+    "link": "https://www.bbc.co.uk/russian/live/cqz0z0792d84t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナ戦争と見出しされているが、本文はブルガリア大統領選挙が主内容で、ロシアやウクライナへの姿勢が異なる候補者の比較という政治的文脈を持つため"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Экзитполы: призывающая к переговорам с Россией Илиана Йотова побеждает на выборах президента Болгарии",
+    "link": "https://www.bbc.com/russian/articles/cq1kdy0rwnd0o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 3,
+      "reason": "ブルガリア大統領選挙の報道だが、候補者の立場を「モスクワとの対話を呼びかける」「ウクライナへの軍事援助に反対」と評価的に描写しており、中立性に欠ける"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Был ли «госпереворот»? Что произошло в Польше, и чего можно ожидать дальше",
+    "link": "https://www.bbc.com/russian/articles/cxly47zyn1p8o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 5,
+      "russia": 1,
+      "reason": "ポーランドの憲法裁判所をめぐる政治的対立について、背景や歴史的文脈を含めて分析的に報道しており、ロシアとの関わりはない"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Сестра задержанного в Польше россиянина рассказала, что он увлекается съемкой поездов. Его обвинили в шпионаже из-за фото с железной дороги",
+    "link": "https://meduza.io/news/2026/11/01/sestra-zaderzhannogo-v-polshe-rossiyanina-rasskazala-chto-on-uvlekaetsya-s-emkoy-poezdov-ego-obvinili-v-shpionazhe-iz-za-foto-s-zheleznoy-dorogi",
+    "meta": {
+      "category": "incident",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 4,
+      "reason": "ロシア国籍の男性がポーランドで谍報罪で逮捕された事件報道だが、姉の弁明が記事の大きな部分を占め、当局の主張に対する異議という一方的な視点が強調されている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В МИД Ганы заявили, что Путин согласился не вербовать граждан страны в российскую армию",
+    "link": "https://meduza.io/news/2026/11/01/v-mid-gany-zayavili-chto-putin-soglasilsya-ne-verbovat-zhiteley-strany-v-rossiyskuyu-armiyu",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 4,
+      "reason": "ウクライナ戦争における外国人兵士の募集問題が中心で、ロシアの対外政策と戦争遂行に直結した事項だが、ガーナ外相の発言を主に報道する形式で一方の見解が中心になっている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Россия тестирует отправку зерна через Арктику из-за украинских атак в Черном море. Но этот путь не заменит южные маршруты",
+    "link": "https://meduza.io/news/2026/11/01/rossiya-testiruet-otpravku-zerna-cherez-arktiku-iz-za-ukrainskih-atak-v-chernom-more-no-etot-put-ne-zamenit-yuzhnye-marshruty",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "ロシアの穀物輸出ルートの転換という経済的な状況変化を、事実ベースで報道しており、タイトルで限界性も指摘されている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "В Binance опровергли версию о романе инженера и шпионки из КНДР",
+    "link": "https://www.rbc.ru/finances/30/10/2026/6ae48486d9973ce16e4234c6",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "Binanceの大規模ハッキング事件に関連する流言の否定であり、事実中心だが報道価値に乏しく、ロシアとの関連性がない。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Нетаньяху потребовал от Трампа возобновить удары по Ирану",
+    "link": "https://www.rbc.ru/politics/26/10/2026/6adf10fba45a7da03e263294",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "イスラエル首相とアメリカ大統領の外交交渉内容を事実ベースで報道しており、ロシアとの関連性はほぼなく、評価的表現は限定的である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "СК возбудил дело после крушения самодельного судна в Тверской области",
+    "link": "https://www.rbc.ru/rbcfreenews/6ae7aad9af69ea42d44a1d59",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア・トヴェリ州での航空機墜落事件に関する警察発表で、事実中心だが速報的で情報が限定的である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Лантратова заявила, что РФ и Украина выполнили все обязательства в Алешках",
+    "link": "https://www.interfax.ru/russia/1126430",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 4,
+      "reason": "ロシア大統領府人権担当官の発言を中心に、ウクライナとの停戦合意と人道支援の実施状況を報道しており、ロシア側の立場から肯定的に評価する表現が含まれている"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Домодедово работает по согласованию с соответствующими органами",
+    "link": "https://www.interfax.ru/moscow/1126428",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "モスクワの主要空港ドモジェドボの運用に関する事務的な告知であり、安全対策の観点から一時的な空域制限が実施されている事実を淡々と報告している。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Боксер Павел Силягин уверен, что бой с Мунгией даст толчок карьере Никиты Зоня",
+    "link": "https://www.sport-interfax.ru/1126427",
+    "meta": {
+      "category": "sports",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 4,
+      "reason": "ロシア人ボクサーの国際試合に関する評論記事で、引用された専門家の見解が中心だが、事実報道に基づいており、ロシアとの関わりは強い"
+    }
+  }
+]

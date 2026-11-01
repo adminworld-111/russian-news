@@ -1,0 +1,26 @@
+[
+  {
+    "source": "Meduza",
+    "title": "Россия тестирует отправку зерна через Арктику из-за украинских атак в Черном море. Но этот путь не заменит южные маршруты",
+    "link": "https://meduza.io/news/2026/11/01/rossiya-testiruet-otpravku-zerna-cherez-arktiku-iz-za-ukrainskih-atak-v-chernom-more-no-etot-put-ne-zamenit-yuzhnye-marshruty",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "ロシアの穀物輸出ルートの転換という経済的な状況変化を、事実ベースで報道しており、タイトルで限界性も指摘されている"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Был ли «госпереворот»? Что произошло в Польше, и чего можно ожидать дальше",
+    "link": "https://www.bbc.com/russian/articles/cxly47zyn1p8o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 5,
+      "russia": 1,
+      "reason": "ポーランドの憲法裁判所をめぐる政治的対立について、背景や歴史的文脈を含めて分析的に報道しており、ロシアとの関わりはない"
+    }
+  }
+]
