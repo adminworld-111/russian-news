@@ -13,8 +13,8 @@ jobs:
     runs-on: ubuntu-latest    # GitHubが用意するLinuxのサーバーで動かす
     timeout-minutes: 30       # 30分たっても終わらなければ止める
     steps:
-      - uses: actions/checkout@v4          # リポジトリのファイルをサーバーに取り出す
-      - uses: actions/setup-python@v5      # Pythonを用意する
+      - uses: actions/checkout@v5          # リポジトリのファイルをサーバーに取り出す
+      - uses: actions/setup-python@v6      # Pythonを用意する
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt   # ライブラリをインストールする
