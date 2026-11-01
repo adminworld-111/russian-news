@@ -1,0 +1,30 @@
+name: daily-lessons
+
+on:
+  schedule:
+    - cron: "00 21 * * *"    # 毎日21:00（UTC）＝ 日本時間の朝6:00
+  workflow_dispatch:          # 画面のボタンから手動でも実行できるようにする
+
+permissions:
+  contents: write             # 作った教材をリポジトリに保存（コミット）するため
+
+jobs:
+  run:
+    runs-on: ubuntu-latest    # GitHubが用意するLinuxのサーバーで動かす
+    timeout-minutes: 30       # 30分たっても終わらなければ止める
+    steps:
+      - uses: actions/checkout@v4          # リポジトリのファイルをサーバーに取り出す
+      - uses: actions/setup-python@v5      # Pythonを用意する
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt   # ライブラリをインストールする
+      - run: python main.py                    # アプリを実行する
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # シークレットを環境変数として渡す
+      - name: Save lessons                     # 作った教材をリポジトリに保存する
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Daily lessons $(TZ=Asia/Tokyo date +%F)"
+          git push
