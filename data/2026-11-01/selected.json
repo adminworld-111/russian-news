@@ -1,0 +1,26 @@
+[
+  {
+    "source": "Interfax",
+    "title": "В московский монастырь вернули древнюю икону Богородицы \"Грузинская\"",
+    "link": "https://www.interfax.ru/moscow/1126403",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "モスクワの修道院への古い聖像の返却という文化遺産に関する事実報道で、評価的表現が少なく、ロシア正教会と文化財の話題が中心である。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Был ли «госпереворот»? Что произошло в Польше, и чего можно ожидать дальше",
+    "link": "https://www.bbc.com/russian/articles/cxly47zyn1p8o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "ポーランドの憲法裁判所をめぐる政治紛争について、事実ベースで背景や論点を分析する記事であり、ロシアとの直接的な関連性がない。"
+    }
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "source": "BBC",
+    "title": "Война в Украине: сотни тысяч семей без электричества после российских обстрелов; сообщения о массированном ударе по Кстовскому НПЗ",
+    "link": "https://www.bbc.co.uk/russian/live/cqz0z0792d84t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 4,
+      "reason": "ウクライナ大統領の発言を中心に、ロシア軍の損失を強調する一方的な評価が主となっており、事実報道の中立性が欠けている。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Был ли «госпереворот»? Что произошло в Польше, и чего можно ожидать дальше",
+    "link": "https://www.bbc.com/russian/articles/cxly47zyn1p8o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "ポーランドの憲法裁判所をめぐる政治紛争について、事実ベースで背景や論点を分析する記事であり、ロシアとの直接的な関連性がない。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Протесты против роста стоимости жизни в Германии переросли в беспорядки с грабежами магазинов",
+    "link": "https://www.bbc.com/russian/articles/cmy0e4vdqn0yo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "society",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "ドイツの生活費上昇に対する抗議デモが暴動化した社会事象を報じており、事実中心だが「略奪」「衝突」など事件性を強調する表現が含まれている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Нижегородской области ограничили продажу бензина после украинской атаки на НПЗ",
+    "link": "https://meduza.io/news/2026/11/01/v-nizhegorodskoy-oblasti-ogranichili-prodazhu-benzina-posle-ukrainskoy-ataki-na-npz",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ウクライナのドローン攻撃によるロシア国内の石油精製所損傷と、それに伴う燃料配給制限措置についての事実報道であり、評価的表現は限定的である"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Цюрихе и Базеле прошли леворадикальные протесты. Их участники поджигали мусорные контейнеры и били витрины магазинов",
+    "link": "https://meduza.io/news/2026/11/01/v-tsyurihe-i-bazele-proshli-levoradikalnye-protesty-ih-uchastniki-podzhigali-musornye-konteynery-i-bili-vitriny-magazinov",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "スイスの都市での暴動事件を報道した記事で、事実を中心に記述されているがロシアとの関連性がなく、学習価値も限定的である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Война. 1712-й день. Трамп не против пригласить Зеленского на саммит G20 (туда позвали и Путина). В Украине «сотни тысяч семей» остаются без света из-за российских атак",
+    "link": "https://meduza.io/feature/2026/11/01/voyna",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 5,
+      "reason": "ウクライナ戦争の日々の進展を報道する記事であり、ロシアの無人機攻撃やウクライナの被害状況が中心だが、読者投稿の呼びかけなど感情的な要素が含まれている。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Президент ФРГ рассказал об удивлении Си после слов о саммите по Украине",
+    "link": "https://www.rbc.ru/politics/24/10/2026/6adcabfc3137bb8105aac531",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナ紛争に関する三者サミットの可能性についてドイツ大統領が中国指導部と対話した外交的事実を報道しており、事実中心で評価的表現が少なく、ロシアは主要な当事者として関わる政治ニュースである。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "ЦСКА возглавил Западную конференцию КХЛ после трех побед подряд",
+    "link": "https://www.rbc.ru/sport/30/10/2026/6ae47f712535738c51e10c65",
+    "meta": {
+      "category": "sports",
+      "neutrality": 5,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシアのプロホッケーリーグ（KHL）の試合結果を事実中心に報道した速報記事で、スコアと得点者の列挙が主体である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Ограничения ввели на АЗС в Нижегородской области после атаки БПЛА",
+    "link": "https://www.interfax.ru/russia/1126405",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ウクライナ無人機による攻撃後のロシア地域の燃料供給制限措置を客観的に報道しており、事実中心だが速報的な内容である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Пилот самодельного воздушного судна погиб в Тверской области",
+    "link": "https://www.interfax.ru/russia/1126404",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 1,
+      "russia": 5,
+      "reason": "ロシア・トヴェリ州での自作航空機墜落死亡事故の短い速報記事で、事実報道が中心だが教材価値は限定的"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "В московский монастырь вернули древнюю икону Богородицы \"Грузинская\"",
+    "link": "https://www.interfax.ru/moscow/1126403",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "モスクワの修道院への古い聖像の返却という文化遺産に関する事実報道で、評価的表現が少なく、ロシア正教会と文化財の話題が中心である。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Мода проходит — штиль остается // Юбилейная выставка Айвазовского в Русском музее",
+    "link": "https://www.kommersant.ru/doc/9077562",
+    "meta": {
+      "category": "culture",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシア美術館でのアイヴァゾフスキー生誕200周年展の評価的レビューであり、作品の単調性を批判する表現が含まれている"
+    }
+  }
+]
