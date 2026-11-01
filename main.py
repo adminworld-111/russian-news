@@ -38,7 +38,7 @@ client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 MODELS = {
     "classify": {"provider": "anthropic", "model": "claude-haiku-4-5-20251001", "max_tokens": 300},
     "lesson":   {"provider": "anthropic", "model": "claude-sonnet-5",           "max_tokens": 16000},
-    "check":    {"provider": "anthropic", "model": "claude-sonnet-5",           "max_tokens": 8000},
+    "check":    {"provider": "anthropic", "model": "claude-sonnet-5",           "max_tokens": 16000},
 }
 
 # ニュースソース（Gorkyは RSS なしのため見送り）
