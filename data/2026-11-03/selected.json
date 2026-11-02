@@ -1,0 +1,26 @@
+[
+  {
+    "source": "RBK",
+    "title": "«Уровень Шумахера». Как молодой чемпион вошел в историю «Формулы-1»",
+    "link": "https://www.rbc.ru/sport/02/11/2026/6ade2056a86a0256542d5afa",
+    "meta": {
+      "category": "sports",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "イタリア人ドライバーのF1チャンピオン獲得を報じる記事で、事実中心の報道だがロシアとの関連性がない。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "В США пройдут промежуточные выборы",
+    "link": "https://www.rbc.ru/politics/02/11/2026/6ae82accefac460268846972",
+    "meta": {
+      "category": "politics",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国の中間選挙についての事実報道で、政治制度の説明が中心だが、ロシアとの関連性はなく、短い速報的な内容である。"
+    }
+  }
+]

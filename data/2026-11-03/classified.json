@@ -1,0 +1,134 @@
+[
+  {
+    "source": "BBC",
+    "title": "При ударе по пункту раздачи гуманитарной помощи в Запорожской области погибло не менее 26 человек, заявляют украинские власти",
+    "link": "https://www.bbc.com/russian/articles/cmn8wnvyp278o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "ウクライナの主張に基づく空爆による民間人死傷の報道であり、被害状況の詳細が記述されているが、ロシア側の見解や文脈説明が限定的で、一方的な叙述となっている。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Десять лет вместо пяти. Британия ужесточает правила для иммигрантов",
+    "link": "https://www.bbc.com/russian/articles/cmp3g0ykpzq2o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "英国の移民法改正に関する事実報道であり、ロシアとの関連性はなく、中立的に制度変更の内容を説明している"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Война в Украине: 26 человек погибли под бомбами в Камышевахе, заявили украинские власти",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 4,
+      "reason": "ウクライナ当局による空爆被害の報道で、事実ベースの記述が主だが、ロシア側の反論がなく一方的な情報提示となっており、速報性が強く学習教材としての価値は限定的である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Украина получит 500 ракет для Patriot, продажу которых одобрил Госдеп, только после 2030 года",
+    "link": "https://meduza.io/news/2026/11/02/ukraina-poluchit-500-raket-dlya-patriot-prodazhu-kotoryh-odobril-gosdep-tolko-posle-2030-goda",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナへの軍事支援（Patriotミサイル）に関する事実報道で、納期や金額などの具体的情報を提供しており、ロシア・ウクライナ紛争の文脈における米国の支援政策が主題である"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Санкт-Петербурге второй раз за месяц сократили выплаты за контракт с Минобороны",
+    "link": "https://meduza.io/news/2026/11/02/v-sankt-peterburge-vtoroy-raz-za-mesyats-sokratili-vyplaty-za-kontrakt-s-minoborony",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア国内の軍事契約に関連した政府の給付金削減について、事実ベースで報道した記事であり、ロシア国内政策が中心的な話題である"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Десятки человек собрались у частного дома под Киевом. Они утверждают, что там удерживают и избивают военных. К зданию приехал глава офиса президента Кирилл Буданов",
+    "link": "https://meduza.io/news/2026/11/02/desyatki-chelovek-sobralis-u-chastnogo-doma-pod-kievom-oni-utverzhdayut-chto-tam-uderzhivayut-i-izbivayut-voennyh-v-natsgvardii-zayavili-chto-zdanie-ispolzovalos-kak-punkt-razmescheniya-mobilizovannyh",
+    "meta": {
+      "category": "incident",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "ウクライナの軍事司令部による疑わしい拘禁行為に関する国内事件の報道であり、ロシアとは直接関係がないが、一方的な住民の主張が中心で評価的表現が含まれている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "«Уровень Шумахера». Как молодой чемпион вошел в историю «Формулы-1»",
+    "link": "https://www.rbc.ru/sport/02/11/2026/6ade2056a86a0256542d5afa",
+    "meta": {
+      "category": "sports",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "イタリア人ドライバーのF1チャンピオン獲得を報じる記事で、事実中心の報道だがロシアとの関連性がない。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Буданов на фоне скандала с дезертирами заявил, что «таких зданий много»",
+    "link": "https://www.rbc.ru/politics/02/11/2026/6ae8ce91b208f51c7b5c606b",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "ウクライナ国内の脱走兵に関する軍事的問題が中心だが、記者会見時の混乱場面の記述が感情的であり、ロシアとの直接の関わりはない。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "В США пройдут промежуточные выборы",
+    "link": "https://www.rbc.ru/politics/02/11/2026/6ae82accefac460268846972",
+    "meta": {
+      "category": "politics",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国の中間選挙についての事実報道で、政治制度の説明が中心だが、ロシアとの関連性はなく、短い速報的な内容である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Лавров посетит с рабочим визитом Минск",
+    "link": "https://www.interfax.ru/world/1126653",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "ロシア外相のベラルーシ訪問と国際会議への参加を事実中心で報道しており、評価的表現がほぼなく、ロシアの外交活動が主要な話題となっている。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Промежуточные выборы пройдут в США",
+    "link": "https://www.interfax.ru/world/1126652",
+    "meta": {
+      "category": "politics",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国の中間選挙に関する事実報道で、ロシアとの関わりはなく、ニュース速報的な内容である。"
+    }
+  }
+]
