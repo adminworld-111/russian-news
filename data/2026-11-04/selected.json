@@ -1,0 +1,38 @@
+[
+  {
+    "source": "RBK",
+    "title": "Raiffeisen Bank подтвердил курс на сокращение бизнеса в России",
+    "link": "https://www.rbc.ru/business/30/01/2026/697c96ed9a794754987140ec",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "オーストリア銀行のロシア事業縮小計画を事実中心に報道しており、数値データも具体的だが、国際企業の経営戦略という限定的な範囲の情報"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Полузащитник «Галатасарая» Алексей Батраков стал первым за 11 лет российским футболистом, забившим два гола в матче Лиги чемпионов",
+    "link": "https://meduza.io/news/2026/11/03/poluzaschitnik-galatasaraya-aleksey-batrakov-stal-pervym-za-11-let-rossiyskim-futbolistom-zabivshem-dva-gola-v-matche-ligi-chempionov",
+    "meta": {
+      "category": "sports",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 3,
+      "reason": "ロシア人選手の欧州リーグでの成績を事実中心で報道した速報的なスポーツ記事で、評価的表現がなく中立性が高い"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Когда станут известны результаты промежуточных выборов в США и мы поймем, кто будет контролировать Конгресс?",
+    "link": "https://www.bbc.com/russian/articles/cxr5y9109g9yo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "米国中間選挙の仕組みと結果発表のタイミングについて説明する事実報道で、ロシアとの関わりがほぼない。"
+    }
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "source": "BBC",
+    "title": "Каково военное значение Камышевахи и почему российская армия постоянно наносит по ней удары?",
+    "link": "https://www.bbc.com/russian/articles/c8r4y990qkp3o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 4,
+      "reason": "ウクライナの民間人死傷を強調し、ロシア軍の空爆を非難的に報道しており、人道的観点からの評価的表現が含まれている"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Когда станут известны результаты промежуточных выборов в США и мы поймем, кто будет контролировать Конгресс?",
+    "link": "https://www.bbc.com/russian/articles/cxr5y9109g9yo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "米国中間選挙の仕組みと結果発表のタイミングについて説明する事実報道で、ロシアとの関わりがほぼない。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Протесты под Киевом из-за задержанных мужчин. При чем тут «Азов» и почему вмешался Буданов?",
+    "link": "https://www.bbc.com/russian/articles/cmqlnxglrppqo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "society",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "ウクライナ国内の抗議活動と警察の対立が報じられており、事実報道が中心だが、「拷問」という評価的表現が見出しと本文に含まれ、ロシアとの直接的な関わりはない"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "NYT: Израиль предупредил США, что Иран может применить химическое оружие. Некоторые чиновники сочли это попыткой заставить Трампа возобновить удары",
+    "link": "https://meduza.io/news/2026/11/04/nyt-izrail-predupredil-ssha-chto-iran-mozhet-primenit-himicheskoe-oruzhie-nekotorye-chinovniki-sochli-eto-popytkoy-zastavit-trampa-vozobnovit-udary",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 1,
+      "reason": "イスラエルとイランの対立に関する軍事情報の報道だが、イスラエルの意図に対する懐疑的解釈が複数の立場とともに示されており、やや評価的な色合いがある。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Полузащитник «Галатасарая» Алексей Батраков стал первым за 11 лет российским футболистом, забившим два гола в матче Лиги чемпионов",
+    "link": "https://meduza.io/news/2026/11/03/poluzaschitnik-galatasaraya-aleksey-batrakov-stal-pervym-za-11-let-rossiyskim-futbolistom-zabivshem-dva-gola-v-matche-ligi-chempionov",
+    "meta": {
+      "category": "sports",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 3,
+      "reason": "ロシア人選手の欧州リーグでの成績を事実中心で報道した速報的なスポーツ記事で、評価的表現がなく中立性が高い"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Из-за российских атак в нескольких регионах Украины — отключения электричества. В Киеве нет воды",
+    "link": "https://meduza.io/news/2026/11/03/iz-za-rossiyskih-atak-v-neskolkih-regionah-ukrainy-otklyucheniya-elektrichestva-v-kieve-net-vody",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "ロシアによるウクライナへの攻撃とそれによる影響を事実ベースで報道しており、評価的表現は限定的だが、ウクライナ側の情報源が中心となっている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "ЕК предупредила о срыве планов подготовки Европы к военному конфликту",
+    "link": "https://www.rbc.ru/rbcfreenews/6a97b0a4a18774e78d1d4be4",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 2,
+      "reason": "EU の防衛準備状況に関する事実報道で、評価的表現は控えめであり、ロシアは本文では直接的な主役ではなく背景としてのみ言及されている。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Raiffeisen Bank подтвердил курс на сокращение бизнеса в России",
+    "link": "https://www.rbc.ru/business/30/01/2026/697c96ed9a794754987140ec",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "オーストリア銀行のロシア事業縮小計画を事実中心に報道しており、数値データも具体的だが、国際企業の経営戦略という限定的な範囲の情報"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Силы ПВО уничтожили пять беспилотников, летевших на Москву",
+    "link": "https://www.rbc.ru/rbcfreenews/6ace9875b6b0865c41dbf5a1",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ウクライナのドローン攻撃に対するロシア防空部隊の対応を事実ベースで報道しており、ロシア首都への直接的な軍事脅威が記事の中心である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Дубль Батракова принес \"Галатасараю\" победу над \"Штутгартом\" в ЛЧ",
+    "link": "https://www.sport-interfax.ru/1126870",
+    "meta": {
+      "category": "sports",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 3,
+      "reason": "ロシア人選手の活躍が中心の欧州チャンピオンズリーグの試合報道で、事実中心の記述だが速報的な内容"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Deadline: Джонни Депп может снова сыграть Джека Воробья",
+    "link": "https://www.kommersant.ru/doc/9079957",
+    "meta": {
+      "category": "culture",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 1,
+      "reason": "ハリウッド俳優ジョニー・デップの伝記的情報と映画キャスティングの可能性を扱った娯楽記事で、ロシアとの直接的な関わりはない"
+    }
+  }
+]
