@@ -1,0 +1,122 @@
+[
+  {
+    "source": "BBC",
+    "title": "Республиканцы начали критиковать Трампа за разгром на выборах. Джей Ди Вэнс заявил, что главная причина — война с Ираном",
+    "link": "https://www.bbc.com/russian/articles/c687zvynyyrjo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国の選挙結果と共和党内の議論が主題で、「sокрушительное поражение（壊滅的な敗北）」など評価的表現があり、ロシアとの直接的な関係がない"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Почему поражение республиканцев на промежуточных выборах оказалось настолько тяжелым? Пять причин",
+    "link": "https://www.bbc.com/russian/articles/cq4g15jr2r1no?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 1,
+      "reason": "米国中間選挙に関する分析記事で、民主党の勝利を「圧倒的」と表現するなど、やや評価的な書きぶりがあるが、複数の理由を客観的に説明しており、ロシアとの関連性はない。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Почему республиканцы проиграли выборы в США и что это поражение значит для Трампа? Текстовая версия подкаста «Что это было» с американисткой Александрой Филиппенко",
+    "link": "https://www.bbc.com/russian/articles/ckd6d8ggdv7zo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 1,
+      "reason": "米国中間選挙の分析記事で、民主党の勝因を経済などの要因から解説する内容だが、ポッドキャスト形式の対談であり一定の解釈が含まれている。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "«Причина нашего поражения — война». Что в партии Трампа думают о промежуточных выборах — и кого винят в поражении",
+    "link": "https://meduza.io/feature/2026/11/04/prichina-nashego-porazheniya-voyna",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "米国の中間選挙結果と共和党内の議論を報道する記事で、事実報道が中心だが見出しに評価的表現があり、ロシアとの関係性はない"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Крыму из-за перебоев с электричеством, вызванных ударами ВСУ, продлили школьные каникулы",
+    "link": "https://meduza.io/news/2026/11/04/v-krymu-iz-za-pereboev-s-elektrichestvom-vyzvannyh-udarami-vsu-prodlili-shkolnye-kanikuly",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 4,
+      "reason": "クリミアの電力インフラへのウクライナ軍による攻撃とそれに伴う学校休暇延長という戦争関連の事実を報道しているが、ロシア側の公式発表を引用する形で構成されており、一定の観点の偏りがある"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Яна Лантратова и Кирилл Дмитриев приедут в Вашингтон на встречу с Меланией Трамп и представителями Украины",
+    "link": "https://meduza.io/news/2026/11/04/yana-lantratova-i-kirill-dmitriev-priedut-v-vashington-na-vstrechu-s-melaniey-tramp-i-predstavitelyami-ukrainy",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "米国での平和交渉に関するロシアの公式な参加予定を報告した記事で、事実中心の報道だが、ペスコフの皮肉的な発言「ビザを持っていない可能性」が若干の評価性を含む"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Судья показал в одном матче рекордные для футбола 53 красные карточки",
+    "link": "https://www.rbc.ru/sport/02/11/2026/6ae8dc1f137ad2ed9e143ee4",
+    "meta": {
+      "category": "sports",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 1,
+      "reason": "ブラジルの地域リーグの一試合の異例な事件を報じた短いニュースで、事実報道が中心だが«массовая драка»«провокационными жестами»など評価的表現が含まれ、ロシアとの関わりはない"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Венгрия открыла архивы спецслужб периода коммунизма",
+    "link": "https://www.rbc.ru/politics/12/09/2026/6aa45844a34493da3548589a",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "ハンガリーの共産主義期の秘密警察アーカイブ公開という政治的な歴史問題を、首相の発言を中心に事実ベースで報道しており、ロシアとの直接的な関係はない。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Министра экономики Баварии нашли мертвым в отеле в Берлине",
+    "link": "https://www.rbc.ru/society/04/11/2026/6aeb25260d6cdd0c34bbab15",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ドイツの政治家の訃報であり、事実的に報道されているが、ロシアとの関連性がなく、また詳細な背景情報に乏しい速報である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "NASA утвердило намеченный на четверг выход астронавтов МКС в открытый космос",
+    "link": "https://www.interfax.ru/world/1127050",
+    "meta": {
+      "category": "science",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 1,
+      "reason": "国際宇宙ステーション上での米国とカナダの宇宙飛行士による宇宙活動について、事実中心で淡々と報道されている短い速報であり、ロシアとの直接的な関わりはない。"
+    }
+  }
+]

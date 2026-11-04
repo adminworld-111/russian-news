@@ -1,0 +1,26 @@
+[
+  {
+    "source": "Interfax",
+    "title": "NASA утвердило намеченный на четверг выход астронавтов МКС в открытый космос",
+    "link": "https://www.interfax.ru/world/1127050",
+    "meta": {
+      "category": "science",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 1,
+      "reason": "国際宇宙ステーション上での米国とカナダの宇宙飛行士による宇宙活動について、事実中心で淡々と報道されている短い速報であり、ロシアとの直接的な関わりはない。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "«Причина нашего поражения — война». Что в партии Трампа думают о промежуточных выборах — и кого винят в поражении",
+    "link": "https://meduza.io/feature/2026/11/04/prichina-nashego-porazheniya-voyna",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "米国の中間選挙結果と共和党内の議論を報道する記事で、事実報道が中心だが見出しに評価的表現があり、ロシアとの関係性はない"
+    }
+  }
+]
