@@ -1,0 +1,38 @@
+[
+  {
+    "source": "Interfax",
+    "title": "Астронавты вернулись на борт МКС после установки новой солнечной панели",
+    "link": "https://www.interfax.ru/world/1127301",
+    "meta": {
+      "category": "science",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 1,
+      "reason": "国際宇宙ステーションの太陽電池パネル設置という宇宙科学分野の技術的な事実報道であり、ロシアとの直接的な関連性はほぼない。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Доля экспортной выручки в нацвалютах, возвращаемой в РФ, приближается к 90%",
+    "link": "https://www.interfax.ru/russia/1127303",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシアの外貨収入管理政策の実施状況を事実ベースで報道しており、政府官僚の発言を引用する形式で政策成果を伝えている記事。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Президент Парагвая объявил об отставке на фоне протестов и скандала с банком Ueno",
+    "link": "https://www.bbc.com/russian/articles/ck87zzg0d15wo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "パラグアイの大統領辞任を中心とした政治ニュースで、銀行危機と国内抗議運動の背景が説明されており、ロシアとの関連性はない"
+    }
+  }
+]

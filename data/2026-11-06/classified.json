@@ -1,0 +1,158 @@
+[
+  {
+    "source": "BBC",
+    "title": "«Без меня прекращения огня не было бы». Мелания Трамп приняла в Белом доме делегации из России и Украины после миссии в Алешках",
+    "link": "https://www.bbc.com/russian/articles/cm0qkxxx2q9no?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナ侵攻中の停戦交渉と人道支援ミッションが話題の中心であり、メラニア・トランプの個人的役割を強調する一方的な叙述が見られる"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Война в Украине: украинский омбудсмен вручил Мелании Трамп орден за помощь с эвакуацией из Алешек; число жертв в Камышевахе увеличилось до 43",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 4,
+      "reason": "ウクライナの戦争被害と国際支援が主な話題であり、ゼレンスキー大統領の感謝表現が含まれるため中立性は中程度である"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Президент Парагвая объявил об отставке на фоне протестов и скандала с банком Ueno",
+    "link": "https://www.bbc.com/russian/articles/ck87zzg0d15wo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "パラグアイの大統領辞任を中心とした政治ニュースで、銀行危機と国内抗議運動の背景が説明されており、ロシアとの関連性はない"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Британского стендапера Рассела Брэнда признали виновным в изнасиловании",
+    "link": "https://meduza.io/news/2026/11/05/britanskogo-stendapera-rassela-brenda-priznali-vinovnym-v-iznasilovanii",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "英国の著名コメディアンの性犯罪裁判判決についての速報で、ロシアとの関係はなく、事実報道が中心だが学習教材としての深さに欠ける"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Пророссийский активист из Латвии переехал в Подмосковье из-за несогласия с политикой страны. В России его обвинили в мошенничестве и отправили на войну",
+    "link": "https://meduza.io/news/2026/11/05/prorossiyskiy-aktivist-iz-latvii-pereehal-v-podmoskovie-iz-za-nesoglasiya-s-politikoy-strany-v-rossii-ego-obvinili-v-moshennichestve-i-otpravili-na-voynu",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 4,
+      "reason": "ラトビアの親ロシア活動家がロシアに移住後、詐欺容疑で起訴され戦地に送られた事例で、戦争と個人の政治的選択が中心だが、一部の政治的評価（«несогласия с политикой»など）が含まれている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Петербурге полиция сорвала вечер писем политзаключенным",
+    "link": "https://meduza.io/news/2026/11/05/v-peterburge-politsiya-sorvala-vecher-pisem-politzaklyuchennym",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア国内の政治的集会への警察介入という国内政治の記事だが、警察行動に対する批判的な表現が含まれており中立性が低い"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Трамп заявил, что встретился с Дмитриевым в США",
+    "link": "https://www.rbc.ru/politics/06/11/2026/6aecf7a72a64df9788ee501b",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 3,
+      "reason": "米国大統領とロシア政府関係者の会談という外交的接触を事実的に報道しており、ウクライナの人道問題も関連する国際政治の記事だが、速報的で詳細が限定的である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Сеул и Киев свернули проект военного ИИ после дипломатического скандала",
+    "link": "https://www.rbc.ru/politics/20/10/2026/6ad702e7c623fa0e531e1f84",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "韓国とウクライナ間の外交紛争によるAI軍事プロジェクト中止という政治的事件を事実中心に報道しており、ロシアとの関係性は認められない。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Мировой суд Москвы взыскал с Say Agency более 80 тыс. рублей",
+    "link": "https://www.rbc.ru/society/06/11/2026/6aecf5f5b2becba06fa6167c",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "モスクワの地方裁判所がキャンセルされたコンサート関連の訴訟で企業に賠償金を命じた事件報道で、事実中心だが速報性が高く内容が限定的である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Доля экспортной выручки в нацвалютах, возвращаемой в РФ, приближается к 90%",
+    "link": "https://www.interfax.ru/russia/1127303",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシアの外貨収入管理政策の実施状況を事実ベースで報道しており、政府官僚の発言を引用する形式で政策成果を伝えている記事。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Росфинмониторинг заморозил свыше 1 млрд рублей на счетах, связанных с терроризмом",
+    "link": "https://www.interfax.ru/russia/1127302",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア金融監視局の長官による公式発表で、テロ資金の監視・凍結に関するロシア国内政策の報道だが、ウクライナに対する「不幸にも」といった評価的表現が含まれている。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Астронавты вернулись на борт МКС после установки новой солнечной панели",
+    "link": "https://www.interfax.ru/world/1127301",
+    "meta": {
+      "category": "science",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 1,
+      "reason": "国際宇宙ステーションの太陽電池パネル設置という宇宙科学分野の技術的な事実報道であり、ロシアとの直接的な関連性はほぼない。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "«Одиссея» Нолана обеспечила IMAX рекордную квартальную выручку",
+    "link": "https://www.kommersant.ru/doc/9081172",
+    "meta": {
+      "category": "culture",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 1,
+      "reason": "ハリウッド映画監督ノーランの伝記的情報と『オデッセイ』のIMAX興収記録に関する記事だが、ノーランの経歴叙述に「哲学的ブロックバスターの巨匠」などの評価的表現が含まれており、ロシアとの関連性はない。"
+    }
+  }
+]
