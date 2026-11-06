@@ -1,0 +1,38 @@
+[
+  {
+    "source": "RBK",
+    "title": "Октябрь 2026 года назвали самым теплым в истории метеонаблюдений",
+    "link": "https://www.rbc.ru/education/31/08/2026/6a7dc4ff9a7947926a497251",
+    "meta": {
+      "category": "science",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "気候変動に関する科学的データを報告した記事で、事実中心の構成だが、ロシア関連の具体的な内容がなく、国際的な気候科学の話題である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Путин передал еще ряд активов производителя Winston во внешнее управление",
+    "link": "https://www.rbc.ru/business/07/11/2026/6aee418f3d849af9e9b0e752",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア大統領がタバコ企業の資産を一時管理下に置いたという経済的措置についての事実報道であり、評価的表現はほぼなく、ロシア国内経済が話題の中心である。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Трамп назначил новым главой аппарата Белого дома борца с иммиграцией Стивена Миллера",
+    "link": "https://www.bbc.com/russian/articles/cmlyllzxxjveo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国の行政人事の異動を事実ベースで報道した記事で、ロシアとの直接的な関わりはない"
+    }
+  }
+]

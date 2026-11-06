@@ -1,0 +1,134 @@
+[
+  {
+    "source": "BBC",
+    "title": "Трамп ослаблен после победы демократов на промежуточных выборах. Что это значит для войны в Украине?",
+    "link": "https://www.bbc.com/russian/articles/cjly0036r2kgo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "米国の政治変化がウクライナ戦争への米国の対応にどう影響するかを分析した記事で、トランプ氏の政策評価が含まれるが、背景と論点が提示されており、学習価値がある。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Трамп назначил новым главой аппарата Белого дома борца с иммиграцией Стивена Миллера",
+    "link": "https://www.bbc.com/russian/articles/cmlyllzxxjveo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国の行政人事の異動を事実ベースで報道した記事で、ロシアとの直接的な関わりはない"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Война в Украине: удар по Сумам; Зеленский заявил о возможности новой атаки на энергетику и инфраструктуру",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナ大統領の見通しと軍事支援要請が中心で、事実報道として標準的だが、ロシア側の意図の記述に一定の解釈が含まれている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Трамп назначил главой аппарата Белого дома Стивена Миллера. Он один из самых радикальных представителей его администрации",
+    "link": "https://meduza.io/news/2026/11/06/tramp-naznachil-glavoy-apparata-belogo-doma-stivena-millera-on-odin-iz-samyh-radikalnyh-predstaviteley-ego-administratsii",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国内政の人事異動を報じた記事だが、見出しと本文で「最も急進的な代表の一人」「最も厳しいイニシアティブの建築家」など評価的表現が含まれており、中立性が低い。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Netflix показал тизер сериала «Иные миры» — предыстории «Очень странных дел»",
+    "link": "https://meduza.io/news/2026/11/06/netflix-pokazal-tizer-seriala-inye-miry-predystorii-ochen-strannyh-del",
+    "meta": {
+      "category": "culture",
+      "neutrality": 5,
+      "value": 2,
+      "russia": 1,
+      "reason": "Netflixの新作ドラマ企画に関する娯楽ニュースで、ロシアとの関わりがなく、事実中心の速報的な報道である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Европейские телеканалы вслед за авиакомпаниями получили предупреждения о минировании. Угрозы им прислал «Михаил Андропов»",
+    "link": "https://meduza.io/news/2026/11/06/evropeyskie-telekanaly-vsled-za-aviakompaniyami-poluchili-preduprezhdeniya-o-minirovanii-ugrozy-im-prislal-mihail-andropov",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 2,
+      "reason": "複数のヨーロッパのテレビ局への爆発予告という事件報道であり、ロシアとの直接的な関連は不明だが、犯人が「ミハイル・アンドロポフ」という名義を使用しており、わずかなロシア文化的参照が含まれている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Октябрь 2026 года назвали самым теплым в истории метеонаблюдений",
+    "link": "https://www.rbc.ru/education/31/08/2026/6a7dc4ff9a7947926a497251",
+    "meta": {
+      "category": "science",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "気候変動に関する科学的データを報告した記事で、事実中心の構成だが、ロシア関連の具体的な内容がなく、国際的な気候科学の話題である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Папа римский объяснил участие в голосовании на выборах гордостью за США",
+    "link": "https://www.rbc.ru/society/13/10/2026/6ace7341d2ead36224bc1750",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国の中間選挙投票に関する記事で、ロシアとの関連性はなく、教材としての価値は限定的であるが、教皇の発言が引用されており評価的表現が一部含まれている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Путин передал еще ряд активов производителя Winston во внешнее управление",
+    "link": "https://www.rbc.ru/business/07/11/2026/6aee418f3d849af9e9b0e752",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア大統領がタバコ企業の資産を一時管理下に置いたという経済的措置についての事実報道であり、評価的表現はほぼなく、ロシア国内経済が話題の中心である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Папа римский начал поездку по трем странам Южной Америки",
+    "link": "https://www.interfax.ru/world/1127512",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ロシアとほぼ関係のない南米でのカトリック指導者の外交訪問を報道する記事で、事実中心だが情報量が限定的である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Трамп объявил о назначении Стивена Миллера главой аппарата Белого дома",
+    "link": "https://www.interfax.ru/world/1127509",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国大統領府の人事異動を事実ベースで報道した記事で、ロシアとの関連性はほぼなく、標準的なニュース価値を持つ"
+    }
+  }
+]
