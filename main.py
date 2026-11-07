@@ -59,7 +59,7 @@ BODY_AREA = {
 }
 
 # 収集と選定のルール
-PER_FEED = 3          # 各媒体から試す記事数
+PER_FEED = 6          # 各媒体から試す記事数
 MIN_LENGTH = 500      # これ未満の本文はスキップ
 EXCLUDE = {"war"}     # 除外するジャンル
 MIN_NEUTRALITY = 4    # 中立度の下限（1〜5）
@@ -242,7 +242,9 @@ def collect_and_select():
                   and a["meta"]["category"] not in EXCLUDE
                   and a["meta"]["neutrality"] >= MIN_NEUTRALITY
                   and a["meta"].get("value", 0) >= MIN_VALUE]
-    candidates.sort(key=lambda a: (priority_of(a), -a["meta"]["neutrality"]))
+    candidates.sort(key=lambda a: (-a["meta"].get("russia", 0),   # ① ロシア関連度の高い順
+                                   priority_of(a),                 # ② ジャンルの優先順
+                                   -a["meta"]["neutrality"]))      # ③ 中立度の高い順
 
     selected, used = [], set()
     for a in candidates:
