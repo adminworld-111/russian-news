@@ -1,0 +1,254 @@
+[
+  {
+    "source": "BBC",
+    "title": "Стрельба в Кракове: убиты по меньшей мере шесть человек. Власти говорят, что у нападавшего были ультраправые взгляды",
+    "link": "https://www.bbc.com/russian/articles/cwzd695epv57o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "ポーランドでの銃乱射事件の事実報道だが、当局者の発言を引用する際に「テロ行為」という評価的表現が含まれており、ロシアとの関係はない"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Президент Израиля поручит Айзенкоту сформировать новое правительство",
+    "link": "https://www.bbc.com/russian/articles/cqp8g6l5gl3xo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "イスラエルの内政問題であり、政権樹立交渉についての事実報道で、ロシアとの直接的な関わりはない。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Война в Украине: Россия назвала состав своей делегации на переговорах в Абу-Даби; в Киеве поврежден Северный мост",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナ戦争に関する記事で、ロシアの交渉団派遣とキーフ攻撃という軍事的事実を報道しつつ、イギリスのゼレンスキー支援姿勢についても記述しており、一部に評価的表現が含まれている。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "«Дана, пожалуйста, возьмись за эту работу!» Трамп предложил пост пресс-секретаря Белого дома боссу UFC",
+    "link": "https://www.bbc.com/russian/articles/cm79p285r89wo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "アメリカの政治ニュースであり、ロシアとは直接的な関わりがなく、トランプ大統領のソーシャルメディア投稿という短い速報的内容である。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Подготовка к политической битве с Конгрессом? О чем говорит назначение Стивена Миллера главой аппарата Белого дома",
+    "link": "https://www.bbc.com/russian/articles/cw33xgn44m2go?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 1,
+      "reason": "米国内政の人事異動を報じた記事で、ロシアとほぼ関係がなく、記事はミラー指名の政治的意図について分析的に解釈する表現を含む"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Новая Ялта? Зачем нужна встреча Путина, Трампа и Си Цзиньпиня",
+    "link": "https://www.bbc.com/russian/articles/cm86zz48v5d5o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "三首脳会談の可能性を報じた外交ニュースで、ヨーロッパの懸念やエキスパートの見解など複数の視点を示しているが、「新しいヤルタ」という見出しや歴史的比較により若干の解釈的フレーミングが加えられている。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Силовики провели рейд на Китай-городе. Телеграм-каналы сообщают о 100 задержанных, среди них есть несовершеннолетние",
+    "link": "https://meduza.io/news/2026/11/07/siloviki-proveli-reyd-na-kitay-gorode-telegram-kanaly-soobschayut-o-sotnyah-zaderzhannyh-sredi-nih-mogut-byt-nesovershennoletnie",
+    "meta": {
+      "category": "incident",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 5,
+      "reason": "モスクワの警察による大規模の取り締まり事件を事実報告していますが、テレグラムチャネルの情報に依存し、人数の幅がある（100～150人）など検証されていない情報が含まれており、中立性がやや欠けています。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "«Холод»: россияне рассказали, что их допрашивают в аэропорту Берлина. Спрашивают о войне и мобилизации",
+    "link": "https://meduza.io/news/2026/11/07/holod-rossiyane-rasskazali-chto-ih-doprashivayut-v-aeroportu-berlina-sprashivayut-o-voyne-i-mobilizatsii",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 4,
+      "reason": "ドイツの入国管理がロシア国民にインタビューを実施している事例報告で、ロシア国内の状況が質問対象となっており、事実報道が中心だが出典の媒体名を強調する書き方に若干の編集的意図が見られる"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Преступник открыл стрельбу по прохожим на рыночной площади в Кракове. Погибли шесть человек. Главное",
+    "link": "https://meduza.io/feature/2026/11/07/prestupnik-otkryl-strelbu-po-prohozhim-na-rynochnoy-ploschadi-v-krakove-pogibli-pyat-chelovek",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ポーランドのクラクフで発生した銃撃事件の速報で、事実を中心に報道しているが、ロシアとの関係がなく、教材価値は限定的である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Apple запретила писать с помощью свайпов 100 тысяч слов и выражений. Среди них — «Dictator Trump», а на русском — фразы о Путине и вводе войск",
+    "link": "https://meduza.io/feature/2026/11/07/apple-zapretila-pisat-s-pomoschyu-svaypov-100-tysyach-slov-i-vyrazheniy-sredi-nih-dictator-trump-a-na-russkom-frazy-o-putine-i-vvode-voysk",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "Appleの言葉フィルタリング機能についての技術的事実を報道しており、ロシア関連の政治的表現が含まれていることを客観的に伝えている記事"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "На рыночной площади в Кракове произошла стрельба. Есть погибшие",
+    "link": "https://meduza.io/news/2026/11/07/na-rynochnoy-ploschadi-v-krakove-proizoshla-strelba-est-pogibshie",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ポーランドのクラクフでの銃撃事件の速報で、事実を中心に報道しているが、ロシアとの関連性がなく、背景や詳細な分析に乏しい短編の事件報道である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Финляндия хочет перенять опыт Украины и построить противотанковые заграждения на границе с Россией",
+    "link": "https://meduza.io/news/2026/11/07/finlyandiya-hochet-perenyat-opyt-ukrainy-i-postroit-protivotankovye-ograzhdeniya-na-granitse-s-rossiey",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 3,
+      "reason": "ウクライナの防御技術をフィンランドが導入する軍事的取り組みについて、ロシアの脅威に対応する防衛戦略の話題として報道している。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Российский ученый ответил на отмену лекций в Грузии словами о выходном",
+    "link": "https://www.rbc.ru/rbcfreenews/6a5637479a794714c65655f6",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 2,
+      "russia": 4,
+      "reason": "ロシア人科学者の講演キャンセルについて、ロシア側の反発的な発言を中心に報道しており、グルジアの決定に対して批判的・皮肉的な表現が記事全体に込められている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "МИД ответил на обвинения Совбеза Армении в бездействии в Карабахе",
+    "link": "https://www.rbc.ru/politics/05/02/2026/698465489a79470a6681ae1a",
+    "meta": {
+      "category": "war",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 4,
+      "reason": "ロシア外交官による防御的・皮肉的な反論が主で、事実報道を超えた評価的表現が含まれているが、カラバフ紛争に関するロシアの対応という戦争関連の重要な外交発言である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "При стрельбе в Кракове пострадала россиянка",
+    "link": "https://www.rbc.ru/society/08/11/2026/6aefa3bc3c02e1f36c5b67ff",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 3,
+      "reason": "ポーランドの事件報道ですが、ロシア国民が被害者であり、ロシア大使館の対応を中心に事実を淡々と伝えている短い速報です。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "CNN сообщил, что глава UFC отклонил предложение Трампа",
+    "link": "https://www.rbc.ru/politics/08/11/2026/6aef9e5f3c02e1f36c5b67fb",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 2,
+      "reason": "米国大統領の人事異動に関する政治ニュースだが、異なる報道機関による矛盾した報道が混在しており、事実確認が不完全で、ロシアとの関連は登場人物の国籍程度である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Более 300 тыс. абонентов остались без света в ЛНР после атаки БПЛА",
+    "link": "https://www.rbc.ru/rbcfreenews/6ae047e60d56109cf3d31ca0",
+    "meta": {
+      "category": "war",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 4,
+      "reason": "ウクライナ軍の攻撃による被害報道だが、«киевские боевики»など評価的表現が含まれており、ロシア側の公式発表をそのまま報じた一方的な構成になっている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Среди погибших при стрельбе в Кракове оказался гражданин Великобритании",
+    "link": "https://www.rbc.ru/photoreport/07/11/2026/6aef50a42c019b5bf073865a",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ポーランドのクラクフでの銃撃事件の被害者情報を伝える事実報道であり、ロシアとは直接的な関係がない"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Военные США нанесли удар по торговому судну в Оманском заливе",
+    "link": "https://www.interfax.ru/world/1127625",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国によるイラン海上封鎖に関連した軍事行動の事実報道であり、ロシアとの直接的な関係はなく、速報的な内容である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Глава UFC отказался от поста пресс-секретаря Белого дома",
+    "link": "https://www.interfax.ru/world/1127624",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国大統領とUFC会長の人事をめぐる速報であり、ロシアとはほぼ無関係で、事実の簡潔な報道が中心である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Россиянка ранена в результате стрельбы в Кракове",
+    "link": "https://www.interfax.ru/world/1127623",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 3,
+      "reason": "ポーランドのクラクフでの銃撃事件を報道しており、ロシア国民が負傷者に含まれることがロシアとの関連性であり、基本的に事実中心だが短い速報である"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "source": "Meduza",
+    "title": "Apple запретила писать с помощью свайпов 100 тысяч слов и выражений. Среди них — «Dictator Trump», а на русском — фразы о Путине и вводе войск",
+    "link": "https://meduza.io/feature/2026/11/07/apple-zapretila-pisat-s-pomoschyu-svaypov-100-tysyach-slov-i-vyrazheniy-sredi-nih-dictator-trump-a-na-russkom-frazy-o-putine-i-vvode-voysk",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "Appleの言葉フィルタリング機能についての技術的事実を報道しており、ロシア関連の政治的表現が含まれていることを客観的に伝えている記事"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Президент Израиля поручит Айзенкоту сформировать новое правительство",
+    "link": "https://www.bbc.com/russian/articles/cqp8g6l5gl3xo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "イスラエルの内政問題であり、政権樹立交渉についての事実報道で、ロシアとの直接的な関わりはない。"
+    }
+  }
+]
