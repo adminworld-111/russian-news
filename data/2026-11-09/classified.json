@@ -1,0 +1,278 @@
+[
+  {
+    "source": "BBC",
+    "title": "Война в Украине: в Одесской области перебои со светом после удара; в Кременчуге дроны атаковали жилой дом и гостиницу",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 3,
+      "reason": "ウクライナ戦争中のロシアによるドローン攻撃による被害状況を、被害地域の行政トップの発表に基づいて報道した事実中心の速報記事である。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Президент Израиля поручил сформировать новое правительство лидеру оппозиции Айзенкоту",
+    "link": "https://www.bbc.com/russian/articles/cqp8g6l5gl3xo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "イスラエルの政権交代に関する事実報道で、評価的表現がほとんどなく、ロシアとの関連がない。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Столкновение поездов в Египте: по меньшей мере семь погибших, более 100 раненых",
+    "link": "https://www.bbc.com/russian/articles/ckvg72z41p00o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "エジプトの列車衝突事故に関する速報で、事実中心の報道だが、ロシアとは無関係の国際事件である"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "В Германии спорят о том, что делать с разрушенной горной резиденцией Гитлера «Орлиное гнездо»",
+    "link": "https://www.bbc.com/russian/articles/cmqlnq45l60zo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "ドイツのナチス遺跡をめぐる保存か破壊かの社会的議論が主題で、ロシアとの関わりはない。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Стрельба в Кракове: убиты шесть человек, власти заявили об ультраправых взглядах нападавшего, в его доме найдены тела еще трех человек",
+    "link": "https://www.bbc.com/russian/articles/cwzd695epv57o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 2,
+      "reason": "ポーランドのクラクフで起きた銃撃事件の速報であり、事実報道が中心だが、被害者にロシア国籍者が含まれている点のみでロシアとの関わりが限定的である。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Тихий океан лихорадит из-за Эль-Ниньо: в Восточной Азии тайфуны идут один за другим",
+    "link": "https://www.bbc.com/russian/articles/cqgkv54k8nxvo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "東アジアの台風被害を事実中心に報道した記事で、ロシアとの関わりはなく、気象現象による自然災害が話題の中心である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Зеленский заявил, что под прикрытием гуманитарной операции в Херсонской области Россия провела ротацию войск",
+    "link": "https://meduza.io/news/2026/11/08/zelenskiy-zayavil-chto-pod-prikrytiem-gumanitarnoy-operatsii-v-hersonskoy-oblasti-rossiya-provela-rotatsiyu-voysk",
+    "meta": {
+      "category": "war",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナ大統領の一方的な主張を中心に報道しており、ロシア側の反論は後付けで、ウクライナの主張に重点が置かれている。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "«Трасса» остановила работу. Она была одной из крупнейших независимых сетей АЗС в Москве и Московской области",
+    "link": "https://meduza.io/news/2026/11/08/trassa-ostanovila-rabotu-ona-byla-odnoy-iz-krupneyshih-nezavisimyh-setey-azs-v-moskve-i-moskovskoy-oblasti",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "モスクワ地域の独立系ガソリンスタンドチェーンの経営危機と閉鎖を扱った経済ニュースであり、事実中心の報道で評価的表現がほぼなく、ロシア国内の経済問題が話題の中心である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Берлине активисты сняли главный официальный флаг Германии — он находится у Рейхстага. И повесили палестинский",
+    "link": "https://meduza.io/news/2026/11/08/v-berline-aktivisty-snyali-glavnyy-ofitsialnyy-flag-germanii-on-nahoditsya-u-reyhstaga-i-povesili-palestinskiy",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ベルリンでの活動家による旗交換事件を報道した短い速報記事で、ロシアとの関連性はない。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Великобритания запретит детям до 16 лет пользоваться eBay и Vinted. А до этого — фейсбуком и инстаграмом",
+    "link": "https://meduza.io/news/2026/11/08/velikobritaniya-zapretit-detyam-do-16-let-polzovatsya-ebay-i-vinted-a-do-etogo-feysbukom-i-instagramom",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "イギリスの児童保護政策に関する報道であり、ロシアとの関連性がなく、事実中心で標準的な報道内容である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Сборная Норвегии по хоккею сообщила, что ее выгнали с молодежного чемпионата мира. И добавили туда Россию",
+    "link": "https://meduza.io/news/2026/11/08/sbornaya-norvegii-po-hokkeyu-soobschila-chto-ee-vygnali-s-molodezhnogo-chempionata-mira-i-dobavili-tuda-rossiyu",
+    "meta": {
+      "category": "sports",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 3,
+      "reason": "アイスホッケーの国際大会におけるノルウェー代表の除外とロシア代表の参加に関する速報で、事実報道が中心だが、矛盾した状況（公式スケジュールに残存、チケット販売中など）を強調する書き方に若干の評価的ニュアンスがある"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Российские военные атаковали дроном спасателей, разбирающих завалы в Камышевахе. Там в результате удара РФ по убежищу погибли более 50 человек",
+    "link": "https://meduza.io/news/2026/11/08/rossiyskie-voennye-atakovali-dronom-spasateley-razbirayuschih-zavaly-v-kamyshevahe-tam-v-rezultate-udara-rf-po-ubezhischu-pogibli-bolee-50-chelovek",
+    "meta": {
+      "category": "war",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 4,
+      "reason": "ウクライナ側の公式発表と被害報告が中心で、ロシア側の説明や反論がなく、「絶対的な冷酷さと残虐性」といった評価的表現が含まれているため中立性が低い"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Министр спорта Словакии призвал допустить российских хоккеистов до ЧМ",
+    "link": "https://www.rbc.ru/rbcfreenews/6aefcf97f07a758c7ac38ab0",
+    "meta": {
+      "category": "sports",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 3,
+      "reason": "スロバキア体育相のロシア選手の出場認可を求める発言が中心で、スポーツと政治の関係についての立場表明が含まれており、一定の評価的トーンがある"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Хостинг-провайдер ESTT сообщил о «серьезном сбое»",
+    "link": "https://www.rbc.ru/technology_and_media/09/11/2026/6af0e11416a877722eec188a",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 4,
+      "reason": "ロシアのホスティング企業の技術障害についての速報で、事実中心の報道だが詳細情報が限定的である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Немецкий замок XIII века выставили на продажу за €1",
+    "link": "https://www.rbc.ru/rbcfreenews/6917264b9a794746f95e27cc",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ドイツの古城売却ニュースで、事実報道が中心だがロシアとの関連性がなく、短い速報的な内容である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Nvidia начала расследование данных о романе CEO со шпионкой из Китая",
+    "link": "https://www.rbc.ru/politics/25/10/2026/6add9b4c3e25f9d388f7ba3f",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "アメリカの大手IT企業Nvidiaの経営陣に関わるインシデント報道であり、ロシアとの関連性がほぼないため。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "В Минобороны анонсировали переход на доставку грузов к фронту дронами",
+    "link": "https://www.rbc.ru/politics/15/10/2025/66713a2c9a7947722455495e",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア国防省による前線での物資輸送方法の転換に関する公式発表で、軍事作戦の実情が述べられており、ロシアの戦争遂行と直結した話題だが、官僚的な説明が中心であるとともに『キル・ゾーン』といった一方的な表現が含まれている。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Турнирная таблица РПЛ сезона 2026/27",
+    "link": "https://www.rbc.ru/sport/08/11/2026/6af06d318575a3c3c097c576",
+    "meta": {
+      "category": "sports",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア・プレミアリーグの第14節の順位表と結果を事実的に報道する速報記事で、ロシア国内のスポーツが話題の中心である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Трамп просил Нетаньяху воплотить в жизнь американский мирный план по Газе",
+    "link": "https://www.interfax.ru/world/1127715",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国とイスラエル間の中東和平交渉に関する報道で、ロシアとの直接的な関係がなく、事実ベースで報道されている"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Главы МИД РФ и Перу проведут переговоры в Москве",
+    "link": "https://www.interfax.ru/russia/1127714",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 4,
+      "reason": "ロシアとペルーの外交訪問に関する事実報道で、評価的表現は控えめだが、短い速報的な内容に留まっている"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Mercedes выиграл Кубок конструкторов \"Формулы-1\"",
+    "link": "https://www.sport-interfax.ru/1127711",
+    "meta": {
+      "category": "sports",
+      "neutrality": 5,
+      "value": 2,
+      "russia": 1,
+      "reason": "F1レースの結果を事実的に報道した速報で、ロシアとの関連性がなく、学習教材としての価値は限定的である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Россия готова продолжать военно-техническое сотрудничество с Арменией",
+    "link": "https://www.interfax.ru/world/1127710",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア駐アルメニア大使の軍事技術協力継続意思を報じた記事で、ロシアの政治的立場を直接伝える発言が中心だが、評価的表現は最小限であり、事実報道として比較的中立的である"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Роберт Паттинсон стал одним из кандидатов на роль Джеймса Бонда",
+    "link": "https://www.kommersant.ru/doc/9092031",
+    "meta": {
+      "category": "culture",
+      "neutrality": 5,
+      "value": 1,
+      "russia": 1,
+      "reason": "ハリウッド俳優の配役候補に関する短い速報であり、ロシアとの関係がなく、人名の列挙が中心の事務的な内容である。"
+    }
+  }
+]

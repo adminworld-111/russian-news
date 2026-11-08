@@ -1,0 +1,38 @@
+[
+  {
+    "source": "Meduza",
+    "title": "«Трасса» остановила работу. Она была одной из крупнейших независимых сетей АЗС в Москве и Московской области",
+    "link": "https://meduza.io/news/2026/11/08/trassa-ostanovila-rabotu-ona-byla-odnoy-iz-krupneyshih-nezavisimyh-setey-azs-v-moskve-i-moskovskoy-oblasti",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "モスクワ地域の独立系ガソリンスタンドチェーンの経営危機と閉鎖を扱った経済ニュースであり、事実中心の報道で評価的表現がほぼなく、ロシア国内の経済問題が話題の中心である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Россия готова продолжать военно-техническое сотрудничество с Арменией",
+    "link": "https://www.interfax.ru/world/1127710",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア駐アルメニア大使の軍事技術協力継続意思を報じた記事で、ロシアの政治的立場を直接伝える発言が中心だが、評価的表現は最小限であり、事実報道として比較的中立的である"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Стрельба в Кракове: убиты шесть человек, власти заявили об ультраправых взглядах нападавшего, в его доме найдены тела еще трех человек",
+    "link": "https://www.bbc.com/russian/articles/cwzd695epv57o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 2,
+      "reason": "ポーランドのクラクフで起きた銃撃事件の速報であり、事実報道が中心だが、被害者にロシア国籍者が含まれている点のみでロシアとの関わりが限定的である。"
+    }
+  }
+]
