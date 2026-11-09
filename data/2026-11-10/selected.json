@@ -1,0 +1,38 @@
+[
+  {
+    "source": "Kommersant_Culture",
+    "title": "«Это история сотворения Владимира Маяковского» // Константин Эрнст — о Лиле Брик, Владимире Маяковском, любви и кино",
+    "link": "https://www.kommersant.ru/doc/9092153",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシアの著名な映画監督コンスタンチン・エルンスト氏がマヤコフスキーとリーラ・ブリックについて語るインタビュー記事で、ロシア文化・映画制作が中心であり、事実中心の報道姿勢である"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "«Мы вас вообще посадим. Не спорь». Что известно о задержаниях подростков в районе Китай-города в Москве",
+    "link": "https://www.bbc.com/russian/articles/c60mem1der9wo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "モスクワの警察による大量検挙事件を、複数の証言と異なる立場の見解を組み合わせて報道した記事で、事実中心の報道姿勢が見られる"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Канцлер Германии пригрозил заблокировать бюджет ЕС, если все страны блока не договорятся о финансовой поддержке Украины",
+    "link": "https://meduza.io/news/2026/11/09/kantsler-germanii-prigrozil-zablokirovat-semiletniy-byudzhet-es-esli-vse-strany-bloka-ne-dogovoryatsya-o-finansovoy-podderzhke-ukrainy",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 3,
+      "reason": "ドイツ首相のウクライナ支援資金に関するEU予算交渉についての報道で、事実中心だが政治的な駆け引きを伝えており、ロシアは直接登場せずもウクライナ支援という文脈で間接的に関わっている。"
+    }
+  }
+]

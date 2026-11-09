@@ -1,0 +1,314 @@
+[
+  {
+    "source": "BBC",
+    "title": "Франция обвинила Иран в организации кибератак на холодильники в супермаркетах",
+    "link": "https://www.bbc.com/russian/articles/c6rryr74p2w1o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "フランスがイランの関与を一方的に主張する政府発言が中心で、イラン側の見解がなく、フランス政府の評価的表現が目立つ"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Война в Украине: в Ленинградской области ограничили продажу бензина после атаки на НПЗ в Киришах",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "見出しと本文の不一致があり、ウクライナ戦争に関する停戦交渉を報道しているが、見出しは燃料供給制限という一面的な側面を強調している点で中立性がやや低い"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Прибыльная работа на дому: лондонский чиновник обманом получал зарплату одновременно в пяти ведомствах",
+    "link": "https://www.bbc.com/russian/articles/crvg9ge2ypdjo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ロンドンの公務員の詐欺事件についての報道で、ロシアとは無関係な事件速報である。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "«Мы вас вообще посадим. Не спорь». Что известно о задержаниях подростков в районе Китай-города в Москве",
+    "link": "https://www.bbc.com/russian/articles/c60mem1der9wo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "モスクワの警察による大量検挙事件を、複数の証言と異なる立場の見解を組み合わせて報道した記事で、事実中心の報道姿勢が見られる"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "«Роснефть» снова ограничила продажу топлива на своих заправках",
+    "link": "https://www.bbc.com/russian/articles/crd6d65ql8wwo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "ウクライナの無人機攻撃によるロシア石油精製所への被害とそれに伴う燃料供給制限という、戦争の影響がロシア国内経済に及ぼす具体的な事象を、事実中心で報道している。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Кто такой Гади Айзенкот — главный соперник Нетаньяху, которому поручено сформировать правительство Израиля",
+    "link": "https://www.bbc.com/russian/articles/cr3wvwew41ywo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "イスラエルの選挙後の政府組閣プロセスを報道する記事で、事実中心だが、主人公の紹介的内容が中心であり、ロシアとの関係は無い。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Франция обвинила Иран в кибератаках на холодильники. От них пострадали больше 700 магазинов",
+    "link": "https://meduza.io/news/2026/11/09/frantsiya-obvinila-iran-v-kiberatakah-na-holodilniki-v-supermarketah",
+    "meta": {
+      "category": "incident",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 1,
+      "reason": "フランスがイランを非難する主張を中心に報道しており、イランの反論や検証情報が不足している一方的な記事である"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Режиссер Джеймс Ганн покинет пост главы DC. Его место займет выходец из Marvel Джереми Латчем",
+    "link": "https://meduza.io/news/2026/11/09/rezhisser-dzheyms-gann-pokinet-post-glavy-dc-ego-mesto-zaymet-vyhodets-iz-marvel-dzheremi-latchem",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ハリウッドのスタジオ経営陣交代に関する事実報道であり、ロシアとの関わりはほぼない。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Канцлер Германии пригрозил заблокировать бюджет ЕС, если все страны блока не договорятся о финансовой поддержке Украины",
+    "link": "https://meduza.io/news/2026/11/09/kantsler-germanii-prigrozil-zablokirovat-semiletniy-byudzhet-es-esli-vse-strany-bloka-ne-dogovoryatsya-o-finansovoy-podderzhke-ukrainy",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 3,
+      "reason": "ドイツ首相のウクライナ支援資金に関するEU予算交渉についての報道で、事実中心だが政治的な駆け引きを伝えており、ロシアは直接登場せずもウクライナ支援という文脈で間接的に関わっている。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Гюмри задержали двух российских военных. Их обвиняют в нападении на украинца",
+    "link": "https://meduza.io/news/2026/11/09/v-gyumri-zaderzhali-dvuh-rossiyskih-voennyh-ih-obvinyayut-v-napadenii-na-ukraintsa",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 3,
+      "reason": "アルメニア・ギュムリでロシア軍兵士がウクライナ国民に暴力を振るったという事件報道で、事実中心だが具体的背景に欠け、短めの速報性の高い内容である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Турции на металлургическом заводе произошел взрыв. 16 человек погибли",
+    "link": "https://meduza.io/news/2026/11/09/v-turtsii-na-metallurgicheskom-zavode-proizoshel-vzryv-16-chelovek-pogibli",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "トルコの工場爆発事故の速報記事で、事実的に報道されているが、ロシアとの関連性がなく、学習教材としての価値も限定的である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Торговая точка в Дортмунде решила продавать донер-кебабы по одному евро. Сотни клиентов устроили давку — пришлось вызывать полицейский вертолет",
+    "link": "https://meduza.io/news/2026/11/09/torgovaya-tochka-v-dortmunde-reshila-prodavat-doner-kebaby-po-odnomu-evro-sotni-klientov-ustroili-davku-prishlos-vyzyvat-politseyskiy-vertolet",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ドイツの食べ物屋でのプロモーション混乱事件で、ロシアとの関係性がほぼなく、社会面の短い速報的な内容である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Глава МИД Чехии извинился за слова о «мужеподобных» хоккеистках России",
+    "link": "https://www.rbc.ru/sport/07/11/2026/6aef062f2e98b80c36c01d60",
+    "meta": {
+      "category": "incident",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 2,
+      "reason": "チェコ外相の不適切な発言と謝罪という事実を報道しているが、発言の批判的側面が強調されており、ロシアとの関わりは限定的である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Рубио назвал согласие России условием гарантий безопасности Украине",
+    "link": "https://www.rbc.ru/politics/10/11/2026/6af233c3a160b28289d1b3b4",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナ戦争の停戦交渉における安全保障ガランティについて、米国務長官の発言を事実ベースで報道しており、評価的表現は控えめ"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Axios предрек беспрецедентное давление на «империю» Маска при демократах",
+    "link": "https://www.rbc.ru/politics/15/10/2026/6ad06c7915d0fa432b23fccf",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国の政治紛争に関する記事で、民主党のマスク批判を「帝国」「破壊的傾向」といった評価的な言葉で描写しており、中立性に欠ける"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "В России ввели новые требования к остановкам общественного транспорта",
+    "link": "https://www.rbc.ru/rbcfreenews/6ad8bedd81fa960692259f3a",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア国内の公共交通インフラに関する新しい国家規格の導入に関する事実報道であり、ロシア国内の社会的課題が中心である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "В Абу-Даби пройдут переговоры России, США и Украины",
+    "link": "https://www.rbc.ru/politics/03/11/2026/6ae9f014d46b0f3e02d6b2d6",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "ウクライナ紛争に関連した停戦交渉について、事実を中心に報道しているが、ロシア側の公式発表に依存した記述になっている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "The Sun предрекла миллионные потери британским компаниям из-за выхода GTA",
+    "link": "https://www.rbc.ru/technology_and_media/10/09/2026/6aa2ccf623fdb9ec6d0d9b96",
+    "meta": {
+      "category": "society",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 1,
+      "reason": "GTA VI発売によるイギリス企業の経済損失を報じた記事で、ロシアとの関わりはなく、数値と予測が中心の速報的内容である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Республиканец Мэсси представил в Конгрессе резолюцию об импичменте шефа Пентагона",
+    "link": "https://www.interfax.ru/world/1127937",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国の内政問題（ペンタゴン長官への弾劾決議）を報じており、ロシアとの関連性がなく、事実報道が中心だが一部メディア引用による背景説明がある。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Трехсторонние переговоры Россия-США-Украина пройдут в ОАЭ",
+    "link": "https://www.interfax.ru/russia/1127933",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ウクライナ情勢の停戦交渉に関する記事で、ロシア代表団の構成と参加者を客観的に報道しており、ロシアが主要な当事者として中心的役割を果たしている。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Рубио обсудил с главой МИД Франции украинское урегулирование",
+    "link": "https://www.interfax.ru/world/1127931",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナ紛争の平和解決に向けた米仏外交トップの協議を事実的に報道した記事で、ロシアはウクライナ紛争の当事者として登場するが、記事自体はG7外相会合の枠組みでの多角的協議の内容を中立的に伝えている。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Трамп и Вэнс обсудили с премьером Катара перспективы иранского урегулирования",
+    "link": "https://www.interfax.ru/world/1127930",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国とカタールの外交会談を事実中心に報道しており、ロシアとはほぼ関係がなく、イラン核問題に関する国際政治の速報である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Авианосец ВМС США \"Теодор Рузвельт\" вошел в Индийский океан",
+    "link": "https://www.interfax.ru/russia/1127929",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国空母の中東への派遣という軍事行動が報道の中心であり、事実ベースの記述であるが、ロシアとの直接的な関係性は低い"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Личность и публичность // Андрей Плахов — к годовщине смерти Ива Монтана",
+    "link": "https://www.kommersant.ru/doc/9092877",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "フランス・イタリアの著名俳優・歌手イヴ・モンタンの生涯を紹介する文化的な追悼記事で、ロシアとの関わりがほぼなく、事実中心の記述である。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "«Для нас несчастный случай — умереть в постели» // На торгах Artcurial вспомнили легендарного летчика Жана Мермоза",
+    "link": "https://www.kommersant.ru/doc/9092896",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "フランスの伝説的パイロット、ジャン・メルモズのオークション出品に関する文化的記事で、ロシアとの関わりがなく、事実中心の報道である。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "«Это история сотворения Владимира Маяковского» // Константин Эрнст — о Лиле Брик, Владимире Маяковском, любви и кино",
+    "link": "https://www.kommersant.ru/doc/9092153",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシアの著名な映画監督コンスタンチン・エルンスト氏がマヤコフスキーとリーラ・ブリックについて語るインタビュー記事で、ロシア文化・映画制作が中心であり、事実中心の報道姿勢である"
+    }
+  }
+]
