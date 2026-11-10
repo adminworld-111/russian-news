@@ -1,0 +1,266 @@
+[
+  {
+    "source": "BBC",
+    "title": "Американского военного в Британии подозревают в шпионаже в пользу России",
+    "link": "https://www.bbc.com/russian/articles/ck87z77e740ro?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "米国防省職員のスパイ容疑逮捕という事実報道が中心で、評価的表現は少なく、ロシアは容疑の対象国として関わっている"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Первый день переговоров в Абу-Даби. Что известно (не очень много)",
+    "link": "https://www.bbc.com/russian/articles/cwly3yj2gm50o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナ・ロシア・米国の停戦交渉の初日について、事実中心の報道であり、各国の立場の違いを客観的に記述しているが、情報が限定的な短報である"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Война в Украине: в Абу-Даби завершился первый день трехсторонних переговоров России, Украины и США",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "ウクライナ大統領の発言を中心に停戦交渉の経過を報じており、ロシア側の主張に対するウクライナ側の反論という一方的な構成になっているが、具体的な交渉内容と背景が記載されている"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Роман с главой Nvidia и подозрения в шпионаже в пользу Китая. Кто такая Элис Хуанг",
+    "link": "https://www.bbc.com/russian/articles/cmqlnl11yzk6o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国と中国の技術戦争に関連する人物スキャンダルを扱った記事だが、ロシアとの直接的な関係がなく、また推測と疑惑が中心となっているため中立性が低い。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "«Это не патриотизм. Это диверсия». Министр обороны США Пит Хегсет — о попытках объявить ему импичмент",
+    "link": "https://www.bbc.com/russian/articles/cmrlyl6n4jezo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国防長官の弾劾に関する政治記事だが、長官の発言に«ненавидят президента»«фарс»などの感情的・評価的表現が含まれており、記事全体として対立構図を強調する書き方になっている"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Американские военные самолеты покинули вторую авиабазу в Великобритании",
+    "link": "https://www.bbc.com/russian/articles/c3y0e04q2ywwo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国とイランの緊張を背景とした米軍基地の再配置について、事実ベースで報道している記事だが、ロシアとの直接的な関連性はない"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Великобритании задержали высокопоставленного военнослужащего армии США. Его подозревают в шпионаже в пользу России",
+    "link": "https://meduza.io/news/2026/11/10/v-velikobritanii-zaderzhali-vysokopostavlennogo-voennosluzhaschego-armii-ssha-ego-podozrevayut-v-shpionazhe-v-polzu-rossii",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "米国高官のスパイ疑惑に関する政治的事件で、ロシアの関与が重要な要素だが、事実報道が中心ながらFBI長官の強い表現を引用している"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Книгу Z-писателя Александра Пелевина убирают из библиотек из-за рецензии Галины Юзефович на обложке",
+    "link": "https://meduza.io/news/2026/11/10/knigu-z-pisatelya-aleksandra-pelevina-ubirayut-iz-bibliotek-iz-za-retsenzii-galiny-yuzefovich-na-oblozhke",
+    "meta": {
+      "category": "society",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシアの図書館による書籍撤去という社会現象を報じた記事だが、「戦争を支持する作家」という評価的な表現や「血まみれの令嬢」という扇情的なチャンネル名の使用により中立性が損なわれている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Институт, которым руководит друг Путина, создал банк крови приматов долгожителей. С его помощью хотят найти способ замедлить старение",
+    "link": "https://meduza.io/news/2026/11/10/institut-druga-putina-sozdal-bank-krovi-primatov-dolgozhiteley-s-ego-pomoschyu-hotyat-nayti-sposob-zamedlit-starenie",
+    "meta": {
+      "category": "science",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシアの国立研究機関による老化研究プロジェクトの報道であり、科学的内容が中心だが、指導者の人間関係に言及することで若干の主観性が含まれている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Болгарии из-за густого тумана десятки автомобилей столкнулись на трассе. Погибли 12 человек",
+    "link": "https://meduza.io/news/2026/11/10/v-bolgarii-iz-za-gustogo-tumana-desyatki-avtomobiley-stolknulis-na-trasse-pogibli-12-chelovek",
+    "meta": {
+      "category": "incident",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 1,
+      "reason": "ブルガリアの交通事故についての記事で、基本的事実は報道されているが、英語部分に「horrifying scale」「deadliest road disasters」など感情的表現が含まれており、ロシアとの関連性は全くない"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В конгрессе вновь потребовали объявить импичмент министру обороны США Питу Хегсету. «Это фарс и саботаж», — ответил он",
+    "link": "https://meduza.io/news/2026/11/10/v-kongresse-vnov-potrebovali-ob-yavit-impichment-ministru-oborony-ssha-pitu-hegsetu-eto-fars-i-sabotazh-otvetil-on",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国防長官への弾劾要求に関する政治記事であり、ロシアとの関わりはほぼないが、防長官の「茶番」「破壊工作」という評価的表現や、提案者の政治的背景に関する詳細な説明により、中立性が低い。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "FT: Европа готова обсуждать с Россией механизмы предотвращения конфликтов, включая ограничения на размещение ракет",
+    "link": "https://meduza.io/news/2026/11/10/evropa-gotova-obsudit-s-rossiey-mehanizmy-predotvrascheniya-konfliktov-vklyuchaya-ogranicheniya-na-razmeschenie-raket-ft",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "ヨーロッパとロシアの軍事紛争予防メカニズムに関する外交交渉の報道であり、事実中心だが欧州の立場や懸念が中心に述べられている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Овечкин заявил, что фанаты хотели бы видеть Россию на МЧМ в Канаде",
+    "link": "https://www.rbc.ru/rbcfreenews/6aefcf97f07a758c7ac38ab0",
+    "meta": {
+      "category": "sports",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 4,
+      "reason": "ホッケー選手オフチョウの見解を報じた記事だが、カナダ首相のロシア選手へのビザ拒否方針も述べられており、政治と スポーツが混在している。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Генпрокуратура раскрыла структуру преступлений российских ОПГ",
+    "link": "https://www.rbc.ru/rbcfreenews/6996ec5b9a7947bff76d8db2",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア国内の組織犯罪に関する統計データを事実中心で報告した記事で、政府機関の公式発表に基づいており、評価的表現はほぼ含まれていない"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Российский клуб подписал скандального игрока из НХЛ. Что известно о Кейне",
+    "link": "https://www.rbc.ru/sport/10/11/2026/6af2de97069e041e6b1ac001",
+    "meta": {
+      "category": "sports",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 4,
+      "reason": "カナダの選手がロシアのチームと契約した移籍ニュースで、選手の過去の「スキャンダル」という評価的な表現が見出しと冒頭に含まれており、中立性が部分的に損なわれている。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Старые иномарки и новые «китайцы»: какие машины дешевле в ремонте",
+    "link": "https://www.rbc.ru/economics/04/09/2026/6a9a1f278a24a6a6a004b8d6",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "ロシア国内の自動車修理費に関する保険統計データを報道した、事実中心の経済記事で、ロシア車と輸入車の比較が主題である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Сейв Cафонова признали лучшим в чемпионате Франции в октябре",
+    "link": "https://www.rbc.ru/sport/29/10/2026/6ae3504d6a59b56c1f42da26",
+    "meta": {
+      "category": "sports",
+      "neutrality": 5,
+      "value": 2,
+      "russia": 4,
+      "reason": "ロシア人ゴールキーパーのフランス選手権での月間最高セーブ受賞を事実的に報道した速報記事であり、感情的表現がなく中立的だが、内容は単純な成績報告で学習教材としての価値は限定的である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Домодедово работает по согласованию",
+    "link": "https://www.interfax.ru/moscow/1128155",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシアの航空規制当局による公式発表で、モスクワの主要空港の運航状況に関する事実的な報道であり、政治的背景があるが客観的に報じられている。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Путин проведет сессию Совета коллективной безопасности ОДКБ",
+    "link": "https://www.interfax.ru/world/1128153",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア主導のODKB集団安全保障条約機構の会議開催と議題を報道する事実中心の記事で、ロシア大統領の政治的な役割が中心的な位置づけ"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Звание Героя Труда присвоено научному руководителю центра Гамалеи Гинцбургу",
+    "link": "https://www.interfax.ru/russia/1128152",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア大統領によるガマレーヤ・センター科学主任への栄誉称号授与という、ロシア国内の公式発表の報道であり、事実中心で評価的表現が少ないが、速報的で内容が限定的である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Вэнс считает, что Хегсету грозит импичмент из-за борьбы с бюрократией в Пентагоне",
+    "link": "https://www.interfax.ru/world/1128150",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国副大統領の発言を中心に報道しており、ペンタゴン官僚制度との対立という評価的な解釈が前景化しており、ロシアとの関わりは限定的である。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Личность и публичность // Андрей Плахов — к годовщине смерти Ива Монтана",
+    "link": "https://www.kommersant.ru/doc/9092877",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "フランスの著名な俳優・歌手イヴ・モンタンの人生と経歴を紹介する追悼記事で、事実中心の記述だがロシアとの関連性がほぼなく、文化的な背景知識の提供が主目的である。"
+    }
+  }
+]

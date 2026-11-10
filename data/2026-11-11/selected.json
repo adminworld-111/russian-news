@@ -1,0 +1,38 @@
+[
+  {
+    "source": "RBK",
+    "title": "Генпрокуратура раскрыла структуру преступлений российских ОПГ",
+    "link": "https://www.rbc.ru/rbcfreenews/6996ec5b9a7947bff76d8db2",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア国内の組織犯罪に関する統計データを事実中心で報告した記事で、政府機関の公式発表に基づいており、評価的表現はほぼ含まれていない"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Путин проведет сессию Совета коллективной безопасности ОДКБ",
+    "link": "https://www.interfax.ru/world/1128153",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア主導のODKB集団安全保障条約機構の会議開催と議題を報道する事実中心の記事で、ロシア大統領の政治的な役割が中心的な位置づけ"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Старые иномарки и новые «китайцы»: какие машины дешевле в ремонте",
+    "link": "https://www.rbc.ru/economics/04/09/2026/6a9a1f278a24a6a6a004b8d6",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "ロシア国内の自動車修理費に関する保険統計データを報道した、事実中心の経済記事で、ロシア車と輸入車の比較が主題である。"
+    }
+  }
+]
