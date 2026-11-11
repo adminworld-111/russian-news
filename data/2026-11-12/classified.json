@@ -1,0 +1,266 @@
+[
+  {
+    "source": "BBC",
+    "title": "Переговоры в Абу-Даби завершились. Главный итог — будет новый обмен пленными",
+    "link": "https://www.bbc.com/russian/articles/c6pw48zzg19ro?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナとの停戦交渉と捕虜交換という戦争に直結した話題が中心で、事実の報告が主だが、交渉の進展状況を客観的に伝えており、ロシアが主要な当事者として関わっている。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Заколоченные магазины и дроны над головой. Как живет Славянск, который Россия требует ей отдать  ради мирного соглашения",
+    "link": "https://www.bbc.com/russian/articles/cqgm37jx2122o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナのスラヴャンスク市の現地取材報道で、ロシアのドローン攻撃による危険な状況を事実ベースで描写しており、感情的表現は抑制されているが、記事の文脈（見出しの«Россия требует ей отдать»など）がやや一方的な視点を示している。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Война в Украине: на встрече в Абу-Даби стороны договорились только о большом обмене пленными; украинские дроны несколько часов атаковали Омск",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナ戦争における軍事作戦（捕虜交換交渉、ドローン攻撃、ロシアの砲撃）を事実ベースで報道しており、被害者の詳細な個人情報も記載されているが、評価的表現は限定的である"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "300 школ в Италии эвакуировали из-за массовой рассылки писем с угрозами взрывов",
+    "link": "https://www.bbc.com/russian/articles/cve871397rwdo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "イタリアでの爆弾脅迫事件の報道で、事実中心の記述だが、ロシアとの関連性はほぼなく、ニュース速報的な内容である"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Работа увлекающегося живописью 13-летнего принца Джорджа представлена в журнале Country Life",
+    "link": "https://www.bbc.com/russian/articles/c6lywlrjgx09o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "イギリス王族の子どもの絵画作品が雑誌に掲載されたという文化的な話題で、事実中心の報道だがロシアとの関連性がなく、短い速報的な内容である。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "В Испании проходит первая за 14 лет всеобщая забастовка. Бастующие протестуют против жилищного кризиса",
+    "link": "https://www.bbc.com/russian/articles/cm1j6l56dz8go?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "スペインの住宅危機に対する大規模ストライキの事実報道であり、ロシアとの関係がない。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "«РБК-Украина»: во второй день переговоров РФ отказалась обсуждать прекращение огня и территории. Вместо этого говорили о новой архитектуре безопасности Европы",
+    "link": "https://meduza.io/news/2026/11/11/rbk-ukraina-vo-vtoroy-den-peregovorov-rf-otkazalas-obsuzhdat-prekraschenie-ognya-i-territorii-vmesto-etogo-govorili-o-novoy-arhitekture-bezopasnosti-evropy",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナ交渉でのロシアの立場と態度を報道する記事だが、«отказалась» (拒否した)などの評価的表現が含まれ、ウクライナ側の情報源に依拠している"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Немецкие спецслужбы попытались завербовать активистку из России в аэропорту Берлина. Она отказалась — и через некоторое время ей запретили въезд в Шенген",
+    "link": "https://meduza.io/news/2026/11/11/nemetskie-spetssluzhby-popytalis-zaverbovat-aktivistku-iz-rossii-v-aeroportu-berlina-ona-otkazalas-vskore-posle-etogo-ey-zapretili-v-ezd-v-shengen",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 4,
+      "reason": "ロシア人活動家とドイツ情報機関の関係に関する記事だが、情報源が一方的で、因果関係の確実性が明示されていない一方、見出しと本文で因果関係を暗示する書き方がされている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Госдума в первом чтении разрешила ветеранам войны с Украиной засчитывать военную службу в стаж муниципальной",
+    "link": "https://meduza.io/news/2026/11/11/gosduma-v-pervom-chtenii-razreshila-veteranam-voyny-s-ukrainoy-zaschityvat-voennuyu-sluzhbu-v-stazh-munitsipalnoy",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア国内の法制度に関する記事で、ウクライナ戦争の参加者に対する優遇措置を規定する法案を扱っており、事実中心の報道である"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Украина атаковала Омск дронами. В городе восемь часов длилась беспилотная опасность, губернатор просил жителей не выходить на улицу",
+    "link": "https://meduza.io/news/2026/11/11/ukraina-atakuet-omsk-bespilotnikami-v-gorode-uzhe-sem-chasov-bespilotnaya-opasnost-gubernator-prizval-zhiteley-ne-vyhodit-na-ulitsu",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ウクライナによるオムスク攻撃という武力紛争が記事の中心であり、事実報道が中心だが、被害の詳細は未確認情報として扱われており、比較的中立的な記述となっている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Умер посол России в США Александр Дарчиев",
+    "link": "https://meduza.io/news/2026/11/11/umer-posol-rossii-v-ssha-aleksandr-darchiev",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア駐米大使の訃報を事実ベースで報じており、経歴や職務内容を客観的に説明している記事である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "«Альтернатива для Германии» и «Левые» призвали правительство допустить сборную России на чемпионат мира по хоккею. Он пройдет в Германии в мае",
+    "link": "https://meduza.io/news/2026/11/11/alternativa-dlya-germanii-i-levye-prizvali-pravitelstvo-dopustit-sbornuyu-rossii-na-chempionat-mira-po-hokkeyu-on-proydet-v-germanii-v-mae",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 3,
+      "reason": "ドイツの議会政党がロシアのホッケー代表団のワールドカップ出場容認を求める記事で、各政治家の発言が報道されているが、«прискорбной реальностью»（遺憾な現実）といった評価的表現が含まれており、中立性がやや損なわれている。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Politico узнало о росте числа сторонников выдвижения Рубио на выборы",
+    "link": "https://www.rbc.ru/politics/12/05/2026/6a02905c9a794775370d8d8c",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国の2028年大統領選挙に関する党内の人事動向を報じた記事で、ロシアとの関係性はほぼなく、引用された発言に評価的表現が含まれているため中立性は中程度"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Глава Т-Банка заявил, что небольшие банки работают «для души»",
+    "link": "https://www.rbc.ru/finances/07/11/2026/6aecf6ed3dc689fb29717b15",
+    "meta": {
+      "category": "economy",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシアの銀行業界における市場集中化と小規模銀行の存在意義について、大手銀行経営者の批判的見解を報道した記事であり、ロシア国内経済が話題の中心である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Канадский министр сообщил, что россиян не пустят на МЧМ даже с визами",
+    "link": "https://www.rbc.ru/sport/11/11/2026/6af49ca4546495018bca950c",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 4,
+      "reason": "カナダ政府のロシア人排除政策に関する報道で、カナダ当局の立場が中心的に紹介されており、やや一方的な視点が見られる"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "NYT узнала о сопротивлении трех стран из-за новой стратегии США по Ирану",
+    "link": "https://www.rbc.ru/rbcfreenews/6aedf3b5e824b280460c9627",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国のイラン経済封鎖戦略に関する政治外交記事だが、«экономической изоляции»など評価的な表現が含まれ、米国の対イラン政策を批判的に描写している。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Насколько вероятно полноценное участие Европы в переговорах по Украине",
+    "link": "https://www.rbc.ru/rbcfreenews/6af458370723fe475016eb40",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナ紛争の停戦交渉に関する記事で、ロシア・ウクライナ・米国の三者協議について事実ベースで報道しており、ロシアの代表団構成などの具体的情報が含まれている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Счетная палата указала на неэффективность части расходов на «ГосОблако»",
+    "link": "https://www.rbc.ru/technology_and_media/26/02/2026/699f1fe09a7947ea3a14d0f3",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシア政府の監査機関が国営クラウドプラットフォームの予算執行効率を検証した報告書に基づく記事で、事実中心の報道だがシステムの問題点を指摘しており、ロシア国内の行政・IT政策に関わる経済的課題が話題の中心である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Правительство рассмотрит законопроект об особенностях пенсионного обеспечения в новых регионах",
+    "link": "https://www.interfax.ru/russia/1128445",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア政府が新領域の年金制度に関する法案を審議する政治的決定についての事実報道で、評価的表現はほぼなく、ロシア国内政治が中心である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Правительство РФ обсудит законопроект о беспилотном автотранспорте",
+    "link": "https://www.interfax.ru/russia/1128443",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア政府が無人自動運転車の規制法案を検討する事実報道であり、事実中心で評価的表現は少なく、ロシア国内の政治・経済が話題の中心である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Госдума рассмотрит основные направления ДКП на 2027-2029 годы",
+    "link": "https://www.interfax.ru/russia/1128442",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア中央銀行による2027-2029年の金融政策方針についての政府審議を報道する事実中心の記事で、ロシア国内経済政策が話題の中心であり、登場人物の職位や会議の進行について評価的表現はほぼない。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Путин в четверг встретится в Москве с Уиткоффом и Кушнером",
+    "link": "https://www.interfax.ru/russia/1128440",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "ウクライナに関する和平交渉の枠組みにおけるロシアと米国の外交活動を事実的に報道しており、ロシアが主要な当事者として関わる戦争関連の政治記事である"
+    }
+  }
+]

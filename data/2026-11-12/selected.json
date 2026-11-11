@@ -1,0 +1,38 @@
+[
+  {
+    "source": "RBK",
+    "title": "Счетная палата указала на неэффективность части расходов на «ГосОблако»",
+    "link": "https://www.rbc.ru/technology_and_media/26/02/2026/699f1fe09a7947ea3a14d0f3",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシア政府の監査機関が国営クラウドプラットフォームの予算執行効率を検証した報告書に基づく記事で、事実中心の報道だがシステムの問題点を指摘しており、ロシア国内の行政・IT政策に関わる経済的課題が話題の中心である"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Госдума в первом чтении разрешила ветеранам войны с Украиной засчитывать военную службу в стаж муниципальной",
+    "link": "https://meduza.io/news/2026/11/11/gosduma-v-pervom-chtenii-razreshila-veteranam-voyny-s-ukrainoy-zaschityvat-voennuyu-sluzhbu-v-stazh-munitsipalnoy",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア国内の法制度に関する記事で、ウクライナ戦争の参加者に対する優遇措置を規定する法案を扱っており、事実中心の報道である"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "В Испании проходит первая за 14 лет всеобщая забастовка. Бастующие протестуют против жилищного кризиса",
+    "link": "https://www.bbc.com/russian/articles/cm1j6l56dz8go?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "スペインの住宅危機に対する大規模ストライキの事実報道であり、ロシアとの関係がない。"
+    }
+  }
+]
