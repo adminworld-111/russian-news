@@ -1,0 +1,290 @@
+[
+  {
+    "source": "BBC",
+    "title": "Война в Украине: Путин на встрече с Уиткоффом и Кушнером предложил провести еще одну гуманитарную миссию, как в Алешках",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "ウクライナ戦争に関する停戦交渉や外交動向が中心であり、プーチン、ゼレンスキー、米国の代表者による会談という国際的な政治交渉が主要な内容であるため。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Уиткофф и Кушнер встретились с Путиным. Какие предложения они привезли из Абу-Даби?",
+    "link": "https://www.bbc.com/russian/articles/c3qj5lkv900ko?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "米国大統領特使とプーチン大統領の会談を事実中心に報道しており、交渉の目的と進展状況が具体的に説明されている。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Как Дженсен Хуанг сам вывел себя из игры в сфере искусственного интеллекта",
+    "link": "https://www.bbc.com/russian/articles/cwvg2l7jm89eo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 2,
+      "value": 2,
+      "russia": 1,
+      "reason": "Nvidia CEO Jensen Huangの個人的なスキャンダルに関する記事で、センセーショナルな表現と一方的な判断が含まれており、ロシアとの関連性がない"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Стрельба в центре Вашингтона: один человек погиб, четверо ранены. Нападавший застрелился",
+    "link": "https://www.bbc.com/russian/articles/cr5y1j8qe2w1o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国の銃撃事件に関する事実報道で、ロシアとの関わりがなく、速報的な事件報道として価値は限定的"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "В Нью-Йорке рухнул жилой дом, погибли восемь человек",
+    "link": "https://www.bbc.com/russian/articles/cmqj5rlv42ezo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 1,
+      "reason": "ニューヨークの建物倒壊事故に関する客観的な事実報道であり、ロシアとの関わりはない。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Генеральный директор Nvidia Дженсен Хуанг ушел в отставку — после еще одного обвинения во внебрачной связи",
+    "link": "https://www.bbc.com/russian/articles/cwq6ere9pp76o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "economy",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "Nvidiaのトップの辞任という経済ニュースであり、スキャンダルの事実を報じているが、「ポイントを下げた」「スキャンダルに対処」といった評価的表現が見られ、ロシアとの関連性はない。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Норвегия вслед за Финляндией собирается запретить въезд российским спортсменам — «пока продолжается война в Украине»",
+    "link": "https://meduza.io/news/2026/11/12/norvegiya-vsled-za-finlyandiey-sobiraetsya-zapretit-v-ezd-rossiyskim-sportsmenam-poka-prodolzhaetsya-voyna-v-ukraine",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "ノルウェー政府によるロシア・ベラルーシのスポーツ選手入国禁止政策を、事実ベースで報道している記事"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Reuters: у главы Nvidia Дженсена Хуанга были отношения с еще одной сотрудницей его компании",
+    "link": "https://meduza.io/news/2026/11/12/reuters-u-glavy-nvidia-dzhensena-huanga-byli-otnosheniya-s-esche-odnoy-sotrudnitsey-ego-kompanii",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "企業トップのスキャンダルに関する速報記事であり、ロシアとは無関係で、事実報道が中心だが情報が断片的である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Петербурге мужчина зарезал бывшую девушку у дверей центра помощи женщинам",
+    "link": "https://meduza.io/news/2026/11/12/v-peterburge-muzhchina-zarezal-byvshuyu-devushku-u-dverey-tsentra-pomoschi-zhenschinam",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ペテルブルグで発生した殺人事件の報道で、事実中心に書かれているが、短い速報的な内容で学習教材としての価値は限定的である"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "«Агентство»: у Путина, вероятно, родился четвертый внук. Его назвали Адрианом",
+    "link": "https://meduza.io/news/2026/11/12/agentstvo-u-putina-veroyatno-rodilsya-chetvertyy-vnuk-ego-nazvali-adrianom",
+    "meta": {
+      "category": "society",
+      "neutrality": 2,
+      "value": 1,
+      "russia": 4,
+      "reason": "プーチン大統領の家族に関する出生情報であり、疑わしい情報源（ZAGS記録の漏洩）に基づいた記事であるため、事実性が低く、個人的な私生活情報が中心となっている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "«Первый отдел» опубликовал «секретный реестр Росфинмониторинга». В нем больше трех тысяч человек, включая Бориса Гребенщикова и Леонида Парфенова",
+    "link": "https://meduza.io/news/2026/11/12/pervyy-otdel-opublikoval-sekretnyy-reestr-rosfinmonitoringa-v-nem-bolshe-treh-tysyach-chelovek-vklyuchaya-borisa-grebeschikova-i-leonida-parfenova",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシア当局の秘密テロ資金監視リストの存在と内容を報道する記事で、ロシア国内の政治・監視体制が中心テーマであり、事実報道が主であるが、人権団体による公表という文脈が含まれている。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Похоже, возвращение России в большой хоккей закончилось, не успев начаться. Канада — хозяйка ближайшего чемпионата — просто отказалась давать россиянам визы. Формально из-за этого турнир могут перенести в другую страну. Но это случится вряд ли",
+    "link": "https://meduza.io/feature/2026/11/12/pohozhe-vozvraschenie-rossii-v-bolshoy-hokkey-zakonchilos-ne-uspev-nachatsya-kanada-hozyayka-blizhayshego-chempionata-prosto-otkazalas-davat-rossiyanam-vizy",
+    "meta": {
+      "category": "sports",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシアのホッケー代表チームの国際大会出場問題について報道しており、カナダの決定に対する見出しの表現が若干評価的である一方、本文は事実と背景を説明している"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "FT назвала причину нервозности ЕС в переговорах России и Украины",
+    "link": "https://www.rbc.ru/politics/10/11/2026/6af2d67baa95ce292fb3dc9d",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナ和平交渉における欧州の懸念が話題の中心で、ロシアが主要当事者だが、「nервозность」など感情的表現が含まれ、複数の匿名情報源による間接報道である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Норвегия будет отказывать во въезде в страну российским спортсменам",
+    "link": "https://www.rbc.ru/sport/12/11/2026/6af5b1cef0d28cda77e2e62b",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 3,
+      "reason": "ノルウェー政府の公式決定を事実報道しているが、ロシアスポーツと権力構造の結びつきに関する政府側の説明が含まれており、やや一方的な視点がある"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Сможет ли ЕС на встрече в Дублине определить переговорщика с Россией",
+    "link": "https://www.rbc.ru/politics/27/10/2026/6ae0a21cb7cfe4a5fb8a4447",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "ウクライナ和平交渉におけるEUの役割とロシアとの関わりを扱う記事で、複数の見方が示されているが、トランプ政権とEUの立場が中心に描かれており、やや一方的な視点がある。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Binance полностью покрыла $6,3 млрд средств клиентов после взлома",
+    "link": "https://www.rbc.ru/technology_and_media/03/11/2026/6ae992705702fe89b02f5e6a",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "大手暗号資産取引所の顧客資産補償に関する事実報道であり、ロシアとの関わりがほぼなく、企業の発表内容を客観的に伝えている。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Axios узнал о провале 100% миссий в ВСУ из-за военной версии Starlink",
+    "link": "https://www.rbc.ru/politics/29/10/2026/6ae2ba70dc2871f6a40c96d9",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "ウクライナの軍事システムの技術的問題についての報道で、異なる主張が並立しているが、見出しの「провала」（失敗）という表現は評価的であり、ウクライナ軍とSpaceXの対立する主張が中心となっているため"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Гарри Кейн установил рекорд по количеству матчей за сборную Англии",
+    "link": "https://www.rbc.ru/sport/02/11/2026/6ae88dea4eabbd5acfd9fe67",
+    "meta": {
+      "category": "sports",
+      "neutrality": 5,
+      "value": 2,
+      "russia": 1,
+      "reason": "イングランド代表のハリー・ケインの記録樹立に関する事実報道だが、ロシアとの関わりはなく、短い速報的な内容である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Оверчук сообщил о подписании с Афганистаном пакета документов о сотрудничестве в ряде сфер",
+    "link": "https://www.interfax.ru/world/1128727",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア副首相による対アフガニスタン協力協定の署名発表で、事実中心の報道であり、ロシア国家の外交・経済関係が話題の中心である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "США активно модернизируют авиабазу в Британии для размещения ядерного оружия",
+    "link": "https://www.interfax.ru/world/1128724",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 3,
+      "reason": "NATO加盟国における米国の核兵器配備という軍事・地政学的に重要なテーマについて、衛星画像などの具体的証拠に基づいた事実報道で、ロシアにも直接関わる防衛戦略の話題である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Демократы призывают к расследованию в отношении министра торговли США в связи со скандалом в Nvidia",
+    "link": "https://www.interfax.ru/world/1128723",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国の政治スキャンダルに関する報道であり、ロシアとの直接的な関係がなく、民主党議員の主張を中心に据えた一方的な構成になっている。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Трамп призвал принять законопроект о дополнительных $350 млрд на оборону",
+    "link": "https://www.interfax.ru/world/1128719",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国の防衛予算に関するトランプ大統領の主張が中心で、ロシアとの関係は薄く、政治的な党派的評価を含む一方的な報道である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Норвегия намерена высылать российских и белорусских спортсменов, если они приедут на соревнования",
+    "link": "https://www.interfax.ru/world/1128725",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 3,
+      "reason": "ノルウェーの政策決定を報道する記事であり、相手国の公式見解（大臣の引用）を中心に構成されているが、ロシア・ベラルーシ側の反応や背景説明が不足しており、一方的な報道傾向がある。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Второй полет «Бабочки» // Евразийская академия кинематографических искусств признала «Август» лучшим фильмом",
+    "link": "https://www.kommersant.ru/doc/9095899",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア映画祭でのロシア映画の受賞に関する速報で、写真キャプションと出席者名の列挙が中心であり、評価的表現はほぼない。"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "source": "Meduza",
+    "title": "«Первый отдел» опубликовал «секретный реестр Росфинмониторинга». В нем больше трех тысяч человек, включая Бориса Гребенщикова и Леонида Парфенова",
+    "link": "https://meduza.io/news/2026/11/12/pervyy-otdel-opublikoval-sekretnyy-reestr-rosfinmonitoringa-v-nem-bolshe-treh-tysyach-chelovek-vklyuchaya-borisa-grebeschikova-i-leonida-parfenova",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシア当局の秘密テロ資金監視リストの存在と内容を報道する記事で、ロシア国内の政治・監視体制が中心テーマであり、事実報道が主であるが、人権団体による公表という文脈が含まれている。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Binance полностью покрыла $6,3 млрд средств клиентов после взлома",
+    "link": "https://www.rbc.ru/technology_and_media/03/11/2026/6ae992705702fe89b02f5e6a",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "大手暗号資産取引所の顧客資産補償に関する事実報道であり、ロシアとの関わりがほぼなく、企業の発表内容を客観的に伝えている。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "В Нью-Йорке рухнул жилой дом, погибли восемь человек",
+    "link": "https://www.bbc.com/russian/articles/cmqj5rlv42ezo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 1,
+      "reason": "ニューヨークの建物倒壊事故に関する客観的な事実報道であり、ロシアとの関わりはない。"
+    }
+  }
+]
