@@ -1,0 +1,278 @@
+[
+  {
+    "source": "BBC",
+    "title": "Война в Украине: Кошта подтвердил состав делегации Европы на переговорах о мире в Украине",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 2,
+      "reason": "ウクライナ戦争と平和交渉が見出しの中心であり、本文は戦争に関連する航空機インシデント（おそらくドローン関連）を事実的に報道しているが、短い速報的な性質で教材価値は限定的である。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "В Новом Орлеане танкер столкнулся с речным круизным судном, на борту которого находились более 120 пассажиров",
+    "link": "https://www.bbc.com/russian/articles/ckpqrz380d5jo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国ニューオーリンズでの船舶衝突事故を事実ベースで報道しており、ロシアとの関連性はない。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Германия расширяет полномочия спецслужб: они смогут не только собирать данные, но и активно отвечать на иностранные угрозы",
+    "link": "https://www.bbc.com/russian/articles/cmde1n445peko?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "ドイツの内部法制に関する政治ニュースで、スパイ活動への対抗という文脈が含まれていますが、戦争や武力紛争が直接的には扱われておらず、歴史的背景を含めた説明的な記事である"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Согласилась ли Россия на участие Европы в переговорах по Украине? Версии США, Киева и Москвы",
+    "link": "https://www.bbc.com/russian/articles/cme87d4nwkr1o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "ウクライナ和平交渉の形式拡大に関する記事で、米国・ウクライナ・ロシアの異なる発表内容を並列して報道しているが、クレムリンが同意を確認していないという点が強調されており、やや一方的な見方が含まれている"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Рене Хаас, Колетт Кресс, Крис Малаховски... Или даже Тим Кук? Кто заменит Дженсена Хуанга на посту главы Nvidia?",
+    "link": "https://www.bbc.com/russian/articles/cmpqrz1w5gqlo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "economy",
+      "neutrality": 2,
+      "value": 4,
+      "russia": 1,
+      "reason": "NvidiaのCEO交代劇を報じた記事で、中国スパイ疑惑などセンセーショナルな表現が含まれており、事実報道としては中立性が低い"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Есть ли у человека свобода воли? Отвечает Александр Панчин | Научкаст «Что это будет?»",
+    "link": "https://www.bbc.com/russian/watch/cmq5ve0xped9o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "science",
+      "neutrality": 4,
+      "value": 5,
+      "russia": 4,
+      "reason": "ロシアの科学者による自由意志と脳科学に関する学術的ポッドキャストで、偽りの記憶や認知バイアスなど教育的価値が高い内容だが、ロシア国内の事象ではなく普遍的な科学的テーマが中心であるため。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В США приостановили вылеты самолетов из всех аэропортов",
+    "link": "https://meduza.io/news/2026/11/14/v-ssha-priostanovili-vylety-samoletov-iz-vseh-aeroportov",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国の全国的な飛行禁止という緊急事態を事実ベースで報道しており、ロシアとの関連性はない"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Третьяковской галерее отменили показ фильма о подростках на Китай-городе",
+    "link": "https://meduza.io/news/2026/11/13/v-tretyakovskoy-galeree-otmenili-pokaz-filma-o-podrostkah-na-kitay-gorode",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "モスクワのトレチャコフ美術館での映画上映中止というロシア国内の文化施設のニュースであり、事実ベースで報道されているが、中止理由の説明が技術的理由とされており、短い速報的な内容である"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Европу на переговорах России и Украины будут представлять советники по нацбезопасности пяти стран",
+    "link": "https://meduza.io/news/2026/11/13/evropu-na-peregovorah-rossii-i-ukrainy-predstavyat-sovetniki-po-natsbezopasnosti-pyati-stran",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "ロシア・ウクライナ戦争の和平交渉にヨーロッパがどう参加するかという政治的決定を、事実中心に報道している記事である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Световой меч Дарта Вейдера продали за 4,8 миллиона долларов. Это самый дорогой предмет из «Звездных войн»",
+    "link": "https://meduza.io/news/2026/11/13/svetovoy-mech-darta-veydera-prodali-za-4-8-milliona-dollarov-eto-samyy-dorogoy-predmet-iz-zvezdnyh-voyn",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "スター・ウォーズの映画小道具の競売落札という文化的なニュースで、ロシアとの関連性はなく、事実中心の報道である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Крестного сына Матвиенко арестовали на семь суток за ссылку на инстаграм",
+    "link": "https://meduza.io/news/2026/11/13/krestnogo-syna-matvienko-arestovali-na-sem-sutok-za-ssylku-na-instagram",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア国内の司法判決に関する短い速報であり、事実中心だが情報量が限定的で、人物の背景説明が主体である"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В контрразведке Германии подтвердили, что допрашивают россиян в аэропорту Берлина. Это объяснили «высоким уровнем угроз»",
+    "link": "https://meduza.io/news/2026/11/13/v-kontrrazvedke-germanii-podtverdili-chto-doprashivayut-rossiyan-v-aeroportu-berlina-eto-ob-yasnili-vysokim-urovnem-ugroz",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "ドイツの情報機関がベルリン空港でロシア人を尋問していることを事実ベースで報道しており、機関の説明を引用する形で記事が構成されている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Nvidia сообщила об отсутствии контактов с кандидатами на место Хуанга",
+    "link": "https://www.rbc.ru/business/13/11/2026/6af706d64958432250befc3d",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国大手IT企業の経営人事に関する速報で、事実報道が中心だが、ロシアとの関連性がない。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Андреева выиграла первый за 17 лет матч россиянок на Итоговом турнире WTA",
+    "link": "https://www.rbc.ru/sport/12/11/2026/6af4dd9f7c35d1073a15ee28",
+    "meta": {
+      "category": "sports",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア人テニス選手の試合結果を事実中心に報道した記事で、感情的表現がなく、ロシア国内のスポーツが話題の中心である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "В США приостановили вылет рейсов во всех аэропортах",
+    "link": "https://www.rbc.ru/politics/14/11/2026/6af77cf540887869aaf286eb",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国の航空管制システム障害による全国的なフライト停止という事実を中心に報道しており、評価的表現は最小限に抑えられているが、ロシアとの関連はほぼない。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Bloomberg описал споры в Европе по поводу представителя на переговорах",
+    "link": "https://www.rbc.ru/politics/12/11/2026/6af5e0fc9e4e3811d73a4d1a",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナ和平交渉におけるEU内部の代表権争いについて、事実中心で報道しており、ロシアが交渉の対象国として関わっている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Над базой с американскими военными в Британии заметили дроны",
+    "link": "https://www.rbc.ru/politics/13/11/2026/6af778d90189ce094ad0b0a1",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "英国の米軍基地上空でドローン目撃されたという事実報道で、ロシアとは直接関係のない事件速報である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Британская разведка в четыре раза увеличила интенсивность полетов у границ России",
+    "link": "https://www.interfax.ru/world/1128943",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 4,
+      "reason": "英国の偵察機のロシア国境での活動に関する軍事的な報道で、ロシア側の対抗措置はなく、西側情報筋の評価を中心に据えた記事"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Совкомбанк может направить долю прибыли на дивиденды на уровне 2024–2025 годов",
+    "link": "https://www.interfax.ru/russia/1128942",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア大手銀行のコルポレートガバナンス政策に関する経営幹部の発言を事実ベースで報道しており、評価的表現が少なく中立的である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Бекхэм будет включен в Зал славы футбола США",
+    "link": "https://www.sport-interfax.ru/1128941",
+    "meta": {
+      "category": "sports",
+      "neutrality": 5,
+      "value": 2,
+      "russia": 1,
+      "reason": "アメリカのサッカー殿堂入りに関する速報で、事実報道が中心だが、ロシアとの関わりはなく、ニュース価値は限定的である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Лидеры стран ЕС обсудили в Дублине контроль передовых систем ИИ",
+    "link": "https://www.interfax.ru/world/1128940",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 1,
+      "reason": "EU指導者によるAI規制に関する政治的な会議報道だが、ロシアとの関係は薄く、引用された発言に評価的表現が含まれている"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Прокатная десятка // Что посмотреть в кино на выходных 14–15 ноября",
+    "link": "https://www.kommersant.ru/doc/9109087",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシアの映画批評家による週末映画上映作品の紹介記事で、批評的な意見を含むが事実的な映画説明が中心であり、ロシア映画・ロシア文化が話題の中心である。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "«Ленфильм» намерен погасить долги к концу ноября",
+    "link": "https://www.kommersant.ru/doc/9108775",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア（レニングラード）の有名映画スタジオ「レンフィルム」の債務返済計画と歴史についての事実的な報道であり、感情的表現をほぼ含まない。"
+    }
+  }
+]

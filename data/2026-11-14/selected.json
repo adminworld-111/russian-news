@@ -1,0 +1,38 @@
+[
+  {
+    "source": "Interfax",
+    "title": "Совкомбанк может направить долю прибыли на дивиденды на уровне 2024–2025 годов",
+    "link": "https://www.interfax.ru/russia/1128942",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア大手銀行のコルポレートガバナンス政策に関する経営幹部の発言を事実ベースで報道しており、評価的表現が少なく中立的である"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "«Ленфильм» намерен погасить долги к концу ноября",
+    "link": "https://www.kommersant.ru/doc/9108775",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア（レニングラード）の有名映画スタジオ「レンフィルム」の債務返済計画と歴史についての事実的な報道であり、感情的表現をほぼ含まない。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Андреева выиграла первый за 17 лет матч россиянок на Итоговом турнире WTA",
+    "link": "https://www.rbc.ru/sport/12/11/2026/6af4dd9f7c35d1073a15ee28",
+    "meta": {
+      "category": "sports",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア人テニス選手の試合結果を事実中心に報道した記事で、感情的表現がなく、ロシア国内のスポーツが話題の中心である"
+    }
+  }
+]
