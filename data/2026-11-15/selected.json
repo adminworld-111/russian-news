@@ -1,0 +1,38 @@
+[
+  {
+    "source": "Kommersant_Culture",
+    "title": "Прокатная десятка // Что посмотреть в кино на выходных 14–15 ноября",
+    "link": "https://www.kommersant.ru/doc/9109087",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア映画の週末上映作品ガイドで、映画批評家の引用を含む事実報道であり、ロシア国内の文化・映画産業が話題の中心である"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Крупнейшие российские банки согласились на маркировку своих звонков. Операторы угрожали им блокировкой вызовов",
+    "link": "https://meduza.io/news/2026/11/14/krupneyshie-rossiyskie-banki-soglasilis-na-markirovku-svoih-zvonkov-operatory-ugrozhali-im-blokirovkoy-vyzovov",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシアの通信事業者と銀行が電話着信の認証マーク導入で合意した事実を、背景の詐欺対策目的と共に報道しており、評価的表現は最小限である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Спецпосланник Трампа заявил, что НАТО останется основой безопасности Европы",
+    "link": "https://www.interfax.ru/world/1129044",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "米国特使のNATO評価と欧州安全保障に関する政治的発言を事実に基づいて報道しており、ウクライナ危機解決交渉におけるロシアの関与が間接的に示唆されている"
+    }
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "source": "BBC",
+    "title": "Министр транспорта США: причина масштабного сбоя во всей авиации страны — попытка апдейта в одном узле связи",
+    "link": "https://www.bbc.com/russian/articles/cw99ev8n8xmko?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国の航空システム障害についての事実報道であり、ロシアとの関係性がなく、米国内のインフラインシデントとして報道されている。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Война в Украине: Кушнер заявил, что для прекращения войны потребуются компромиссы от обеих сторон",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナ戦争の停戦交渉に関するクシュナー米特使の発言を報道した記事で、事実中心だが停戦に向けた具体的な背景情報を含み、ロシア・米国・ウクライナが主要な当事者として登場している。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Тысячи шотландцев прошли маршем протеста против строительства дата-центров",
+    "link": "https://www.bbc.com/russian/articles/cq98xd5r2wx4o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "スコットランドでのデータセンター建設に対する抗議デモに関する記事で、事実報道が中心だが、ロシアとの関連性がほぼない"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "У Земли появилась минилуна. И это не в первый раз",
+    "link": "https://www.bbc.com/russian/articles/c962pm0k55xjo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "science",
+      "neutrality": 5,
+      "value": 4,
+      "russia": 1,
+      "reason": "地球に新しい小惑星が一時的に捕捉されたという天文学的発見についての事実報道で、ロシアとの関係はなく、背景説明も充実している。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Бывший венгерский министр времен Орбана закопал валюту на $20 млн в лесах и на фермах",
+    "link": "https://www.bbc.com/russian/articles/cv8e0k7rj5pgo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "ハンガリーの前政権関係者の汚職事件に関する事実報道であり、ロシアとは関係がない。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "«За неповиновение отрубали пальцы». Что такое «Химпром» и как он укоренился в Украине",
+    "link": "https://www.bbc.com/russian/articles/crx20k5j94x5o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 1,
+      "reason": "ウクライナの反腐敗捜査における犯罪組織「ケムプロム」に関する調査報道で、事実報告が中心だが、「大きな事件」「暴露された」など若干の評価的表現を含む"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Сенаторы потребовали от Маска сохранить документы об ограничениях в работе Starlink для Украины. Они планируют провести расследование",
+    "link": "https://meduza.io/news/2026/11/14/senatory-potrebovali-ot-maska-sohranit-dokumenty-ob-ogranicheniyah-v-rabote-starlink-dlya-ukrainy-oni-planiruyut-provesti-rassledovanie",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "ウクライナへの軍事支援（Starlink利用）が話題の中心であり、アメリカの民主党議員による調査要求という政治的側面を含むため、戦争関連の記事として分類される。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "На каких условиях Кремль готов завершить войну? СМИ опубликовали список максималистских требований Путина. Они касаются не только Евросоюза и НАТО, но, например, еще Молдовы, Финляндии и даже Центральной Азии",
+    "link": "https://meduza.io/feature/2026/11/14/na-kakih-usloviyah-kreml-gotov-zavershit-voynu-smi-opublikovali-spisok-maksimalistskih-trebovaniy-putina",
+    "meta": {
+      "category": "war",
+      "neutrality": 2,
+      "value": 4,
+      "russia": 5,
+      "reason": "ウクライナとの平和交渉とロシアの要求が記事の中心であり、見出しが«максималистских требований Путина»と評価的表現を含むが、本文は交渉プロセスと具体的な要求について情報的に記述されている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Бывший белгородский губернатор Вячеслав Гладков отказался от телеграм-канала с 400 тысячами подписчиков. В Кремле недовольны, что он продолжал его вести, утверждает «Коммерсант»",
+    "link": "https://meduza.io/news/2026/11/14/byvshiy-belgorodskiy-gubernator-vyacheslav-gladkov-otkazalsya-ot-telegram-kanala-s-400-tysyachami-podpischikov-v-kremle-nedovolny-chto-on-prodolzhal-ego-vesti-utverzhdaet-kommersant",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 5,
+      "reason": "クレムリンの不満に関する『コメルサント』の報道として一方的な見解が含まれているが、事実と情報源の引用により標準的な政治報道として機能している"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Казани задержали политика Юлию Галямину",
+    "link": "https://meduza.io/news/2026/11/14/v-kazani-zaderzhali-politika-yuliyu-galyaminu",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 5,
+      "reason": "野党政治家の拘束事件で、当局側の説明と弁護士側の説明が対立しており、一方的な主張が含まれているため中立性が低い"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Венгрии у бывшего министра правительства Орбана изъяли почти 20 миллионов долларов. Часть наличных была зарыта в лесу",
+    "link": "https://meduza.io/news/2026/11/14/v-vengrii-u-byvshego-ministra-pravitelstva-orbana-iz-yali-pochti-20-millionov-dollarov-chast-nalichnyh-byla-zaryta-v-lesu",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ハンガリーの汚職事件に関する事実報道であり、ロシアとの関係性はない"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Крупнейшие российские банки согласились на маркировку своих звонков. Операторы угрожали им блокировкой вызовов",
+    "link": "https://meduza.io/news/2026/11/14/krupneyshie-rossiyskie-banki-soglasilis-na-markirovku-svoih-zvonkov-operatory-ugrozhali-im-blokirovkoy-vyzovov",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシアの通信事業者と銀行が電話着信の認証マーク導入で合意した事実を、背景の詐欺対策目的と共に報道しており、評価的表現は最小限である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "NBC перечислил компании семьи Трампа под угрозой расследований демократов",
+    "link": "https://www.rbc.ru/politics/10/11/2026/6af203c2762fc9ab336f2a4c",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 1,
+      "reason": "米国の政治スキャンダルを報じた記事で、ロシアとの関わりがなく、民主党の批判的観点が中心だが事実ベースの報道"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Экс-прокурор проверит действия юристов Трампа в споре о поле для гольфа",
+    "link": "https://www.rbc.ru/rbcfreenews/6a918e43f3df40b24e150ed5",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国内のゴルフ場再開発に関する訴訟と倫理問題を報じた記事で、ロシアとの関わりはなく、ニュース報道として標準的だが、政治的紛争が背景にある"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Стоимость биткоина опустилась ниже $65 тыс. впервые с 19 августа",
+    "link": "https://www.rbc.ru/economics/15/11/2026/6af8ce1c8e6e5c52e0f92941",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "ビットコイン価格の下落を事実ベースで報道した記事で、評価的表現がほぼなく、ロシアとは関係がない。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Кушнер сообщил о продолжении консультаций с Украиной, Россией и Европой",
+    "link": "https://www.rbc.ru/politics/14/11/2026/6af76fe82c34d7a05e35eee7",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナ紛争の和平協議に関する記事で、米国特使による進捗報告が事実中心に書かれており、ロシアが和平交渉の主要当事者として関わっている。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "На Кипре четырех украинцев заподозрили в избиении россиянина",
+    "link": "https://www.rbc.ru/rbcfreenews/6aaa4287524c1dba3e83ab9f",
+    "meta": {
+      "category": "incident",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 3,
+      "reason": "キプロスでのロシア人男性への暴行事件の報道で、ニュースポータルが国籍を強調する一方、警察発表では国籍が明記されていない点に記事の主観的傾向が見られ、ロシアが当事者として関わるが事実報道としては限定的である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Макрон обвинил критиков помощи Украине в «духе поражения»",
+    "link": "https://www.rbc.ru/politics/11/11/2026/6af44b78a0c72b252844a635",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 3,
+      "reason": "フランス大統領がウクライナ支援批判者を「敗北の精神」と評するなど、一方的な評価的表現が含まれており、ウクライナ支援政策に関わるEU内の政治的対立を報じた記事"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Корабль Starship впервые успешно сел с захватом манипуляторами башни",
+    "link": "https://www.interfax.ru/world/1129050",
+    "meta": {
+      "category": "science",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "SpaceXのStarship宇宙船の技術的成功を報道する事実中心の記事であり、ロシアとの関係がほぼなく、評価的表現も控えめである。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Спецпосланник Трампа сообщил о проработке новых предложений по Украине",
+    "link": "https://www.interfax.ru/world/1129047",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナ紛争の停戦交渉に関する報道で、アメリカの特別代表による仲介努力が話題の中心であり、ロシアは交渉当事者として関わっている。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Спецпосланник Трампа заявил, что НАТО останется основой безопасности Европы",
+    "link": "https://www.interfax.ru/world/1129044",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "米国特使のNATO評価と欧州安全保障に関する政治的発言を事実に基づいて報道しており、ウクライナ危機解決交渉におけるロシアの関与が間接的に示唆されている"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Прокатная десятка // Что посмотреть в кино на выходных 14–15 ноября",
+    "link": "https://www.kommersant.ru/doc/9109087",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア映画の週末上映作品ガイドで、映画批評家の引用を含む事実報道であり、ロシア国内の文化・映画産業が話題の中心である"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "«Ленфильм» намерен погасить долги к концу ноября",
+    "link": "https://www.kommersant.ru/doc/9108775",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア（サンクトペテルブルク）の映画スタジオの債務返済計画を伝える経済ニュースであり、歴史的背景の紹介は事実に基づいているが、本質的には組織の財務問題に関する報道である。"
+    }
+  }
+]
