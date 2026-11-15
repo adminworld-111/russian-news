@@ -1,0 +1,278 @@
+[
+  {
+    "source": "BBC",
+    "title": "Война в Украине: Эстония с 1 декабря закроет КПП на границе с Россией из-за попытки диверсии на оборонном заводе",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 4,
+      "reason": "ウクライナの戦争関連の政策と軍事成果についての記事で、ゼレンスキー大統領の評価的な発言が中心となっており、ロシアの石油精製能力への打撃という具体的な軍事的成果が報告されている。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "В Праге сотни тысяч человек вышли на протесты против реформы финансирования общественных СМИ",
+    "link": "https://www.bbc.com/russian/articles/cqg7lgkmen4vo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "チェコの公共放送資金制度改革をめぐる政治的対立を、政府と批評派双方の見解を提示して報道しており、ロシアとは無関係である"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Как Москва украинизировала Россию",
+    "link": "https://www.bbc.com/russian/articles/cmdx1vzppngro?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "history",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 5,
+      "reason": "ソビエト時代のウクライナ化政策とロシア国内のウクライナ人人口に関する歴史的分析であり、統計データの矛盾指摘など考察的内容を含むが、現代的な政治的含意が読み込まれている可能性がある"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "В Иордании трое мужчин приговорены к смертной казни за массовое убийство в церкви",
+    "link": "https://www.bbc.com/russian/articles/ckq5v2p6j718o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ヨルダンの教会襲撃事件と裁判判決を報道する事実中心の記事で、ロシアとの関連性がない"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Главная загадка «Формулы-1». Куда пропал бриллиант с капота разбившегося 22 года назад болида?",
+    "link": "https://www.bbc.com/russian/articles/c6930qk70wk8o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "sports",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "フォーミュラ1の22年前のモナコGPでのダイヤモンド紛失という謎めいた事件を、事実ベースで興味深く報道する記事で、ロシアとの関連性はない。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Starship Илона Маска впервые вернулся на стартовую площадку с помощью захвата «руками»-манипуляторами",
+    "link": "https://www.bbc.com/russian/articles/c54gnlnjd9epo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "science",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 1,
+      "reason": "SpaceXのStarshipの技術的成功を報道した記事だが、公式代表者の称賛的な引用が含まれており、ロシアとの関わりはほぼない。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Россию официально не пустили на молодежный чемпионат мира по хоккею в Канаде. Но право на проведение турнира у страны отбирать не будут",
+    "link": "https://meduza.io/news/2026/11/15/rossiyu-ofitsialno-ne-pustili-na-molodezhnyy-chempionat-mira-po-hokkeyu-v-kanade-no-pravo-na-provedenie-turnira-u-strany-otbirat-ne-budut",
+    "meta": {
+      "category": "sports",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "ロシアの若年ホッケー代表がカナダの世界選手権から除外されることを事実ベースで報道しており、IIHF声明の引用で客観性を保ちながら、ロシアとカナダの政治的対立が背景にあるスポーツニュースである"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Праге сотни тысяч человек вышли на протест за независимость общественных СМИ",
+    "link": "https://meduza.io/news/2026/11/15/v-prage-sotni-tysyach-chelovek-vyshli-na-protest-protiv-planov-pravitelstva-sokratit-finansirovanie-obschestvennyh-smi",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "チェコのプラハにおける公共放送メディアの独立を求めるデモに関する事実報道で、ロシアとの関連性がほぼなく、歴史的背景の言及がある標準的なニュース価値の記事"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "CNBC: сотрудница Megaspeed Элис Хуанг (в отношениях с ней обвинили главу Nvidia Дженсена Хуанга) не работает в компании уже больше года",
+    "link": "https://meduza.io/news/2026/11/15/cnbc-sotrudnitsa-megaspeed-elis-huang-v-otnosheniyah-s-ney-obvinili-glavu-nvidia-dzhensena-huanga-ne-rabotaet-v-kompanii-uzhe-bolshe-goda",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "シンガポール企業の人事異動と疑惑を報じた速報で、ロシアとはほぼ関係がなく、事実中心だが詳細な背景や論点に乏しい記事"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Эстонии попытались поджечь оборонное предприятие. В диверсии обвинили российскую разведку. С 1 декабря все пункты пропуска на границе с Россией закрываются",
+    "link": "https://meduza.io/news/2026/11/15/v-estonii-popytalis-podzhech-oboronnoe-predpriyatie-v-diversii-obvinili-rossiyskuyu-razvedku-s-1-dekabrya-vse-punkty-propuska-na-granitse-s-rossiey-zakryvayutsya",
+    "meta": {
+      "category": "incident",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "エストニアの防衛企業への放火未遂事件を報じており、ロシア情報機関の関与を当局が主張しているが、事実報道中心で詳細な背景情報を含む一方、ロシア側の反論がないため中立性は3とした"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Путин на встречах был как «подросток, изображающий безразличие», а Зеленский не проявлял достаточно благодарности. Вот как Байден вспоминает мировых лидеров в своих мемуарах",
+    "link": "https://meduza.io/feature/2026/11/15/bayden-vypuskaet-memuary-vot-neskolko-tsitat-iz-nih",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 3,
+      "reason": "米大統領の回想録からのプーチンとゼレンスキーの描写を報道する記事だが、«раздражительно-капризный»（いらだたしい気難しい）など評価的表現が見出しと本文に多く含まれている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Хостинг-провайдер Beget во второй раз за две недели сообщил о кибератаке на свою инфраструктуру",
+    "link": "https://meduza.io/news/2026/11/15/hosting-provayder-beget-vo-vtoroy-raz-za-dve-nedeli-soobschil-o-kiberatake-na-svoyu-infrastrukturu",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア大手ホスティング企業への大規模DDoS攻撃について、事実と企業の声明を中心に報道した記事で、客観的な情報提供が主体である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Хинштейн сообщил о минировании центра Рыльска с украинских БПЛА",
+    "link": "https://www.rbc.ru/rbcfreenews/6af9561bacb2a01a5c8b4262",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 5,
+      "reason": "ウクライナのドローンによるロシア領土への攻撃事件を報道しており、犠牲者の具体的な負傷状況を詳述することで感情的側面が強調されている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Forbes раскрыл смысл «униформы» миллиардеров",
+    "link": "https://www.rbc.ru/rbcfreenews/6af9655eacb2a01a5c8b426d",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "西側の富豪のファッション習慣に関する文化的な観察記事であり、ロシアとの関連性はほぼなく、事実報道が中心だが若干の評価的表現がある。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Депутатов учили командной работе игрой в снежки под дождем",
+    "link": "https://www.rbc.ru/politics/06/11/2026/6aec898e628e82ae29ad6ca4",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア与党「統一ロシア」の下院議員研修会についての報道で、事実中心だが見出しに軽い皮肉的トーンがあり、内容は短い速報的な告知である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Positive Technologies обнаружила изменение тактики у хакеров",
+    "link": "https://www.rbc.ru/technology_and_media/13/11/2026/6af74a5f66c2a3645c4d206a",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシア組織へのハッカー攻撃の戦術変化を、研究機関の調査データに基づいて事実中心に報道している記事で、ロシアのサイバーセキュリティに関する具体的な統計情報を含む"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Силы ПВО уничтожили более 80 беспилотников, летевших на Москву",
+    "link": "https://www.rbc.ru/rbcfreenews/6af618685ee94876bfb0172b",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ウクライナからと思われるドローン攻撃へのロシア防空部隊の対応を、公式発表に基づいて事実的に報道しており、中立性は高いが、短い速報と数値列挙が中心で教材としての深さに乏しい"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Главы МИД стран ЕС обсудят в Брюсселе Украину, Ближний Восток и арктическую стратегию союза",
+    "link": "https://www.interfax.ru/russia/1129167",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 3,
+      "reason": "EU外相会議の議題報道であり、ウクライナ問題が中心だが、ロシアによる«ハイブリッド攻撃»という評価的表現が含まれており、完全に中立的とは言えない。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Два человека пострадали в Махачкале из-за последствий сильного ветра",
+    "link": "https://www.interfax.ru/russia/1129164",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ダゲスタン共和国マハチカラで強風による事故で2人が負傷した事実を、当局発表と市役所の通知に基づいて報道した短い速報記事である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "В Минспорта заявили, что действия ИИХФ и Канады требуют жесткой реакции МОК",
+    "link": "https://www.interfax.ru/russia/1129163",
+    "meta": {
+      "category": "sports",
+      "neutrality": 2,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア選手団の国際大会参加拒否に対するロシア政府の抗議声明で、一方的な主張と強硬な表現が中心であり、ロシアの政治的立場を反映した記事である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "В выборах в Гагаузской автономии Молдавии приняли участие 37,6% избирателей",
+    "link": "https://www.interfax.ru/world/1129165",
+    "meta": {
+      "category": "politics",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 1,
+      "reason": "モルドバのガガウズ自治区における首長選挙の投票率に関する事実報道であり、ロシアとの直接的な関わりがない。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Лидеру Приднестровья запретят на пять лет выезд из Молдавии",
+    "link": "https://www.interfax.ru/world/1129162",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 3,
+      "reason": "モルドバ政府がトランスニストリア指導者に対する行政措置を報道した記事であり、政治的な対立構図を客観的に伝えているが、モスクワでの「最近の事件」について詳細な背景説明がなく、一方的な措置の発表が中心となっている"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Выяснение сношений // Выставка «Весть 2.0» открылась в Еврейском музее",
+    "link": "https://www.kommersant.ru/doc/9109971",
+    "meta": {
+      "category": "culture",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 5,
+      "reason": "モスクワのユダヤ博物館で開催された展覧会「メッセージ2.0」についての記事で、ロシア芸術とプロパガンダの関係を考察する観点が含まれている。"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "source": "Meduza",
+    "title": "Хостинг-провайдер Beget во второй раз за две недели сообщил о кибератаке на свою инфраструктуру",
+    "link": "https://meduza.io/news/2026/11/15/hosting-provayder-beget-vo-vtoroy-raz-za-dve-nedeli-soobschil-o-kiberatake-na-svoyu-infrastrukturu",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア大手ホスティング企業への大規模DDoS攻撃について、事実と企業の声明を中心に報道した記事で、客観的な情報提供が主体である"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Россию официально не пустили на молодежный чемпионат мира по хоккею в Канаде. Но право на проведение турнира у страны отбирать не будут",
+    "link": "https://meduza.io/news/2026/11/15/rossiyu-ofitsialno-ne-pustili-na-molodezhnyy-chempionat-mira-po-hokkeyu-v-kanade-no-pravo-na-provedenie-turnira-u-strany-otbirat-ne-budut",
+    "meta": {
+      "category": "sports",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "ロシアの若年ホッケー代表がカナダの世界選手権から除外されることを事実ベースで報道しており、IIHF声明の引用で客観性を保ちながら、ロシアとカナダの政治的対立が背景にあるスポーツニュースである"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "В выборах в Гагаузской автономии Молдавии приняли участие 37,6% избирателей",
+    "link": "https://www.interfax.ru/world/1129165",
+    "meta": {
+      "category": "politics",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 1,
+      "reason": "モルドバのガガウズ自治区における首長選挙の投票率に関する事実報道であり、ロシアとの直接的な関わりがない。"
+    }
+  }
+]
