@@ -1,0 +1,38 @@
+[
+  {
+    "source": "RBK",
+    "title": "Медведев стартовал с победы на первом за два года Итоговом турнире ATP",
+    "link": "https://www.rbc.ru/sport/12/11/2026/6af5bd11112bf7a63b24c5b0",
+    "meta": {
+      "category": "sports",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 4,
+      "reason": "ロシア人テニス選手の国際大会での試合結果を事実中心で報道しており、評価的表現がなく、ロシアの主要な当事者が関わるスポーツニュースである。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Филиал Revolut в Италии взяли под судебный надзор из-за операций мафии",
+    "link": "https://meduza.io/news/2026/11/16/filial-revolut-v-italii-vzyali-pod-sudebnyy-nadzor-iz-za-operatsiy-mafii",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "イタリアの裁判所によるRevolutイタリア支部の司法監督導入に関する事実報道であり、マネーロンダリング対策の不備を指摘する実質的な内容だが、ロシアとの関連性がない"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Пять стран ЕС намерены депортировать мигрантов в Руанду",
+    "link": "https://www.bbc.com/russian/articles/cv62p30nzpxxo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "EUの移民政策に関する政治的な合意の報道であり、ロシアとの関係がほぼない。"
+    }
+  }
+]

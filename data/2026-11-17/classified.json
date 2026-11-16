@@ -1,0 +1,278 @@
+[
+  {
+    "source": "BBC",
+    "title": "«С нами это не согласовалось». Россия заявила, что не соглашалась на участие Европы в переговорах о мире в Украине",
+    "link": "https://www.bbc.com/russian/articles/cme3d2yzlv3no?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナ和平交渉における欧州の参加をめぐる米露間の見解の相違が報じられており、ロシア側の主張を中心に据えながらも、米国とウクライナ側の発言も並行して紹介している点で評価的表現が一部見られる。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Война в Украине: в Камышевахе завершился поиск жертв российской атаки; Евросоюз расширил санкционный список против России",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "ウクライナにおけるロシアの軍事攻撃と犠牲者に関する事実報道であり、ロシアの行為を直接的に描写しているが、過度な感情的表現は抑制されている"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Американский судмедэксперт: Джеффри Эпштейн, вероятно, был убит, а не покончил с собой",
+    "link": "https://www.bbc.com/russian/articles/cm752w1x916po?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 2,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国の法医学専門家の推測的主張を中心に報道しており、検証可能な事実よりも医学的推測に重きを置いた一方的な構成になっている"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Как хотели уничтожить «Дельту», а она помогла уничтожить «Москву». История из первых уст",
+    "link": "https://www.bbc.com/russian/articles/c69q87wpldnzo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 2,
+      "value": 4,
+      "russia": 3,
+      "reason": "ウクライナの軍事技術システム「デルタ」の開発と実戦使用について、米国やドイツの高評価を引用して紹介する記事で、ウクライナ軍事技術の優位性を強調する評価的表現が含まれている"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Пять стран ЕС намерены депортировать мигрантов в Руанду",
+    "link": "https://www.bbc.com/russian/articles/cv62p30nzpxxo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "EUの移民政策に関する政治的な合意の報道であり、ロシアとの関係がほぼない。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Новым Джеймсом Бондом станет актер Роберт Паттинсон",
+    "link": "https://www.bbc.com/russian/articles/c6ly5n12x55yo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ハリウッド映画キャスティングのニュースで、事実的な報道だがロシアとの関係がなく、速報的な内容である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Американку Линдси Клэнси, обвиняемую в убийстве троих детей, будут судить повторно. В первый раз присяжные не смогли вынести вердикт",
+    "link": "https://meduza.io/news/2026/11/17/amerikanku-lindsi-klensi-obvinyaemuyu-v-ubiystve-troih-detey-budut-sudit-povtorno-v-pervyy-raz-prisyazhnye-ne-smogli-vynesti-verdikt",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国での殺人事件の裁判再開に関する速報で、ロシアとの関係がなく、事実中心の報道である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Камышевахе завершили поиск жертв российского удара по пункту выдачи гуманитарной помощи. Число погибших достигло 72 человек",
+    "link": "https://meduza.io/news/2026/11/16/v-kamyshevahe-zavershili-poisk-zhertv-rossiyskogo-udara-po-punktu-vydachi-gumanitarnoy-pomoschi-chislo-pogibshih-dostiglo-72-chelovek",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "ウクライナの人道支援拠点への攻撃と犠牲者数に関する事実報道であり、ロシアの軍事行動が中心的な話題だが、ウクライナ当局者の発言を引用する形式で構成されている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Крупнейшие банки США столкнулись со сбоями",
+    "link": "https://meduza.io/news/2026/11/16/krupneyshie-banki-ssha-stolknulis-so-sboyami",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国の大手銀行のシステム障害に関する速報記事で、事実中心の報道だが、ロシアとの関係がほぼなく、教材価値も低い"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Филиал Revolut в Италии взяли под судебный надзор из-за операций мафии",
+    "link": "https://meduza.io/news/2026/11/16/filial-revolut-v-italii-vzyali-pod-sudebnyy-nadzor-iz-za-operatsiy-mafii",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "イタリアの裁判所によるRevolutイタリア支部の司法監督導入に関する事実報道であり、マネーロンダリング対策の不備を指摘する実質的な内容だが、ロシアとの関連性がない"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Предполагаемая дочь Путина Луиза Розова официально стала Елизаветой Рудновой. Это фамилия умершего друга Путина",
+    "link": "https://meduza.io/news/2026/11/16/predpolagaemaya-doch-putina-luiza-rozova-ofitsialno-stala-elizavetoy-rudnovoy-eto-familiya-umershego-druga-putina",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "プーチン大統領の私生活に関する調査報道で、事実中心だが速報的性格が強く、教材価値は限定的"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Кремль не согласовал участие Европы в мирных переговорах. Как минимум еще один раунд будет трехсторонним",
+    "link": "https://meduza.io/news/2026/11/16/kreml-uchastie-evropy-v-mirnyh-peregovorah-s-rossiey-ne-soglasovyvalos-kak-minimum-esche-odin-raund-budet-trehstoronnim",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシア・米国・ウクライナの三者交渉における欧州参加問題について、クレムリンの公式見解を事実中心に報道しており、ロシア高官の発言を直接引用する形で、ロシア側の交渉立場が記事の中心となっている。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Медведев стартовал с победы на первом за два года Итоговом турнире ATP",
+    "link": "https://www.rbc.ru/sport/12/11/2026/6af5bd11112bf7a63b24c5b0",
+    "meta": {
+      "category": "sports",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 4,
+      "reason": "ロシア人テニス選手の国際大会での試合結果を事実中心で報道しており、評価的表現がなく、ロシアの主要な当事者が関わるスポーツニュースである。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Три московских аэропорта закрыли для полетов",
+    "link": "https://www.rbc.ru/rbcfreenews/6afb3a81ddad60c7cb475c01",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ウクライナ無人機によるモスクワへの攻撃とロシアの防空反応を報道した記事で、事実中心だが当局発表を引用した速報性の高い内容"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Движение автотранспорта по Крымскому мосту временно перекрыли",
+    "link": "https://www.rbc.ru/politics/16/11/2026/6afacb605260b135d5bcf023",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 5,
+      "reason": "クリミア大橋への攻撃と交通遮断という戦争関連の事実報道であるが、ウクライナ軍の攻撃を記述する際にロシア側の公式発表のみを引用しており、一定の一方性がある"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Число сбитых на подлете к Москве БПЛА достигло 180",
+    "link": "https://www.rbc.ru/politics/16/11/2026/6afa9057cfb683f692e10c4f",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ウクライナのドローン攻撃に対するモスクワの防空システムの対応を、公式発表に基づいて事実的に報道した短い速報記事である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Кремль ответил на предложение Каллас ЕС о получении данных военных России",
+    "link": "https://www.rbc.ru/politics/16/11/2026/6afb0df7ec7218a9bbbd0ed2",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 4,
+      "reason": "ロシア政府の公式見解を中心に報道したものであり、ペスコフ報道官の引用と疑問提示が主体だが、カラスの提案に対するロシアの反発という一方的な観点が強い"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "В ЕС сочли преждевременными переговоры с Россией по безопасности Европы",
+    "link": "https://www.rbc.ru/politics/15/11/2026/6af8f24357f4f7d7736e1444",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナ停戦を前提としたヨーロッパ安全保障構造の交渉をめぐるロシアとEUの立場の対立が主題であり、両者の見解が並記されているが、見出しと本文冒頭がEU側の立場を強調する構成になっている"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "В России зафиквирован прирост заболеваемости ОРВИ и гриппом",
+    "link": "https://www.interfax.ru/russia/1129412",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア国内の呼吸器感染症の流行状況を、政府保健機関の公式発表に基づいて事実的に報道した記事で、評価的表現はほぼなく、ただし速報性が強く内容が限定的である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Четвертый за сутки танкер подорвался на мине в районе Ормузского пролива",
+    "link": "https://www.interfax.ru/world/1129411",
+    "meta": {
+      "category": "incident",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "ホルムズ海峡での船舶事故の速報だが、イランの公式発表を引用する形式で、イランの立場を反映した表現«пустой риторикой и ложью»が含まれており、ロシアとの関わりはほぼない。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "В CENTCOM подтвердили, что на Ближний Восток прибыл авианосец \"Рузвельт\"",
+    "link": "https://www.interfax.ru/world/1129409",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国の航空母艦の中東配置に関する事実報道であり、ロシアとの直接的な関係は薄く、ルーティン的な軍事展開の確認記事である。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "На сумеречной службе его величества // Новым Джеймсом Бондом станет Роберт Паттинсон",
+    "link": "https://www.kommersant.ru/doc/9110908",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ハリウッド映画のキャスティングニュースであり、ロシアとの関係がなく、事実報道中心だが速報的で学習教材としての価値が低い。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Роберт Паттинсон сыграет Джеймса Бонда в следующем фильме франшизы",
+    "link": "https://www.kommersant.ru/doc/9110880",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ロバート・パティンソンのジェームス・ボンド役キャスティングに関する娯楽記事で、ボンド映画の歴史と衣装デザインについての事実的な記述が中心だが、ロシアとの関わりがない。"
+    }
+  }
+]
