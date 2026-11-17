@@ -1,0 +1,38 @@
+[
+  {
+    "source": "RBK",
+    "title": "В «Сбере» предложили решение проблемы домашних заданий",
+    "link": "https://www.rbc.ru/rbcfreenews/6a422cbc9a79474c3ffc75d9",
+    "meta": {
+      "category": "science",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシアの主要大学と金融機関による学術的研究であり、AI時代の教育評価における実証的なデータ分析が中心で、事実ベースの報告が主だが一部解釈的表現を含む。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Роспотребнадзор разработал санитарные правила по производству готовой еды",
+    "link": "https://www.interfax.ru/russia/1129684",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア保健監督庁がテイクアウト食品の製造規則を策定した事実中心の報道で、ロシア国内の食品安全政策が主題である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Правительство РФ рассмотрит законопроект о ТОР Арктики, Сибири и Дальнего Востока",
+    "link": "https://www.interfax.ru/russia/1129687",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア政府が北極圏・シベリア・極東の先進発展地域に関する法案を検討する政治的なニュースで、事実中心の報道であり、ロシア国内の経済政策が話題の中心である。"
+    }
+  }
+]

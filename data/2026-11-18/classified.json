@@ -1,0 +1,278 @@
+[
+  {
+    "source": "BBC",
+    "title": "Удар по Крымскому мосту: что эксперты говорят об ущербе, восстановлении и последствиях для полуострова",
+    "link": "https://www.bbc.com/russian/articles/cqvg2m0g150no?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "ウクライナによるクリミア橋への攻撃を軍事的な事実として報道しており、ロシア当局の公式見解と独立系専門家の分析を並記しながらも、ウクライナ側の見解が中心となっている。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Трамп, Эпштейн и путинские олигархи: что можно узнать из утечки документов Deutsche Bank",
+    "link": "https://www.bbc.com/russian/articles/cwg7lr7yjpzno?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "economy",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "ドイツ銀行の内部文書流出によるロシア人富豪との取引と制裁回避の疑惑を報じており、事実ベースながら銀行の「悪質な行為」を暗示する表現が含まれている。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Американский военный, арестованный в Британии по подозрению в шпионаже на Россию, передан его соотечественникам",
+    "link": "https://www.bbc.com/russian/articles/c6y4jmd4nx73o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 3,
+      "reason": "米軍将校のスパイ容疑での逮捕と身柄引き渡しという具体的事実を、背景情報（服務期間、基地情報、法的根拠）を交えて報道しており、事実中心で評価的表現は最小限、ロシアへのスパイ疑惑が話題の中心として関わっている。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Власти США подтвердили, что расследуют деятельность технологической компании Megaspeed",
+    "link": "https://www.bbc.com/russian/articles/cx8dvqzldn3go?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国政府がMegaspeed社の調査を確認したニュースで、事実中心の報道だが、ロシアとの関係がほぼ無く、標準的な事実報道である。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Десятки человек пострадали при лобовом столкновении поездов в Праге",
+    "link": "https://www.bbc.com/russian/articles/cqm2je606ze8o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "チェコの鉄道事故についての速報で、事実中心の報道であるが、ロシアとの関わりがなく、教材価値は低い。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Пентагон раскритиковал удары Украины вглубь России. Министр обороны Германии назвал эту позицию «довольно глупой»",
+    "link": "https://meduza.io/news/2026/11/18/pentagon-raskritikoval-udary-ukrainy-vglub-rossii-ministr-oborony-germanii-nazval-etu-pozitsiyu-dovolno-glupoy",
+    "meta": {
+      "category": "war",
+      "neutrality": 2,
+      "value": 4,
+      "russia": 3,
+      "reason": "ウクライナによるロシア深部への攻撃について米国とドイツの対立する見解を報道しており、「довольно глупой」という感情的評価や各国指導者の批判的発言が中心だが、戦争戦略に関する実質的な論点を含む"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Apple объяснила сбой в работе своих сервисов неудачным обновлением",
+    "link": "https://meduza.io/news/2026/11/17/apple-ob-yasnila-sboy-v-rabote-svoih-servisov-neudachnym-obnovleniem",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "Apple社のサービス障害に関する事実報道であり、ロシアとの関わりがなく、速報的な内容である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Telegram запретит оплачивать цифровые услуги в приложении банковскими картами. Для «авторитарных стран» сделают исключение",
+    "link": "https://meduza.io/news/2026/11/17/telegram-zapretit-oplachivat-tsifrovye-uslugi-v-prilozhenii-bankovskimi-kartami-dlya-avtoritarnyh-stran-sdelayut-isklyuchenie",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "Telegram の支払い規制に関する事実報道であり、Apple と Google の要件による制限と創業者 Pavel Durov の説明が中心で、評価的表現は少ない"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "AP: Россия применила слезоточивый газ против украинских военных, показало украинское расследование",
+    "link": "https://meduza.io/news/2026/11/17/ap-rossiya-primenila-slezotochivyy-gaz-protiv-ukrainskih-voennyh-pokazalo-ukrainskoe-rassledovanie",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 5,
+      "reason": "ウクライナの調査とAPの報道に基づく化学兵器使用の事実を報道しているが、ロシア側の見解や反論が含まれておらず、ウクライナ側の主張が中心となっている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Во Франции подразделение полиции, отвечающее подавление протестов, не вышло на работу в день массовой акции. Все сотрудники взяли больничный",
+    "link": "https://meduza.io/news/2026/11/17/vo-frantsii-podrazdelenie-politsii-otvechayuschee-podavlenie-protestov-ne-vyshlo-na-rabotu-v-den-massovoy-aktsii-vse-sotrudniki-vzyali-bolnichnyy",
+    "meta": {
+      "category": "society",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "フランスの警察部隊の集団病欠事件を報道した記事で、労働組合の主張と職員の不満が中心に述べられており、やや一方的な表現が見られるが、ロシアとの関わりはない。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "«Тюрьма похожа на репетицию собственной смерти». Александр Кынев написал первую колонку из СИЗО. Краткий пересказ",
+    "link": "https://meduza.io/feature/2026/11/17/tyurma-pohozha-na-repetitsiyu-sobstvennoy-smerti-aleksandr-kynev-napisal-pervuyu-kolonku-iz-sizo-kratkiy-pereskaz",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシア国内の政治犯の獄中記録で、記事は事実報道だが、見出しと本文に被告人の感情的な比喩表現を含み、逮捕状況の説明に「拷問」に近い処遇の可能性に言及するなど、やや一方的な印象を与える構成になっている。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Минобороны заявило о выполнении плана набора контрактников почти на 90%",
+    "link": "https://www.rbc.ru/politics/11/09/2026/6aa42455530cbcf269bba9e6",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア国防省の兵員募集計画の進捗状況についての事実報道であり、評価的表現が少なく中立的だが、速報的で学習価値に乏しい"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "В НАТО признали, что не хватило «пары миллиардов» на оружие для ВСУ",
+    "link": "https://www.rbc.ru/politics/17/11/2026/6afc810549b3d78d99d05003",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "NATOのウクライナへの軍事支援に関する進捗状況を、NATO事務総長の発言をもとに事実的に報道した記事で、ウクライナへの支援という文脈でロシアの軍事侵攻と関わっている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "В «Сбере» предложили решение проблемы домашних заданий",
+    "link": "https://www.rbc.ru/rbcfreenews/6a422cbc9a79474c3ffc75d9",
+    "meta": {
+      "category": "science",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシアの主要大学と金融機関による学術的研究であり、AI時代の教育評価における実証的なデータ分析が中心で、事実ベースの報告が主だが一部解釈的表現を含む。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Минобороны предложило учредить медаль за помощь в военной операции",
+    "link": "https://www.rbc.ru/rbcfreenews/6854201a9a7947e7ee57e80c",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア国防省が軍事作戦を支援する民間人向けの勲章を制定する提案について、事実ベースで報じた速報的な記事である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "В Швеции спрогнозировали Украине «самую тяжелую зиму»",
+    "link": "https://www.rbc.ru/rbcfreenews/6aea0aa00d6cdd0c34bbaa90",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナへの軍事支援に関する事実中心の報道であり、スウェーデン防衛相の発言を引用する形で情報を伝えており、ロシアとウクライナの戦争が話題の中心"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Apple объяснила масштабный сбой обновлением систем",
+    "link": "https://www.rbc.ru/technology_and_media/16/11/2026/6afb51093f52ccac338ad3bf",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国企業Appleのシステム障害に関する速報記事で、ロシアとの関わりがなく、事実報道中心だが情報量が限定的"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Три новых вуза созданы в системе военного образования России",
+    "link": "https://www.interfax.ru/russia/1129689",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア国防省による軍事教育機関の組織改編に関する公式発表で、事実報道中心だが速報的で情報量が限定的"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "С начала СВО звания Героя России удостоено свыше 700 военнослужащих",
+    "link": "https://www.interfax.ru/russia/1129688",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 5,
+      "reason": "ウクライナ軍事作戦中のロシア軍人への勲章授与という事実報道だが、政府高官の発言を直接引用して数字を列挙する形式で、多くの人物が表彰されたという点を強調する書きぶりが見られる"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Правительство РФ рассмотрит законопроект о ТОР Арктики, Сибири и Дальнего Востока",
+    "link": "https://www.interfax.ru/russia/1129687",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア政府が北極圏・シベリア・極東の先進発展地域に関する法案を検討する政治的なニュースで、事実中心の報道であり、ロシア国内の経済政策が話題の中心である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Российско-африканская конференция клуба \"Валдай\" пройдет в Каире",
+    "link": "https://www.interfax.ru/world/1129686",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "ロシアとアフリカ諸国間の国際会議開催の事実報道であり、参加者や議題を客観的に記述している"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Путин 18 и 19 ноября примет участие в 33-м саммите АТЭС",
+    "link": "https://www.interfax.ru/world/1129685",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "プーチン大統領のAPEC首脳会談参加予定の報道であり、事実中心で評価的表現は最小限だが、政府高官の引用に若干の説明的な文脈がある"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Роспотребнадзор разработал санитарные правила по производству готовой еды",
+    "link": "https://www.interfax.ru/russia/1129684",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア保健監督庁がテイクアウト食品の製造規則を策定した事実中心の報道で、ロシア国内の食品安全政策が主題である。"
+    }
+  }
+]
