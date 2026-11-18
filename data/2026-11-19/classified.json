@@ -1,0 +1,326 @@
+[
+  {
+    "source": "BBC",
+    "title": "«Здесь можно воевать только лоб в лоб». Репортаж Би-би-си из газопровода, в котором ВСУ ведут подземную войну",
+    "link": "https://www.bbc.com/russian/articles/cwg7lzyeng8jo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナ軍による地下ガス管での戦闘という軍事作戦の具体的な事例報道であり、ロシア軍との武力紛争が話題の中心で、事実中心の説明に加えて戦場の状況や軍人の証言を含む"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Война в Украине: российские военные нанесли удар по Одессе, четыре человека погибли",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナ軍の発表に基づいた戦闘状況の報道であり、ロシア側の損失数値など一方の見解が中心となっているため。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Саммит АТЭС в Китае: Путин, Трамп и Си Цзиньпин встретились перед трехсторонними переговорами",
+    "link": "https://www.bbc.com/russian/articles/c6wy410w08k2o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 3,
+      "reason": "APEC首脳会談における米露中三国の会合を事実中心に報道しており、評価的表現は少なく、背景情報として過去の会談や今後の議題が示されているため、学習教材として標準以上の価値がある。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "«Вояджер-1» удалился от Земли на один световой день. Для этого ему понадобилось почти 50 земных лет",
+    "link": "https://www.bbc.com/russian/articles/c3dx1njgxzkko?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "science",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "NASAの宇宙探査機ボイジャー1号の到達距離に関する科学ニュースであり、ロシアとの関わりがなく、事実中心で専門家の感想を引用した報道である。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Как ФСБ вербует активистов? | Интервью с Ритой Флорес из Pussy Riot*",
+    "link": "https://www.bbc.com/russian/watch/c5rmg7l9dlgmo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 4,
+      "russia": 4,
+      "reason": "ロシアの秘密警察による活動家への工作活動を扱う政治的な記事であり、インタビュー形式で一方の証言を中心に構成されているため中立性は低めだが、ロシアの政治体制や人権問題の背景理解としての教材価値は高い"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "IPO Anthropic. Как создатель Claude продает билеты в страну чудес и страховки от ИИ-апокалипсиса",
+    "link": "https://www.bbc.com/russian/articles/c3ewv54v5yk2o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "economy",
+      "neutrality": 2,
+      "value": 4,
+      "russia": 1,
+      "reason": "米国企業のIPOを報じた経済ニュースだが、「夢見人の約束」「ジェダイ」など評価的・皮肉的な表現が散見され、AIの安全性についても「黙示録的」との記述があり、やや一方的な論調が含まれている。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "The Kyiv Independent: США предупредили Россию, что лучше договориться о мире прямо сейчас — потом у Трампа будет меньше гибкости",
+    "link": "https://meduza.io/news/2026/11/19/the-kyiv-independent-ssha-predupredili-rossiyu-chto-ey-luchshe-dogovoritsya-o-mire-pryamo-seychas-potom-u-trampa-budet-menshe-gibkosti",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "米国がウクライナ和平交渉の緊急性を警告する動きを報道した記事で、ロシアとの交渉状況を中心に扱っており、米国内政の変化がロシアの交渉立場に与える影響という分析的な内容を含むが、一部の表現が一方的である"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Объемы нефтепереработки в России с конца октября упали почти вдвое из-за украинских атак",
+    "link": "https://meduza.io/news/2026/11/18/reuters-ob-emy-neftepererabotki-v-rossii-s-kontsa-oktyabrya-upali-pochti-vdvoe",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "ウクライナによるロシア石油精製施設への攻撃の実際の影響を、産業関係者の証言と具体的な数字で報道した記事であり、ロシア経済への戦争の影響を詳しく解説している。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "«Вояджер-1» удалился от Земли на одни световые сутки. Так далеко ни один космический аппарат еще не залетал",
+    "link": "https://meduza.io/news/2026/11/18/voyadzher-1-udalilsya-ot-zemli-na-odni-svetovye-sutki",
+    "meta": {
+      "category": "science",
+      "neutrality": 5,
+      "value": 4,
+      "russia": 1,
+      "reason": "NASAの公式発表に基づいた宇宙探査機ボイジャー1号の到達距離に関する事実報道であり、ロシアとの関わりはない。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Путин приехал в Шэньчжэнь — разделить мир с Трампом и Си. Но оказалось, что они не хотят разделить с ним даже трапезу. Четыре эпизода, демонстрирующие, как по-разному лидер Китая относится к президентам России и США",
+    "link": "https://meduza.io/feature/2026/11/18/putin-priehal-v-shenchzhen-razdelit-mir-s-trampom-i-si-no-okazalos-chto-oni-ne-hotyat-razdelit-s-nim-dazhe-trapezu",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 4,
+      "russia": 4,
+      "reason": "APEC首脳会談でのロシア・中国・米国の外交的対応の格差を事実で報じているが、見出しが評価的で、ロシア指導部の期待と現実のギャップを強調する書きぶりが一方的"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Президент Польши подарил Трампу «янтарный трон»",
+    "link": "https://meduza.io/news/2026/11/18/prezident-polshi-podaril-trampu-yantarnyy-tron",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ポーランド大統領がトランプ大統領に琥珀の椅子を贈ったという事実報道であり、ロシアとの関連性がほぼなく、短い速報的な内容である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "«Один из лучших симуляторов жизни в истории. Шедевр, стоивший всех 13 лет ожидания». Вышла новая GTA VI. Максимально коротко — про единогласные восторги критиков",
+    "link": "https://meduza.io/feature/2026/11/18/odin-iz-luchshih-simulyatorov-zhizni-v-istorii-shedevr-stoivshiy-vseh-13-let-ozhidaniya",
+    "meta": {
+      "category": "culture",
+      "neutrality": 2,
+      "value": 2,
+      "russia": 1,
+      "reason": "ゲーム新作の批評記事であり、見出しと本文に「シェディヴル」「全くの歓喜」など称賛的な表現が多く含まれているため中立性が低く、ロシアとの関わりはほぼない。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "WSJ предупредила о семи новых мультимиллиардерах после одного IPO",
+    "link": "https://www.rbc.ru/quote/10/11/2026/6af3023d89485180fcc65f2a",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国のAI企業の上場に関する経済ニュースであり、ロシアとの関わりがなく、事実報道中心だが速報的な内容"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "В Польше главу Конституционного трибунала лишили иммунитета для суда",
+    "link": "https://www.rbc.ru/politics/04/11/2026/6aeaac45f0499c07554e970c",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "ポーランドの憲法法廷における免責特権剥奪という国内政治問題であり、ロシアとの関わりがなく、事実報道が中心だが政府高官のコメントが含まれている。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Путин проведет трехстороннюю встречу с Трампом и Си",
+    "link": "https://www.rbc.ru/politics/16/11/2026/6afaf809dc023dc409ee6429",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "ロシア・中国・米国の首脳会談という国際外交ニュースで、事実に基づいた客観的な報道であり、ロシアが主要な当事者として関わる政治記事である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "«Как великим державам сосуществовать?» ИноСМИ о саммите России, США и КНР",
+    "link": "https://www.rbc.ru/politics/18/11/2026/6afdc02ec9bf559142c844ae",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 3,
+      "reason": "ロシア・米国・中国の三国首脳会談を扱う国際政治記事だが、フランスメディアの主観的な表現（«дикие кошмары»«параноидальные комментаторы»）が含まれており、中立性に欠ける"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Какие виды спорта будут доступны в GTA VI",
+    "link": "https://www.rbc.ru/rbcfreenews/6ace4201df92d56913b9a744",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ビデオゲーム『GTA VI』の機能紹介記事で、ロシアとの関連性がなく、事実的な内容紹介が中心である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "ЦБ изменит регулирование для решения проблемы переводов «квальных» бумаг",
+    "link": "https://www.rbc.ru/finances/31/08/2026/6a9144e79a7947c1570883d3",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア中央銀行が適格投資家向け有価証券の移管規制を緩和する方針を事実中心に報道しており、ロシアの金融市場規制に関する政策決定が主題である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Мишустин примет участие в работе форума \"Транспорт России\"",
+    "link": "https://www.interfax.ru/russia/1129954",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア政府首脳が運輸フォーラムに参加する予定を伝える事務的な報道であり、ロシア国内政治の公式行事に関する速報です。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Свыше 12 тысяч участников СВО получили высокотехнологичную медпомощь в 2026 году",
+    "link": "https://www.interfax.ru/russia/1129952",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア国防省高官による2026年のウクライナ戦争参加者への医療支援実績に関する公式発表で、事実中心だが速報的で情報量が限定的である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Госдума рассмотрит во II чтении бюджетный пакет на 2027-2029 гг.",
+    "link": "https://www.interfax.ru/russia/1129949",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア下院の予算案審議に関する事実報道であり、数字や手続きが中心で評価的表現が少なく、ロシア国内の政治経済が話題の中心である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Путин в четверг продолжит работу на саммите АТЭС",
+    "link": "https://www.interfax.ru/world/1129948",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 4,
+      "reason": "プーチン大統領のAPEC首脳会議への参加状況を事実ベースで報道しており、ロシア大統領補佐官の説明も中立的に引用されている速報的な記事"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Расстыковка корабля Cargo Dragon с МКС перенесена из-за непогоды в районе приводнения",
+    "link": "https://www.interfax.ru/world/1129947",
+    "meta": {
+      "category": "science",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国とSpaceXの宇宙ステーション関連の技術情報であり、ロシアとの直接的な関係がなく、天候による延期という事実報道中心である。"
+    }
+  },
+  {
+    "source": "Kommersant",
+    "title": "Variety составила топ-100 кинозвезд",
+    "link": "https://www.kommersant.ru/doc/9113118",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国の映画雑誌Varietyが選定した映画スターのランキング紹介記事で、ロシアとの関わりがなく、事実報道としては標準的だが内容が単なる人名リストと説明に留まっている"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Variety составила топ-100 кинозвезд",
+    "link": "https://www.kommersant.ru/doc/9113118",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "映画雑誌Varietyの企画記事で、海外の映画俳優ランキングであり、ロシアとの関係性がほぼない。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Съезд удивителей // В Александринском театре станцевали для Дягилева",
+    "link": "https://www.kommersant.ru/doc/9112951",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "サンクトペテルブルクのアレクサンドリンスキー劇場でのダンスパフォーマンスについての劇評で、ロシアの文化的出来事を事実的に報道している。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Джефф Безос лично помог выбрать нового исполнителя роли Бонда",
+    "link": "https://www.kommersant.ru/doc/9112716",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ハリウッド映画『ジェームス・ボンド』シリーズの新キャストに関する記事で、ロシアとの関連性がなく、事実中心の報道だが、短い速報的な内容である。"
+    }
+  }
+]

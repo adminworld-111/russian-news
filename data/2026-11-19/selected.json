@@ -1,0 +1,38 @@
+[
+  {
+    "source": "Kommersant_Culture",
+    "title": "Съезд удивителей // В Александринском театре станцевали для Дягилева",
+    "link": "https://www.kommersant.ru/doc/9112951",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "サンクトペテルブルクのアレクサンドリンスキー劇場でのダンスパフォーマンスについての劇評で、ロシアの文化的出来事を事実的に報道している。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "ЦБ изменит регулирование для решения проблемы переводов «квальных» бумаг",
+    "link": "https://www.rbc.ru/finances/31/08/2026/6a9144e79a7947c1570883d3",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア中央銀行が適格投資家向け有価証券の移管規制を緩和する方針を事実中心に報道しており、ロシアの金融市場規制に関する政策決定が主題である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Госдума рассмотрит во II чтении бюджетный пакет на 2027-2029 гг.",
+    "link": "https://www.interfax.ru/russia/1129949",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア下院の予算案審議に関する事実報道であり、数字や手続きが中心で評価的表現が少なく、ロシア国内の政治経済が話題の中心である"
+    }
+  }
+]
