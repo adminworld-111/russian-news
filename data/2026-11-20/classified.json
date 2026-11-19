@@ -1,0 +1,314 @@
+[
+  {
+    "source": "BBC",
+    "title": "«Путин и Си нам не друзья». Как на Западе реагируют на саммит Трампа в Шэньчжэне",
+    "link": "https://www.bbc.com/russian/articles/cvglr0kr9p5go?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "米国・中国・ロシア首脳会談という国際政治の出来事を事実中心に報道しているが、見出しで西側の否定的反応を先立てることで一定の評価的姿勢が見られる"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Отказ от прекращения огня и приглашение европейцев в Москву. Что сказал Путин после встречи с Трампом и Си",
+    "link": "https://www.bbc.com/russian/articles/c62e8r7jw84do?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 5,
+      "reason": "ウクライナ戦争に関するロシアの停戦交渉戦略が主題であり、プーチン大統領の発言を中心に事実を報道しているが、「Отказ от прекращения огня」という見出しの表現に評価的なニュアンスが含まれている"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Война в Украине: при обстреле Киева пострадал Владимирский собор; Трамп позвонил на саммит «Коалиции желающих»",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナ戦争に関する国際的な停戦交渉の取り組みと、ロシアの対抗姿勢を事実ベースで報道しており、ロシアの主張も引用されている。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Парламент Дании ратифицировал соглашение с США о Гренландии",
+    "link": "https://www.bbc.com/russian/articles/cmj6l7k485ewo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "デンマーク議会によるグリーンランド協定批准という政治的事実を中心に報道しており、背景としてトランプ大統領の発言による緊張緩和という文脈を提供しているが、ロシアとの直接的な関わりはない。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Четверо мужчин в Англии признаны виновными в сексуализированном насилии над женщиной, которую муж накачивал наркотиками",
+    "link": "https://www.bbc.com/russian/articles/cv702e84n4gno?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "イギリスでの性的暴力事件の法廷判決を報道した記事で、ロシアとの関連がなく、事実報道が中心だが感情的描写が一部ある。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "В США россиянина обвиняют в слежке за сотрудниками Palantir. Его мать узнала об аресте сына от Би-би-си",
+    "link": "https://www.bbc.com/russian/articles/c84gnpwvr3q0o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "ロシア人男性の米国での逮捕という具体的な事件報道であり、ロシア政府機関との関わりが指摘されているため、事実中心かつインシデント性が高く、ロシアとの関わりも中程度に強い。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Кушнер: кажется, мы убедили Россию принять гарантии на основе статьи 5 НАТО. Зеленский: я не уверен, что мы одинаково понимаем статью 5",
+    "link": "https://meduza.io/news/2026/11/19/kushner-kazhetsya-my-ubedili-rossiyu-prinyat-garantii-na-osnove-stati-5-nato-zelenskiy-ya-ne-uveren-chto-my-odinakovo-ponimaem-statyu-5",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナの安全保障とNATO第5条に関する停戦交渉が話題の中心であり、クシュナーとゼレンスキーの見解の相違が対立的に描写されている。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Спецнаграду премии «Просветитель» получила книга Александры Прокопенко «Соучастники. Почему российская элита выбрала войну»",
+    "link": "https://meduza.io/news/2026/11/19/spetsnagradu-premii-prosvetitel-poluchila-kniga-aleksandry-prokopenko-souchastniki-pochemu-rossiyskaya-elita-vybrala-voynu",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシアの政治体制と支配層の構造を分析する書籍の受賞を報じており、ロシア国内の政治が中心的な話題だが、書籍の内容説明に評価的表現が含まれている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Тренер ММА из Владикавказа, которого обвинили в домогательствах к несовершеннолетним воспитанницам, уехал на войну до окончания следствия",
+    "link": "https://meduza.io/news/2026/11/19/trener-mma-iz-vladikavkaza-kotorogo-obvinili-v-domogatelstvah-k-nesovershennoletnim-vospitannitsam-uehal-na-voynu-do-okonchaniya-sledstviya",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア南部の体操クラブ指導者による未成年者への迷惑行為疑惑と、調査中の逃亡をめぐる事件報道であり、事実中心で評価的表現は少なく、ロシア国内の事件が話題の中心である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Трамп сказал европейским лидерам, что Путин хочет закончить войну. Сам Путин говорил, что после ударов по Крымскому мосту Россия с Украиной договариваться не будет",
+    "link": "https://meduza.io/news/2026/11/19/tramp-skazal-evropeyskim-lideram-chto-putin-hochet-zakonchit-voynu-sam-putin-govoril-chto-posle-udarov-po-krymskomu-mostu-rossiya-s-ukrainoy-dogovarivatsya-ne-budet",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "ウクライナ戦争の停戦交渉が話題の中心だが、トランプの発言を報道する際に「ヨーロッパは懐疑的」という一方的な評価が含まれており、完全な中立性は欠ける。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Появились спутниковые снимки Крымского моста после третьего удара Украины за неделю",
+    "link": "https://meduza.io/news/2026/11/19/poyavilis-sputnikovye-snimki-krymskogo-mosta-posle-tretiego-udara-ukrainy-za-nedelyu",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナによるクリミア大橋への攻撃を事実ベースで報道していますが、「послание」（メッセージ）という解釈的表現や、三度の攻撃を時系列で強調する書きぶりに若干の一方的な観点が見られます。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Позавчера Украина атаковала Крымский мост ракетами из Нидерландов. Сегодня российский дрон упал рядом с нидерландским посольством. Цепочка событий",
+    "link": "https://meduza.io/feature/2026/11/19/pozavchera-ukraina-atakovala-krymskiy-most-raketami-iz-niderlandov-segodnya-rossiyskiy-dron-priletel-v-niderlandskoe-posolstvo",
+    "meta": {
+      "category": "war",
+      "neutrality": 2,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナによるクリミア大橋への攻撃とロシアの報復という武力紛争が中心であり、事実報道に加えて因果関係の連鎖を強調する見出しや構成が一定の評価性を持つ記事。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Трамп ответил Маску после его слов «Я не сторонник MAGA»",
+    "link": "https://www.rbc.ru/rbcfreenews/6af93ab9b1a0ed265a7864ba",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国の政治人物間の発言対応を報じた記事で、事実報道が中心だが、トランプの警告的な発言が含まれており若干の一方性がある。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Связанные с Visa, Mastercard и JPMorgan компании подверглись кибератаке",
+    "link": "https://www.rbc.ru/technology_and_media/18/11/2026/6afdd2c169b2888276c2183f",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国の大手金融機関を対象としたサイバー攻撃の事実報道であり、ロシアとの直接的な関係は見当たらない"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Трамп рассказал о позиции Путина и Си по конфликту с Ираном",
+    "link": "https://www.rbc.ru/rbcfreenews/6af98806938cd0f57ef52503",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "米国大統領の発言を通じてロシア、中国、イランの国際的な立場を報道した記事であり、ロシアが主要な当事者として関わる外交ニュースである。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "«Цветной» алкоголь и вино дороже ₽1000. Что будут пить россияне",
+    "link": "https://www.rbc.ru/rbcfreenews/6aeaf0e43e1b97c8d5240e89",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシアのアルコール飲料市場の需要動向と消費トレンドを分析した経済記事であり、事実ベースのデータ報道である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Продажи товаров для выживания у американского ретейлера выросли на 450%",
+    "link": "https://www.rbc.ru/politics/28/01/2026/6979cd419a7947aa8b9c1a74",
+    "meta": {
+      "category": "economy",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国小売企業の売上増加を報じた経済ニュースだが、ロシアとの関わりがなく、背景説明や深い分析に欠ける短めの速報である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Politico узнало о звонке Трампа в Берлин с резким вопросом о помощи Киеву",
+    "link": "https://www.rbc.ru/politics/19/11/2026/6aff0b799c168bce613c88d0",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "ウクライナへの軍事支援をめぐるトランプ大統領の発言が主題で、米欧関係と戦争支援という二重の背景があり、一部評価的表現（«резко»や«скептически»）があるが事実報道が中心"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "В Совбезе Армении считают, что в Конституции не нужно закреплять положение о вступлении в ЕС",
+    "link": "https://www.interfax.ru/world/1130284",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 2,
+      "reason": "アルメニアの憲法改正におけるEU加盟条項の是非に関する政府高官の見解を報道したもので、事実中心だが異なる政治勢力の意見対立が背景にあり、ロシアとの直接的な関わりは薄い。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Война с Ираном обошлась ВС США в $48 млрд",
+    "link": "https://www.interfax.ru/world/1130283",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国とイランの軍事紛争にかかる米軍の支出額を報じた記事で、事実中心の報道だがロシアとの関連性がない"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Норвегия и Великобритания поставят Украине патрульные катера",
+    "link": "https://www.interfax.ru/world/1130282",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "ノルウェーとイギリスのウクライナへの軍事支援（哨戒艇の供与）に関する事実報道であり、戦争関連の軍事支援が記事の中心であるため"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Президент США не отказывается от возможности встретиться с лидером КНДР",
+    "link": "https://www.interfax.ru/world/1130281",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国大統領と北朝鮮指導者の会談の可能性についての報道であり、ロシアとほぼ関係がなく、事実報道中心の短い速報である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Трамп заявил, что основное внимание на саммите США, РФ и КНР уделялось Украине",
+    "link": "https://www.interfax.ru/world/1130280",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "米国大統領のウクライナに関する発言を報道した記事で、事実中心だがトランプ発言の引用が主体であり、ロシア・中国・イランを含む国際的な紛争が議論の対象となっている"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Власти Сомали высылают из посла ОАЭ и отзывают своего посла из Абу-Даби",
+    "link": "https://www.interfax.ru/world/1130279",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "ソマリアとUAE間の外交的対立を報じた記事で、ソマリア政府の「開放的侵略」という一方的評価が含まれており、また本文の冒頭部分ではロシアとの関わりがない。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Variety составила топ-100 кинозвезд",
+    "link": "https://www.kommersant.ru/doc/9113118",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "映画スターのランキング紹介という文化的な記事で、事実に基づいているが短い速報的な内容であり、ロシアとの関わりがない。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Съезд удивителей // В Александринском театре станцевали для Дягилева",
+    "link": "https://www.kommersant.ru/doc/9112951",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシアの国立劇場アレクサンドリンスキー劇場でのダンスパフォーマンスについて、事実的に報道されており、ロシア国内の文化事象が話題の中心である。"
+    }
+  }
+]

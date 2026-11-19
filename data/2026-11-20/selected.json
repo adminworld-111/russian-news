@@ -1,0 +1,38 @@
+[
+  {
+    "source": "Kommersant_Culture",
+    "title": "Съезд удивителей // В Александринском театре станцевали для Дягилева",
+    "link": "https://www.kommersant.ru/doc/9112951",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシアの国立劇場アレクサンドリンスキー劇場でのダンスパフォーマンスについて、事実的に報道されており、ロシア国内の文化事象が話題の中心である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "«Цветной» алкоголь и вино дороже ₽1000. Что будут пить россияне",
+    "link": "https://www.rbc.ru/rbcfreenews/6aeaf0e43e1b97c8d5240e89",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシアのアルコール飲料市場の需要動向と消費トレンドを分析した経済記事であり、事実ベースのデータ報道である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Тренер ММА из Владикавказа, которого обвинили в домогательствах к несовершеннолетним воспитанницам, уехал на войну до окончания следствия",
+    "link": "https://meduza.io/news/2026/11/19/trener-mma-iz-vladikavkaza-kotorogo-obvinili-v-domogatelstvah-k-nesovershennoletnim-vospitannitsam-uehal-na-voynu-do-okonchaniya-sledstviya",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア南部の体操クラブ指導者による未成年者への迷惑行為疑惑と、調査中の逃亡をめぐる事件報道であり、事実中心で評価的表現は少なく、ロシア国内の事件が話題の中心である。"
+    }
+  }
+]
