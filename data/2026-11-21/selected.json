@@ -1,0 +1,38 @@
+[
+  {
+    "source": "RBK",
+    "title": "Даниил Медведев впервые за три года вышел в полуфинал Итогового турнира",
+    "link": "https://www.rbc.ru/sport/20/11/2026/6b001e316fbc5c750ffa4d77",
+    "meta": {
+      "category": "sports",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア人テニス選手メドベージェフの試合結果と成績を事実的に報道した速報記事であり、感情的表現がなく中立的だが、内容は試合結果の基本情報が中心"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Путин объяснил значение выражения «Москва — третий Рим»",
+    "link": "https://www.rbc.ru/rbcfreenews/6b0054603559e147749d1602",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "プーチン大統領がセルビア人映画監督のインタビューで«モスクワ第三のローマ»という歴史的表現の意味を説明した政治的発言の報道であり、ロシアのアイデンティティと文化的伝統に関わる内容である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Математик из Anthropic заявил, что вместе с ИИ-моделью Claude доказал гипотезу Римана. Это одна из «задач тысячелетия», которую не могут решить больше 160 лет",
+    "link": "https://meduza.io/news/2026/11/20/matematik-iz-anthropic-zayavil-chto-vmeste-s-ii-modelyu-claude-dokazal-gipotezu-rimana-eto-odna-iz-zadach-tysyacheletiya-kotoruyu-ne-mogut-reshit-bolshe-160-let",
+    "meta": {
+      "category": "science",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "数学の大発見を事実中心に報道した記事で、ロシアとの関係性は低い"
+    }
+  }
+]

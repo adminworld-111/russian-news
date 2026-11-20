@@ -1,0 +1,302 @@
+[
+  {
+    "source": "BBC",
+    "title": "Британия и ЕС впервые после брексита сделали шаг навстречу друг другу. Следующий — не скоро",
+    "link": "https://www.bbc.com/russian/articles/cq2e8rygzykro?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "英国とEUの関係改善に関する政治的合意を、事実ベースで報道しており、ロシアとの関わりはない"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Дания высылает российского военного атташе из-за дела о покушении на убийство рэпера Киевстонера",
+    "link": "https://www.bbc.com/russian/articles/cwm25y0d3yr7o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "デンマークのロシア軍事附属官追放という外交的対抗措置を事実に基づいて報道しているが、デンマーク外相の評価的な発言（«Хватит, и давно уже хватит»）が重視されており、一定の一方的視点が存在する"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Война в Украине: Россия нанесла ракетный удар по трем мостам в Киеве",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナ戦争とロシアの和平交渉の意思を報道する記事で、米国とウクライナ側の複数の見解を引用しているが、トランプ大統領とプーチン大統領の関係に関する評価的表現が含まれている。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Во время казни в Техасе, продлившейся более часа, осужденный кричал от боли",
+    "link": "https://www.bbc.com/russian/articles/cr894y2q752xo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国テキサス州での死刑執行に関する記事で、ロシアとの関わりがなく、事実報道ながら受刑者の苦痛に焦点が置かれている"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "В Британии не взламывали холодильники в супермаркетах. Это предотвратила секретная операция",
+    "link": "https://www.bbc.com/russian/articles/c97728y4xpz0o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "イギリスの冷蔵設備へのサイバー攻撃対策に関する事実報道であり、ロシアとの関わりがほぼないため"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Игра на миллиарды: GTA VI бьет рекорды продаж и популярности",
+    "link": "https://www.bbc.com/russian/articles/ck9d7en06ng8o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "culture",
+      "neutrality": 2,
+      "value": 2,
+      "russia": 1,
+      "reason": "ビデオゲーム『GTA VI』の売上成功についての記事だが、「最も待ち望まれた」「学生が授業をサボる」「大人が休暇を取る」など誇張的で感情的な表現が多く含まれており、また記事の対象はアメリカの企業と製品でロシアとの関わりがほぼない。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Россия нанесла удар по Кривому Рогу. Ранены 20 человек, погибли семилетний ребенок и фельдшер скорой помощи",
+    "link": "https://meduza.io/news/2026/11/20/rossiya-nanesla-udar-po-krivomu-rogu-raneny-20-chelovek",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシアによるウクライナ・クリヴィイ・リフへの爆撃と被害報告の事実中心記事で、死傷者数や被害内容が具体的に記載されている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "FT: в администрации Трампа хотят, чтобы Россия и Украина заключили мирное соглашение к началу января",
+    "link": "https://meduza.io/news/2026/11/20/ft-v-administratsii-trampa-hotyat-chtoby-rossiya-i-ukraina-zaklyuchili-mirnoe-soglashenie-k-nachalu-yanvarya",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "停戦交渉の背景と米国の動向を報道しており、複数の情報源の引用から多角的理解が得られるが、«американцы давят»や«Трампу нравится Путин»といった評価的表現が含まれている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Дания вышлет российского военного атташе и ужесточит выдачу виз гражданам РФ",
+    "link": "https://meduza.io/news/2026/11/20/daniya-vyshlet-rossiyskogo-voennogo-attashe-i-uzhestochit-vydachu-viz-grazhdanam-rf",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "デンマークのロシア軍事アタッシェ追放とビザ発給厳格化の政治的決定に関する記事で、事実を中心に報道しながらデンマーク政府の政策発表を伝えており、ロシアが重要な当事者として関わっている。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Роман Протасевич выпустил передачу о своей бывшей девушке Софье Сапеге на белорусском пропагандистском канале. Для этого у нее обманом пытались взять интервью в Литве — якобы для «Новой газеты»",
+    "link": "https://meduza.io/feature/2026/11/20/roman-protasevich-vypustil-peredachu-o-svoey-byvshey-devushke-sofie-sapege-na-belorusskom-propagandistskom-kanale",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 2,
+      "reason": "ベラルーシの国営メディアによる個人への攻撃的な番組を報道した記事で、プロパガンダ的性格と被害者への同情的な記述が混在しており、中立性が低い。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Мэр Нарвы потребовал создать «гуманитарные коридоры» для экстренных поездок в Россию. Границу с ней Эстония закрывает с 1 декабря",
+    "link": "https://meduza.io/news/2026/11/20/mer-narvy-potreboval-sozdat-gumanitarnye-koridory-dlya-ekstrennyh-poezdok-v-rossiyu-granitsu-s-ney-estoniya-zakryvaet-s-1-dekabrya",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 3,
+      "reason": "エストニアとロシアの国境政策に関する政治的対立が主題であり、市長の一方的な主張が強調されているため中立性が低い。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Математик из Anthropic заявил, что вместе с ИИ-моделью Claude доказал гипотезу Римана. Это одна из «задач тысячелетия», которую не могут решить больше 160 лет",
+    "link": "https://meduza.io/news/2026/11/20/matematik-iz-anthropic-zayavil-chto-vmeste-s-ii-modelyu-claude-dokazal-gipotezu-rimana-eto-odna-iz-zadach-tysyacheletiya-kotoruyu-ne-mogut-reshit-bolshe-160-let",
+    "meta": {
+      "category": "science",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "数学の大発見を事実中心に報道した記事で、ロシアとの関係性は低い"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Экс-президента Бразилии Жаира Болсонару снова госпитализировали",
+    "link": "https://www.rbc.ru/politics/21/11/2026/6b00b94be852c8ecfdb011cb",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 1,
+      "russia": 1,
+      "reason": "ブラジルの前大統領の健康問題に関する速報的な事実報道であり、ロシアとの関わりがない"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Президент Чехии заявил, что страна может стать «целью для России»",
+    "link": "https://www.rbc.ru/politics/21/11/2026/6b00b88e280c57227fec8a34",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナへの軍事支援国がロシアの攻撃対象になる可能性について政治指導者の発言を報道しており、ロシアの立場に関する一行も加えられているが、ポーランドのミサイル落下事件の「証拠は示されなかった」という注記により若干のバランスが取られている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Даниил Медведев впервые за три года вышел в полуфинал Итогового турнира",
+    "link": "https://www.rbc.ru/sport/20/11/2026/6b001e316fbc5c750ffa4d77",
+    "meta": {
+      "category": "sports",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア人テニス選手メドベージェフの試合結果と成績を事実的に報道した速報記事であり、感情的表現がなく中立的だが、内容は試合結果の基本情報が中心"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Путин объяснил значение выражения «Москва — третий Рим»",
+    "link": "https://www.rbc.ru/rbcfreenews/6b0054603559e147749d1602",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "プーチン大統領がセルビア人映画監督のインタビューで«モスクワ第三のローマ»という歴史的表現の意味を説明した政治的発言の報道であり、ロシアのアイデンティティと文化的伝統に関わる内容である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "NYT узнала о связи любовницы Хуанга с оборонным сектором Китая",
+    "link": "https://www.rbc.ru/technology_and_media/20/11/2026/6b00a6e852f4694672daf21f",
+    "meta": {
+      "category": "economy",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "米中関係と企業スキャンダルが主題であり、ロシアとの関わりがなく、調査結果の報道ながら一部感情的な表現（«громкого скандала»など）が含まれている。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Эксперты оценили влияние визита европейцев в Москву на переговоры",
+    "link": "https://www.rbc.ru/politics/19/11/2026/6aff06270bbcbd0cb8c8336b",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 4,
+      "reason": "ウクライナ交渉に関するロシア専門家の見解を報道しており、ロシアが主要な当事者として扱われているが、専門家の意見や解釈が中心となっているため中立性が若干低い"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Вопрос о военной базе США в Польше может быть решен в начале декабря",
+    "link": "https://www.interfax.ru/world/1130526",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 2,
+      "reason": "米国のポーランド軍事基地配置に関するポーランド国防副大臣の発言を事実中心に報道した短めのニュースで、ロシアとの直接的な関わりは薄い"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Трамп согласился с оценкой Вэнса о влиянии конфликта с Ираном на итоги выборов в США",
+    "link": "https://www.interfax.ru/world/1130525",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国大統領と副大統領の発言を報道する標準的な政治記事だが、イラン紛争の影響についての評価的主張が中心であり、ロシアとはほぼ関係がない。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Уиткофф и Кушнер провели в Берлине переговоры с главой МИД Катара по Ирану",
+    "link": "https://www.interfax.ru/world/1130524",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国とカタール、イランの間の外交交渉についての報道であり、ロシアは直接的には関わっていない。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Путин призвал украинцев, в том числе военнослужащих, переходить на сторону РФ",
+    "link": "https://www.interfax.ru/russia/1130523",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 5,
+      "reason": "ウクライナ兵士の投降呼びかけという戦争に関わる政治的主張が中心で、プーチンの引用を通じてロシア側の立場が表現されており、中立性が部分的である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Президент США пригрозил высокими налогами за создание дата-центров вне США",
+    "link": "https://www.interfax.ru/world/1130522",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国大統領の経済政策発表を事実中心に報道した記事で、ロシアとの直接的な関係は薄いが、データセンター構築に関する米国政策の背景や示唆を理解するための情報が限定的である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Трамп заявил, что пока не хочет рассуждать о возможных гарантиях безопасности для Украины",
+    "link": "https://www.interfax.ru/world/1130521",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナ危機の解決交渉と安全保障について、米国大統領の公式発言を直接報道したニュースで、事実中心の記事だが、ロシアとウクライナ紛争解決の交渉という国際的な主要な話題であり、ロシアが当事者として関わっている"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Прокатная десятка // Что посмотреть в кино на выходных 21–22 ноября",
+    "link": "https://www.kommersant.ru/doc/9123630",
+    "meta": {
+      "category": "culture",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 1,
+      "reason": "映画批評家の感想を中心とした週末の映画紹介記事であり、ロシア国内の文化報道だが、評価的な表現が含まれており、短い速報的な内容である。"
+    }
+  }
+]
