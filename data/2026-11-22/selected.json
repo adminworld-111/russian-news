@@ -1,0 +1,38 @@
+[
+  {
+    "source": "RBK",
+    "title": "Медведев проиграл первой ракетке мира в полуфинале Итогового турнира ATP",
+    "link": "https://www.rbc.ru/sport/18/11/2026/6afdac8cc3b388e53d49e97d",
+    "meta": {
+      "category": "sports",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 4,
+      "reason": "ロシアのテニス選手メドベーデフのATPファイナル準決勝での敗戦を事実ベースで報じた速報記事であり、感情的表現がなく中立的だが、内容は試合結果の報道に限定されている。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Хакеры ФСБ начали новые фишинговые атаки на журналистов. Среди целей оказались Христо Грозев и один из авторов «Панамского архива»",
+    "link": "https://meduza.io/feature/2026/11/21/hakery-fsb-nachali-novye-fishingovye-ataki-na-zhurnalistov-sredi-tseley-okazalis-hristo-grozev-i-odin-iz-avtorov-panamskogo-arhiva",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "ロシアのFSBに関連すると推定されるハッカーによるフィッシング攻撃という具体的な事件報道であり、事実中心の記述でありながら、ロシア国家機関の違法行為が明確に指摘されている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Дания призвала страны ЕС прекратить выдачу туристических виз россиянам",
+    "link": "https://meduza.io/news/2026/11/21/daniya-prizvala-strany-es-prekratit-vydachu-turisticheskih-viz-rossiyanam",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "デンマークのシェンゲン圏へのロシア人観光ビザ停止提案という政治的な外交措置についての事実報道であり、感情的表現は少なく、背景となった容疑事件の経緯も含まれているが、速報的な構成"
+    }
+  }
+]

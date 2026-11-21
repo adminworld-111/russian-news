@@ -1,0 +1,254 @@
+[
+  {
+    "source": "BBC",
+    "title": "Война в Украине: воздушная тревога в Калининградской области и атака на судно в Финском заливе",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 5,
+      "reason": "ウクライナ戦争に関連したロシア領内での空襲警報と軍事関連の事象を報道しており、政府発表と独立メディア報道の相違が示唆される一方的でない複数視点を含むが、事実確認が不完全な記述がある。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Принцесса Уэльская рассказала о своем опыте борьбы с раком в документальном фильме",
+    "link": "https://www.bbc.com/russian/articles/c820qxwx6zlko?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "イギリス皇族の健康問題に関する報道であり、ロシアとの関わりがなく、事実報道中心だが速報的な内容"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Климатический саммит в Турции зашел в тупик и не может принять итоговое соглашение",
+    "link": "https://www.bbc.com/russian/articles/ck5y1p56x64qo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "国際的な気候交渉の膠着状況を事実ベースで報道しており、ロシアは当事者として登場しない"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Беспилотники атаковали в Финском заливе грузовое судно, шедшее в Калининград",
+    "link": "https://www.bbc.com/russian/articles/cmq5vwzl7660o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナによるロシア船舶への無人機攻撃という武力紛争の具体的な事例報道であり、事実中心で背景情報（制裁理由、地理的詳細）を含むが、攻撃主体が明記されていない点でやや中立性が損なわれている"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Почему невинный обман и украденные вкусняшки — важная часть детства и не всегда плохо",
+    "link": "https://www.bbc.com/russian/articles/c84gn790p973o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "子どもの発達心理学に関する専門家の知見を紹介する教育記事で、ロシアとの関わりはなく、BBC翻訳記事である"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Корпункт в СИЗО. Как азербайджанские журналисты работают из тюрьмы",
+    "link": "https://www.bbc.com/russian/articles/c5vg279k198ro?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "アゼルバイジャンの獄中ジャーナリストの実態を具体的な事例で報道した記事で、ロシアとの直接的な関係は薄く、言論弾圧という国際的な人権問題を事実中心に描いている。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Дания призвала страны ЕС прекратить выдачу туристических виз россиянам",
+    "link": "https://meduza.io/news/2026/11/21/daniya-prizvala-strany-es-prekratit-vydachu-turisticheskih-viz-rossiyanam",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "デンマークのシェンゲン圏へのロシア人観光ビザ停止提案という政治的な外交措置についての事実報道であり、感情的表現は少なく、背景となった容疑事件の経緯も含まれているが、速報的な構成"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Зеленский предложил эвакуировать жителей 15 населенных пунктов по примеру Алешек",
+    "link": "https://meduza.io/news/2026/11/21/zelenskiy-predlozhil-evakuirovat-zhiteley-15-naselennyh-punktov-po-primeru-aleshek",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナ大統領の提案を中心とした戦争関連の報道で、事実報道が主だが「人道的大惨事の危機」という評価的表現が含まれ、ウクライナ側の視点が中心"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Жерара Депардье и Мишеля Уэльбека обвинили в изнасиловании актрисы во время съемок фильма «Спа». Новые обвинения в адрес актера появились за неделю до суда по другому делу о сексуализированном насилии",
+    "link": "https://meduza.io/feature/2026/11/21/zherara-depardie-i-mishelya-uelbeka-obvinili-v-iznasilovanii-aktrisy-vo-vremya-s-emok-filma-spa",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "フランスの著名人に対する性的暴力容疑に関する速報であり、ロシアとの直接的な関係がなく、事実報道中心だが情報が限定的である"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Хакеры ФСБ начали новые фишинговые атаки на журналистов. Среди целей оказались Христо Грозев и один из авторов «Панамского архива»",
+    "link": "https://meduza.io/feature/2026/11/21/hakery-fsb-nachali-novye-fishingovye-ataki-na-zhurnalistov-sredi-tseley-okazalis-hristo-grozev-i-odin-iz-avtorov-panamskogo-arhiva",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "ロシアのFSBに関連すると推定されるハッカーによるフィッシング攻撃という具体的な事件報道であり、事実中心の記述でありながら、ロシア国家機関の違法行為が明確に指摘されている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Техасе казнили 70-летнего Рейнальдо Деннеса. После двух смертельных инъекций он кричал и жаловался на боль. Власти допустили, что он симулирует",
+    "link": "https://meduza.io/feature/2026/11/21/v-tehase-kaznili-70-letnego-reynaldo-dennesa-posle-dvuh-smertelnyh-in-ektsiy-on-krichal-i-zhalovalsya-na-bol-vlasti-dopustili-chto-on-simuliruet",
+    "meta": {
+      "category": "incident",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国テキサス州での死刑執行という事実を報道しているが、見出しで受刑者の苦痛や当局の対応を強調する書き方が一定の評価的トーンを含んでおり、ロシアとの関係性がない。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Маколей Калкин снимется в продолжении франшизы «Один дома»",
+    "link": "https://meduza.io/news/2026/11/21/makoley-kalkin-snimetsya-v-prodolzhenii-franshizy-odin-doma",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ハリウッド映画の続編制作に関する報道で、ロシアとの関わりがなく、速報的な事実報道が中心である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Bloomberg сообщил об интересе к кожаным курткам после скандала с Хуангом",
+    "link": "https://www.rbc.ru/rbcfreenews/6b00955fcaea19dc5115ced7",
+    "meta": {
+      "category": "society",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 1,
+      "reason": "ファッション業界とセレブリティスキャンダルの関連性を扱った文化社会記事で、一部の評価的表現を含みロシアとの関わりがない。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Медведев проиграл первой ракетке мира в полуфинале Итогового турнира ATP",
+    "link": "https://www.rbc.ru/sport/18/11/2026/6afdac8cc3b388e53d49e97d",
+    "meta": {
+      "category": "sports",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 4,
+      "reason": "ロシアのテニス選手メドベーデフのATPファイナル準決勝での敗戦を事実ベースで報じた速報記事であり、感情的表現がなく中立的だが、内容は試合結果の報道に限定されている。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Похитивший 10-летнего мальчика на Урале мужчина находился в розыске",
+    "link": "https://www.rbc.ru/rbcfreenews/66a780dd9a7947c959032e2b",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ウラル地域における児童誘拐事件と容疑者排除についての事実報道であり、ロシア国内の事件を客観的に伝えているが、速報的な内容で教材価値は限定的である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "«Правила не для всех». Как Магнус Карлсен разозлил шахматный мир",
+    "link": "https://www.rbc.ru/sport/15/11/2026/6af9e5678ca78b70d16892a3",
+    "meta": {
+      "category": "sports",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 1,
+      "reason": "チェスの国際大会におけるノルウェー選手の規則利用問題を報道した記事で、ロシアとの直接的な関わりはなく、見出しの«разозлил»（怒らせた）という表現に評価的なニュアンスがある"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Рютте пообещал защитить «каждый сантиметр» Польши",
+    "link": "https://www.rbc.ru/politics/20/11/2026/6b002632b009006485a4d03b",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 2,
+      "reason": "ポーランド領土へのNATO防衛コミットメントに関する政治的な安全保障声明であり、戦闘よりも外交・政治が中心だが、ウクライナ戦争の文脈で事実中心に報道されている"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Ракета SpaceX отправила на орбиту новую группу американских разведывательных спутников Starshield",
+    "link": "https://www.interfax.ru/russia/1130618",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国とSpaceXの衛星打ち上げに関する事実報道であり、ロシアとの関係性がほぼなく、速報的な内容である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Трамп назвал Вэнса и Рубио возможными кандидатами в президенты в 2028 году",
+    "link": "https://www.interfax.ru/world/1130617",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国の2028年大統領選挙の共和党候補者に関する速報であり、ロシアとの直接的な関わりはなく、トランプの発言をほぼ事実ベースで報道している。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Puck: Маколей Калкин снимется в продолжении франшизы «Один дома»",
+    "link": "https://www.kommersant.ru/doc/9126970",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ハリウッド俳優マコーレー・カルキンの経歴と映画出演に関する事実中心の記事であり、ロシアとの関わりがほぼない。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Прокатная десятка // Что посмотреть в кино на выходных 21–22 ноября",
+    "link": "https://www.kommersant.ru/doc/9123630",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "映画批評家の推薦コラムで、週末の映画鑑賞ガイドであり、ロシアとの関わりがほぼない。"
+    }
+  }
+]
