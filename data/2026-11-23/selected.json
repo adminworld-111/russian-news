@@ -1,0 +1,38 @@
+[
+  {
+    "source": "RBK",
+    "title": "Стубб заявил, что атакованный российский сухогруз покинул воды Финляндии",
+    "link": "https://www.rbc.ru/politics/21/11/2026/6b01ddabc8b289a334eb3c48",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "ロシア船舶への無人機攻撃という具体的事実を中心に報道し、フィンランド大統領とロシア地域首長の発言を並列で記載した客観的な報告である。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Волновавшая математиков 170 лет гипотеза Римана повержена. По всей видимости, ее с помощью ИИ доказал сотрудник компании Anthropic",
+    "link": "https://www.bbc.com/russian/articles/cmvg2pyp77ypo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "science",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "リーマン予想の証明という国際的な科学的成果を報道する記事であり、ロシアとの関わりはほぼない。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Более 110 судов прошли через Ормузский пролив за последние 72 часа",
+    "link": "https://www.interfax.ru/world/1130699",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "ホルムズ海峡の船舶通航量に関する国際的な海運統計の報道であり、ロシアとの直接的な関連性が薄く、事実ベースの経済情報である"
+    }
+  }
+]

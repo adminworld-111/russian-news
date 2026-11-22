@@ -1,0 +1,266 @@
+[
+  {
+    "source": "BBC",
+    "title": "На российском военном корабле, стоявшем в Бенгази, произошли взрывы. Власти Ливии предполагают, что его атаковали дроны",
+    "link": "https://www.bbc.com/russian/articles/cmx20yzz5px7o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "ロシア軍艦の攻撃と推定される事件を事実中心に報道しており、未確認情報であることを明示しながら、背景情報（艦の配置、任務）も含めて報じている"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Климатический саммит в Турции закрылся без компромиссов и без соглашения",
+    "link": "https://www.bbc.com/russian/articles/cmwy0q0ld927o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "トルコで開催された気候サミットの合意失敗を事実中心に報道しており、評価的表現が限定的で、ロシアとの関連性がほぼない国際政治ニュース。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Война в Украине: под Киевом разрушена жилая пятиэтажка; воздушная тревога в Калининградской области",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナ大統領の発言を中心に、ロシアの攻撃戦術とインフラ被害を報道しており、ロシア側の見解がないため一方的だが、戦況の具体的な背景情報が含まれている。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Волновавшая математиков 170 лет гипотеза Римана повержена. По всей видимости, ее с помощью ИИ доказал сотрудник компании Anthropic",
+    "link": "https://www.bbc.com/russian/articles/cmvg2pyp77ypo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "science",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "リーマン予想の証明という国際的な科学的成果を報道する記事であり、ロシアとの関わりはほぼない。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Война пленок и «Мексиканец» без лица. Как развивается дело «Карфаген-2»",
+    "link": "https://www.bbc.com/russian/articles/c8vg2pp5er0do?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 1,
+      "reason": "ウクライナの特務機関幹部逮捕という国内政治スキャンダルが中心で、大統領の評価的発言を引用しており、ロシアとの直接的な関わりはない。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "«Вы видели ее живой?» Как подросток-геймер в США и его мать помогли спасти похищенную девочку",
+    "link": "https://www.bbc.com/russian/articles/cvkg5rpyn9plo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国でのオンラインゲームを通じた誘拐事件の救出劇で、事実中心の報道だがロシアとの関係性がない。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "У берегов Ливии атаковано грузовое судно. Возможно, снова российское",
+    "link": "https://meduza.io/news/2026/11/22/u-beregov-livii-atakovano-gruzovoe-sudno-vozmozhno-snova-rossiyskoe",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 4,
+      "reason": "ウクライナの無人艇によるロシア関連船舶への攻撃を報道した記事で、異なる情報源の見方を提示しているが、ロシア武器輸送疑惑など評価的な文脈を含んでいる"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Бывшему топ-менеджеру «Интер РАО» Карине Цуркан, получившей 15 лет колонии за шпионаж, заменили наказание на принудительные работы",
+    "link": "https://meduza.io/news/2026/11/22/byvshiy-top-menedzher-inter-rao-karina-tsurkan-poluchivshaya-15-let-za-shpionazh-dobilas-zameny-nakazaniya-prinuditelnye-raboty-vmesto-lisheniya-svobody",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア国内の司法判決について報じており、事実中心だが、被告側の主張（証拠捏造疑惑など）も含まれることで一定の均衡がみられる記事である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "«Худший саммит в истории». Главная в мире конференция по климату завершается скандалом: ее участники не смогли согласовать текст ключевого документа",
+    "link": "https://meduza.io/feature/2026/11/22/hudshiy-sammit-v-istorii",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "国連気候変動会議の合意失敗という国際政治的出来事を、事実ベースで報道しており、ロシアとの直接的な関わりは見られない。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "The Washington Post: Путин согласился на гарантии для Украины по аналогии с пятой статьей устава НАТО — но без размещения войск альянса в стране",
+    "link": "https://meduza.io/news/2026/11/22/the-washington-post-putin-soglasilsya-na-garantii-bezopasnosti-dlya-ukrainy-po-analogii-s-pyatoy-statiey-ustava-nato-no-bez-razmescheniya-voysk-alyansa-v-strane",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナ停戦交渉に関するロシアの条件について、プーチンの合意内容や要求が具体的に報道されており、戦争終結に向けた外交的進展が話題の中心だが、一部推測的表現が含まれている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Украинские дроны атаковали российский корвет «Меркурий» в порту Бенгази. Он затонул",
+    "link": "https://meduza.io/news/2026/11/22/naval-news-v-livii-vzorvalsya-rossiyskiy-voennyy-korabl",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナドローンによるロシア軍艦攻撃という戦闘が話題の中心で、見出しで結論を先取りする一方、本文では不確実性を示す慎重な表現も含まれている。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Демократы получили максимум мест в палате представителей США с 1992 года",
+    "link": "https://www.rbc.ru/politics/04/11/2026/6aeb007c69e9b8afc0ec6622",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国の選挙結果を事実ベースで報道した速報であり、ロシアとの関わりがなく、教材価値も限定的である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Хуситы сообщили об атаке на НПЗ на западе Саудовской Аравии",
+    "link": "https://www.rbc.ru/sport/03/11/2026/6ae9862316b7d106462db7e1",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "サウジアラビアとイエメン・フーシ派間の武力紛争を報道した記事で、双方の発表を並列に記述しており中立性が高いが、ロシアとの関わりがなく、また短めの速報的な内容である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Российского бойца ММА Амира Алиева освободили после задержания во Франции",
+    "link": "https://www.rbc.ru/rbcfreenews/6b017959cccf1d3a739b3556",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 4,
+      "reason": "ロシア人格闘技選手がフランスで誤った逮捕を受けた事件を、警察の誤りを客観的に報道しているが、短い速報的な内容となっており教材価値は限定的である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Стубб заявил, что атакованный российский сухогруз покинул воды Финляндии",
+    "link": "https://www.rbc.ru/politics/21/11/2026/6b01ddabc8b289a334eb3c48",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "ロシア船舶への無人機攻撃という具体的事実を中心に報道し、フィンランド大統領とロシア地域首長の発言を並列で記載した客観的な報告である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "В КНР начали расследование против замглавы нефтегазовой компании CNPC",
+    "link": "https://www.rbc.ru/politics/17/01/2026/696b45999a7947f768f33165",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "中国の国営企業幹部に対する規律調査という事実報道で、ロシアとは関係がなく、速報的な内容である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "В Индонезии после пожара на фабрике вывезли 24 мешка с останками погибших",
+    "link": "https://www.rbc.ru/rbcfreenews/6ad46684baafe814541c75af",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "インドネシアの工場火災による死傷事故を事実中心に報道した記事で、ロシアとの関わりはない"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Более 110 судов прошли через Ормузский пролив за последние 72 часа",
+    "link": "https://www.interfax.ru/world/1130699",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "ホルムズ海峡の船舶通航量に関する国際的な海運統計の報道であり、ロシアとの直接的な関連性が薄く、事実ベースの経済情報である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "СМИ сообщили о задержании российского бойца ММА в Париже по подозрению в изнасиловании",
+    "link": "https://www.sport-interfax.ru/1130698",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 3,
+      "reason": "ロシア人格闘家の逮捕という犯罪事件を事実に基づいて報道した記事で、評価的表現が最小限であり、背景や詳細は限定的だが基本的な情報は提供されている"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "ВСУ атаковали четыре муниципалитета в Белгородской области",
+    "link": "https://www.interfax.ru/russia/1130696",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ウクライナ軍によるロシア・ベルゴロド州への攻撃を報道した記事で、被害状況を事実中心に記述しており、ロシア国内の戦争被害が話題の中心である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Спецпосланник Трампа назвал условие предоставления Украине гарантий безопасности",
+    "link": "https://www.interfax.ru/world/1130695",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "米国特使の声明に基づくウクライナ安全保障保証に関する報道であり、戦争終結交渉が主要な話題だが、一方的な見解提示やロシア側の立場が不十分な記述がある。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Карлос Алькарас впервые в карьере выиграл Итоговый турнир ATP",
+    "link": "https://www.sport-interfax.ru/1130694",
+    "meta": {
+      "category": "sports",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 1,
+      "reason": "スペイン人テニスプレーヤーのATP最終戦優勝という国際スポーツ大会の結果報道であり、ロシアとの直接的な関係は薄い。"
+    }
+  }
+]
