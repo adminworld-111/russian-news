@@ -1,0 +1,290 @@
+[
+  {
+    "source": "BBC",
+    "title": "Полмиллиона погибших. Что утечка Росстата рассказала о потерях России в Украине",
+    "link": "https://www.bbc.com/russian/articles/cm20qnwdlr6do?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 5,
+      "russia": 5,
+      "reason": "ロシア統計局からの流出データに基づくウクライナ戦争のロシア軍死傷者数についての実証的な報道であり、背景情報と分析が充実している"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Пашинян предложил проект конституции Армении, закрепляющий отказ от Карабаха. Азербайджан доволен, но для его принятия нужен референдум",
+    "link": "https://www.bbc.com/russian/articles/crwy47l5q5w0o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 1,
+      "reason": "アルメニアの憲法改正案が主題で、政府と野党の対立を両論併記していますが、パシニャン首相の発言における「平和」の繰り返しに対する記者的な観察など軽微な評価的表現が含まれています。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "74 удара за «оскорбление нравственности». В Иране известную певицу наказали за выступление без хиджаба",
+    "link": "https://www.bbc.com/russian/articles/c63rgp78e17yo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "イランの宗教的規範に関する社会問題が中心で、事実を客観的に報道しているが、ロシアとの関連性がない。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Гибель журналистки Рощиной после пыток в российском плену объяснили «заболеванием». Би-би-си нашла запись в утечке Росстата",
+    "link": "https://www.bbc.com/russian/articles/c8g46vykr0ndo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシア拘束下での殺害疑惑に関する記事で、公式記録と実際の死因の矛盾を事実ベースで報道しており、戦闘関連の人権侵害が主題である"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "«Не спешите, со мной все хорошо». Как из-под завалов разрушенного дома под Киевом спасли 7-летнего Давида и 79-летнюю Валентину",
+    "link": "https://www.bbc.com/russian/articles/c6eq4g2ww5n1o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "ロシアの攻撃による建物崩壊と救出活動という戦争の具体的な人間の物語を、事実的かつ感情的配慮を持って報道している"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Канцлер Германии назвал ошибкой отказ принять Украину в НАТО в 2008 году",
+    "link": "https://meduza.io/news/2026/11/23/kantsler-germanii-nazval-oshibkoy-otkaz-prinyat-ukrainu-v-nato-v-2008-godu",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "ドイツ首相のNATO拡大政策に関する見解を中心に報道しており、政治的な立場が明確に表現されているため、中立性は中程度であるが、背景となる過去の決定と現在の安全保障政策の関わりが説明されており、学習教材としての価値は高い。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Россия выразила протест Эстонии в связи с закрытием границы и снова обвинила Таллинн в предоставлении воздушного пространства для украинских дронов",
+    "link": "https://meduza.io/news/2026/11/23/rossiya-vyrazila-protest-estonii-v-svyazi-s-zakrytiem-granitsy-i-snova-obvinila-tallinn-v-predostavlenii-vozdushnogo-prostranstva-dlya-ukrainskih-dronov",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 2,
+      "russia": 4,
+      "reason": "ロシア外務省の一方的な主張と非難が中心で、相手国の立場や根拠が示されず、感情的な表現「ブーメラン」が含まれており、中立性が低い"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В утекшей базе Росстата нашли данные об украинской журналистке Виктории Рощиной, погибшей в российском плену. Причиной смерти названо заболевание сердца",
+    "link": "https://meduza.io/news/2026/11/23/v-utekshey-baze-rosstata-nashli-dannye-ob-ukrainskoy-zhurnalistke-viktorii-roschinoy-pogibshey-v-rossiyskom-plenu-prichinoy-smerti-nazvano-zabolevanie-serdtsa",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナ人ジャーナリストのロシア抑留中の死亡事例を、流出したロシア統計庁データから報告する記事で、戦争に関連する人権問題が中心であり、事実的な報道だが公式説明の矛盾点の指摘を含む"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "«Важные истории»: в 92% случаев российские военные гибнут на войне от взрывов и осколков. Меньше 2% смертей — от огнестрельных ранений",
+    "link": "https://meduza.io/news/2026/11/23/vazhnye-istorii-v-92-sluchaev-rossiyskie-voennye-gibnut-na-voyne-ot-vzryvov-i-oskolkov-menshe-2-smertey-ot-ognestrelnyh-raneniy",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシア軍の戦死原因に関する統計データ分析記事で、事実ベースながらもハッキング入手データという出所を明確にし、ロシア国防省の損失実態を客観的に報道している"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Дженсен Хуанг ушел — акции рухнули. Дженсен Хуанг вернулся — акции взлетели. 11 дней Nvidia. Цепочка событий",
+    "link": "https://meduza.io/feature/2026/11/23/dzhensen-huang-ushel-aktsii-ruhnuli-dzhensen-huang-vernulsya-aktsii-vzleteli",
+    "meta": {
+      "category": "economy",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国企業NvidiaのCEO人事とそれに伴う株価変動という経済ニュースだが、見出しに «ухнули» «взлетели» など感情的・劇的な表現が使われており、事実を淡々と報じるのではなく劇的な効果を狙った書き方になっている。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Задержан губернатор Мурманской области Андрей Чибис",
+    "link": "https://meduza.io/news/2026/11/23/tass-zaderzhan-gubernator-murmanskoy-oblasti-andrey-chibis",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア国内の地方首長逮捕というロシア政治の重要な事件を報道しており、複数の情報源の引用で事実ベースだが、逮捕の事実と容疑内容が中心で背景の掘り下げは限定的である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Дуров шуткой о «китайских моделях» оценил возвращение Хуанга",
+    "link": "https://www.rbc.ru/rbcfreenews/6b046f3d864b69b0ee78506e",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "Nvidiaの経営陣交代という企業ニュースを、Telegram創設者の軽い言及で紹介した短編で、ロシアとの関わりはほぼない。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "WSJ узнала об идее Амодеи бороться видеоиграми с безработицей из-за ИИ",
+    "link": "https://www.rbc.ru/rbcfreenews/6ae4267208abc341fd1f5b8f",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "AI企業の経営者の発言や人物プロフィール紹介が中心で、ロシアとの関わりがなく、事実報道として標準的である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Минфин раскрыл критерии контроля за переводами между физлицами",
+    "link": "https://www.rbc.ru/rbcfreenews/6aee09f8e824b280460c968d",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア財務省による個人間送金への税務管理基準の説明で、事実中心の報道であり、ロシア国内の税制・金融政策が話題の中心"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Почему в Армении меняют Конституцию и при чем тут «маршрут Трампа»",
+    "link": "https://www.rbc.ru/rbcfreenews/6afd95a152ca4bd8a0f2fde3",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "アルメニアの憲法改正プロセスについての事実報道であり、ロシアとの直接的な関わりはほぼなく、見出しの«マルシュ・トランプ»への言及から地政学的背景を考察する内容と考えられる。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Эксперты оценили потенциал экспорта через цифровые платформы в ₽10 трлн",
+    "link": "https://www.rbc.ru/technology_and_media/20/10/2026/6ad63aef9a7947b4c37767e6",
+    "meta": {
+      "category": "economy",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシアのデジタルプラットフォーム経由の輸出潜在力に関する専門家報告書の報道であり、事実中心だが予測値と関係者の肯定的な見方が中心となっている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Кушнер рассказал о попытках убедить Трампа не давить на Зеленского",
+    "link": "https://www.rbc.ru/politics/06/09/2026/6a9d858595fd21cffac51a59",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "米国特使がウクライナ指導部との外交交渉について述べた記事で、戦争の終結交渉に関わる政治的発言が中心だが、引用された人物の評価的表現が含まれており、ウクライナと米国の関係がメインでロシアは直接の当事者ではない"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Совкомфлот продолжит круглогодичные перевозки по Севморпути",
+    "link": "https://www.interfax.ru/russia/1130894",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシアの国営海運企業が北極海航路での周年輸送事業を継続する計画に関する事実報道であり、感情的表現がほぼなく、ロシアの経済活動が話題の中心である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Совкомфлот ожидает высоких ставок на рынке танкерных перевозок в 2027 году",
+    "link": "https://www.interfax.ru/russia/1130893",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシアの大手海運企業Sovkomflotのトップが2027年のタンカー運賃市場見通しについて述べた経済ニュースで、事実報道が中心だが経営幹部の楽観的見通しを含む"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Совкомфлот по итогам 2026 года ждет положительные результаты по МСФО",
+    "link": "https://www.interfax.ru/russia/1130892",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア国営海運会社Совкомфлотの2026年度の財務見通しに関する事実報道で、経営者の発言を中心に客観的に記述されている。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Пять человек ранены в результате атак БПЛА в Брянской области",
+    "link": "https://www.interfax.ru/russia/1130891",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア領土内での無人機による攻撃被害を報道した事実中心の記事であり、ウクライナ軍による軍事攻撃が話題の中心である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Росавиация допустила корректировки расписания полетов из-за снегопада в Москве",
+    "link": "https://www.interfax.ru/russia/1130890",
+    "meta": {
+      "category": "society",
+      "neutrality": 5,
+      "value": 2,
+      "russia": 5,
+      "reason": "モスクワの悪天候による航空便スケジュール調整についての事実報道で、政府機関の公式発表を中心に、評価的表現を含まない客観的な報道である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Минфин США ввел антииранские санкции против более 20 физических и юридических лиц",
+    "link": "https://www.interfax.ru/world/1130889",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国がイランに対する経済制裁を発表した事実を報道するもので、事実中心の報告であり、ロシアとの直接的な関わりはない。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Восемь авторов в поисках персонажа // «Балет Москва» показал себя в новых «Ракурсах»",
+    "link": "https://www.kommersant.ru/doc/9128271",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "モスクワバレエ団の新作ダンス作品レビューで、ロシアの舞踊文化を扱っているが、作品一覧の羅列が大部分を占める速報的な記事"
+    }
+  }
+]

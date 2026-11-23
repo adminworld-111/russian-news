@@ -1,0 +1,38 @@
+[
+  {
+    "source": "RBK",
+    "title": "Минфин раскрыл критерии контроля за переводами между физлицами",
+    "link": "https://www.rbc.ru/rbcfreenews/6aee09f8e824b280460c968d",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア財務省による個人間送金への税務管理基準の説明で、事実中心の報道であり、ロシア国内の税制・金融政策が話題の中心"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "74 удара за «оскорбление нравственности». В Иране известную певицу наказали за выступление без хиджаба",
+    "link": "https://www.bbc.com/russian/articles/c63rgp78e17yo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "イランの宗教的規範に関する社会問題が中心で、事実を客観的に報道しているが、ロシアとの関連性がない。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Почему в Армении меняют Конституцию и при чем тут «маршрут Трампа»",
+    "link": "https://www.rbc.ru/rbcfreenews/6afd95a152ca4bd8a0f2fde3",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "アルメニアの憲法改正プロセスについての事実報道であり、ロシアとの直接的な関わりはほぼなく、見出しの«マルシュ・トランプ»への言及から地政学的背景を考察する内容と考えられる。"
+    }
+  }
+]
