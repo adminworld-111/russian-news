@@ -1,0 +1,38 @@
+[
+  {
+    "source": "RBK",
+    "title": "900 млрд ИИ-агентов. Ученые и эксперты оценили  перспективы связи 6G",
+    "link": "https://www.rbc.ru/technology_and_media/15/10/2026/6acf889e9a794709d3c59108",
+    "meta": {
+      "category": "science",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシアの6G通信技術開発計画に関する学術的な報道で、科学技術分野の進展状況を事実中心で伝えており、ロシア国内の研究機関の取り組みが中心である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Из пользовательского соглашения «Яндекс Браузера» убрали все упоминания об анонимности",
+    "link": "https://meduza.io/news/2026/11/24/iz-polzovatelskogo-soglasheniya-yandeks-brauzera-ubrali-vse-upominaniya-ob-anonimnosti",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア企業Yandexのブラウザ利用規約変更に関する事実報道であり、ユーザープライバシー方針の変化を客観的に記述している"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Казахстан хотел тайно этапировать чеченского активиста Мансура Мовлаева в Россию. Он дважды пытался покончить с собой, опасаясь экстрадиции",
+    "link": "https://meduza.io/news/2026/11/24/kazahstan-popytalsya-tayno-etapirovat-chechenskogo-aktivista-mansura-movlaeva-v-rossiyu-on-dvazhdy-pytalsya-pokonchit-s-soboy-opasayas-ekstraditsii",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "カザフスタン当局によるチェチェン活動家の秘密移送未遂事件について、事実ベースで報道しており、国際人権機関の決定や法的背景も含まれているが、やや人権侵害への批判的文脈がある"
+    }
+  }
+]

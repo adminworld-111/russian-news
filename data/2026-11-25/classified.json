@@ -1,0 +1,290 @@
+[
+  {
+    "source": "BBC",
+    "title": "Тысячи смертей за «избушку лесника». Сколько Россия потеряла в боях за небольшие украинские села",
+    "link": "https://www.bbc.com/russian/articles/cq143k44pe7xo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシア軍のウクライナ領土での戦闘での人的損失を具体的に分析する記事だが、見出しと冒頭に「多くの死傷者の代わりに小さな村を奪う」という評価的な視点が含まれている"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Война в Украине: двое погибших при атаках на Одесскую область; Путин обещает ответить на удары по НПЗ",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 5,
+      "reason": "ウクライナ東部への砲撃被害を報じる記事だが、ロシアの行為を「テロ」「戦争犯罪」と明示的に評価する表現が含まれており、中立性が低い"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Новая страница в отношениях Украины и Венгрии: Петер Мадьяр приехал в Закарпатье на встречу с Зеленским",
+    "link": "https://www.bbc.com/russian/articles/ckd61gqwq25go?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "ハンガリーの政権交代とウクライナとの関係改善が主要な話題で、政治的な転換点を報道しているが、ハンガリーの前首相の「反ウクライナ的で親ロシア的な政策」という評価的表現が含まれている"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "«Карточный домик рухнет». Как индустрия ИИ меняет Сан-Франциско и что будет с городом, если случится крах",
+    "link": "https://www.bbc.com/russian/articles/cj3vgdx2009ko?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "economy",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 1,
+      "reason": "サンフランシスコのAI産業による経済変化を中心に報じており、ロシアとの関わりがなく、一部推測的な見出し表現があるが基本的には事実報道である。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Футбольный скандал в Африке: суд вернул Сенегалу титул победителя Кубка африканских наций. До этого его отдали Марокко",
+    "link": "https://www.bbc.com/russian/articles/crx20lx0q47eo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "sports",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "アフリカのサッカー競技に関する事実報道であり、ロシアとの関係がほぼない"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "«Мы все сделали правильно». Зеленский подтвердил причастность Украины к атаке на сухогруз в Финском заливе",
+    "link": "https://www.bbc.com/russian/articles/crd9101gnynyo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "ウクライナによる船舶攻撃の確認という戦争関連の事実報道だが、ゼレンスキー発言の正当化に紙幅が割かれており、一定の見解が中心となっている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Акции Anthropic упали ниже цены размещения в ходе IPO. Выход на биржу сделал миллионерами около 5000 сотрудников компании",
+    "link": "https://meduza.io/news/2026/11/25/aktsii-anthropic-upali-nizhe-tseny-razmescheniya-v-hode-ipo-vyhod-na-birzhu-sdelal-millionerami-okolo-5000-sotrudnikov-kompanii",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国のAI企業Anthropicの株価動向と上場に関する経済ニュースであり、ロシアとの関わりがほぼない。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "МИД России пригрозил Латвии приостановить выплату пенсий бывшим советским военным",
+    "link": "https://meduza.io/news/2026/11/24/mid-rossii-prigrozil-latvii-priostanovit-vyplatu-pensiy-byvshim-sovetskim-voennym",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "ロシアとラトビアの外交紛争で、ロシア外務省の威嚇的発言を中心に報道しており、ロシア側の主張が多く反映されているが、基本的な事実構成は明確である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Посещаемость Pornhub в США резко упала после выхода GTA VI",
+    "link": "https://meduza.io/news/2026/11/24/poseschaemost-pornhub-v-ssha-rezko-upala-posle-vyhoda-gta-vi",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ゲーム『グランド・セフト・オートVI』のリリースに伴うインターネット利用行動の変化を、統計データに基づいて報道した文化関連記事であり、ロシアとの関わりはない。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Казахстан хотел тайно этапировать чеченского активиста Мансура Мовлаева в Россию. Он дважды пытался покончить с собой, опасаясь экстрадиции",
+    "link": "https://meduza.io/news/2026/11/24/kazahstan-popytalsya-tayno-etapirovat-chechenskogo-aktivista-mansura-movlaeva-v-rossiyu-on-dvazhdy-pytalsya-pokonchit-s-soboy-opasayas-ekstraditsii",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "カザフスタン当局によるチェチェン活動家の秘密移送未遂事件について、事実ベースで報道しており、国際人権機関の決定や法的背景も含まれているが、やや人権侵害への批判的文脈がある"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В США выпустили аналог «Оземпика» в виде шоколада",
+    "link": "https://meduza.io/news/2026/11/24/v-ssha-vypustili-analog-ozempika-v-vide-shokolada",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国の医療企業が開発した新製品の事実報道であり、ロシアとの関係性がほぼなく、評価的表現は限定的である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Из пользовательского соглашения «Яндекс Браузера» убрали все упоминания об анонимности",
+    "link": "https://meduza.io/news/2026/11/24/iz-polzovatelskogo-soglasheniya-yandeks-brauzera-ubrali-vse-upominaniya-ob-anonimnosti",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア企業Yandexのブラウザ利用規約変更に関する事実報道であり、ユーザープライバシー方針の変化を客観的に記述している"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "В Чечне опровергли сообщения о гражданстве Сербии у сына Кадырова Али",
+    "link": "https://www.rbc.ru/rbcfreenews/6ad66643a7c7e5048a94a29d",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 2,
+      "russia": 5,
+      "reason": "チェチェン政府幹部による否定発言が中心で、相手方の報道を«黄色いプレス»と貶める評価的表現が含まれており、中立性が低い"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "900 млрд ИИ-агентов. Ученые и эксперты оценили  перспективы связи 6G",
+    "link": "https://www.rbc.ru/technology_and_media/15/10/2026/6acf889e9a794709d3c59108",
+    "meta": {
+      "category": "science",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシアの6G通信技術開発計画に関する学術的な報道で、科学技術分野の進展状況を事実中心で伝えており、ロシア国内の研究機関の取り組みが中心である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Посольство России опровергло заявления MI5 о планах «атаковать Британию»",
+    "link": "https://www.rbc.ru/politics/24/11/2026/6b05b0fa82f2a6301539d254",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 2,
+      "russia": 4,
+      "reason": "ロシア大使館の否定声明を報道した記事だが、キーウ政権への非難を含む引用文が大部分を占め、事実報道というより一方的な主張の発表が中心となっている。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Кинотеатры оценили последствия ограничений на показ зарубежных фильмов",
+    "link": "https://www.rbc.ru/rbcfreenews/68c4757b9a79478c7fd59d28",
+    "meta": {
+      "category": "economy",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "ロシアの映画館業界への外国映画上映制限案の影響について、業界団体の懸念を中心に報道しており、ロシア国内経済の具体的な論点を含むが、業界側の見方が主に紹介されている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Эксперты допустили исчезновение зарубежного кино из проката из-за квот",
+    "link": "https://www.rbc.ru/society/25/03/2026/69c443319a79479c53382957",
+    "meta": {
+      "category": "economy",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシアの映画館業界関係者の懸念を中心に報道しており、外国映画配給の経済的規制が話題の中心で、業界の一方的な見方が強調されているが、政策による産業への影響という重要な背景情報を含んでいる。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Американке удалось более года прожить с пересаженной почкой свиньи",
+    "link": "https://www.rbc.ru/rbcfreenews/668e4de69a7947c61e03aa82",
+    "meta": {
+      "category": "science",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "米国での遺伝子組み換え豚腎臓移植の成功事例に関する医学的な報道であり、ロシアとの関わりがほぼないため。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Глава КСИР заявил, что для иранских ракет не существует ограничений по дальности",
+    "link": "https://www.interfax.ru/world/1131144",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "イラン軍指導部の防衛的な軍事声明であり、ミサイル能力の誇示と警告が中心だが、事実的な報道に一定の政治的主張が混在している"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Путин проведет в Москве переговоры с султаном Брунея",
+    "link": "https://www.interfax.ru/world/1131145",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 4,
+      "reason": "ロシアとブルネイの首脳会談に関する事実報道であり、政治外交が主題であるが、具体的な内容や背景情報に乏しい速報的な記事である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Поезда дальнего следования задерживаются из-за непогоды в Рязанской области",
+    "link": "https://www.interfax.ru/russia/1131143",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア国内のリャザン州での悪天候による列車遅延について、事実中心で報じた速報的な記事である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "КСИР заявил о подрыве контейнеровоза на мине в Ормузском проливе",
+    "link": "https://www.interfax.ru/world/1131142",
+    "meta": {
+      "category": "incident",
+      "neutrality": 2,
+      "value": 2,
+      "russia": 1,
+      "reason": "イラン革命防衛隊の一方的な主張を中心に報道した速報で、コンテナ船の違反行為を「違法」「無許可」と評価的に描写しており、ロシアとの関連性はない。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Мученье юбилейное // Третьяковская галерея разложила историю отечественного искусства по «Стилям и направлениям»",
+    "link": "https://www.kommersant.ru/doc/9129574",
+    "meta": {
+      "category": "culture",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 5,
+      "reason": "トレチャコフ美術館のロシア美術史の新しい展示プロジェクトについての記事で、見出しの «Мученье юбилейное»という表現に評価的なニュアンスがあるが、本文はロシア国内の文化施設の企画を中心に扱っている。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Стивен Спилберг снимет вестерн по сценарию Пола Томаса Андерсона",
+    "link": "https://www.kommersant.ru/doc/9129384",
+    "meta": {
+      "category": "culture",
+      "neutrality": 5,
+      "value": 3,
+      "russia": 1,
+      "reason": "スピルバーグとポール・トーマス・アンダーソンによる西部劇制作という映画業界のニュースであり、ロシアとの関わりがなく、事実報道として標準的な内容である"
+    }
+  }
+]
