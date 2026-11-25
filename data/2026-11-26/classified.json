@@ -1,0 +1,302 @@
+[
+  {
+    "source": "BBC",
+    "title": "Мои родные погибли на Донбассе. Мама винила в их гибели армию Зеленского, но правда оказалась сложнее",
+    "link": "https://www.bbc.com/russian/articles/cmzxveplrxe7o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 5,
+      "russia": 3,
+      "reason": "ウクライナ人ジャーナリストの個人的な戦争喪失体験を通じて、ドンバスでの紛争の人間的側面と複雑な真実を探る深い内容であり、事実中心で感情的表現は控えめである。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Европейский зонд прислал первые снимки астероида, по которому четыре года назад ударил зонд НАСА",
+    "link": "https://www.bbc.com/russian/articles/cm3vgd2qg954o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "science",
+      "neutrality": 5,
+      "value": 4,
+      "russia": 1,
+      "reason": "欧州宇宙機関による小惑星観測の事実報道であり、ロシアとの関わりがなく、科学的背景を含む標準的な内容"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Украинская лазерная установка впервые сбила российский дрон. Что известно и почему это — историческое достижение",
+    "link": "https://www.bbc.com/russian/articles/cmvg240ljz15o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "ウクライナの兵器技術による成功事例を「歴史的達成」と評価する見出しは評価的だが、本文は技術的詳細と客観的な事実記述が中心で、ロシアとウクライナ間の軍事紛争が主題である"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Украина — Венгрия: что изменила встреча Зеленского с Мадьяром?",
+    "link": "https://www.bbc.com/russian/articles/c6vg29n9rx49o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 1,
+      "reason": "ウクライナとハンガリーの二国間関係の変化を分析した記事で、事実報道が中心だが、オルバン政権の反ウクライナ政策を「プロパガンダ機械」と表現するなど評価的な表現が含まれており、ロシアとの関わりはほぼない。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "США объявили о введении новых пошлин в отношении многих торговых партнеров. Самые высокие ставки коснутся Китая",
+    "link": "https://www.bbc.com/russian/articles/cm62p5r047zno?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "米国の新関税導入に関する事実報道であり、ロシアは直接的な当事者ではなく、記事は調査根拠と関税率を客観的に報道している。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Джаред Кушнер заявил, что Путин — «историческая личность» и «гроссмейстер политики». Его коллега Стив Уиткофф называл российского президента «гуманистом»",
+    "link": "https://meduza.io/news/2026/11/26/dzhared-kushner-nazval-putina-istoricheskoy-lichnostyu-i-grossmeysterom-politiki-ego-kollega-stiv-uitkoff-nazyval-rossiyskogo-prezidenta-gumanistom",
+    "meta": {
+      "category": "war",
+      "neutrality": 2,
+      "value": 2,
+      "russia": 4,
+      "reason": "米国特使がプーチン大統領を称賛する発言を報じた記事であり、ロシア・ウクライナ交渉の文脈で提示されているため戦争関連だが、評価的表現が顕著で中立性に欠け、速報的な内容である"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Минцифры хочет создать платный аналог GitHub для российского софта",
+    "link": "https://meduza.io/news/2026/11/25/mintsifry-hochet-sozdat-platnyy-analog-github-dlya-rossiyskogo-softa",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシア政府がGitHubに代わる国産プラットフォーム構想を発表した政治・産業政策の記事で、事実中心の報道であり、ロシア国内のIT産業戦略が中心的なテーマである。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Египте перевернулся бензовоз. Погибли как минимум 30 человек",
+    "link": "https://meduza.io/news/2026/11/25/v-egipte-perevernulsya-benzovoz-pogibli-kak-minimum-30-chelovek",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "エジプトでの交通事故を事実中心に報道した短い速報記事で、ロシアとの関わりがない。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Германии женщине, присевшей поплакать на детской площадке, выписали штраф",
+    "link": "https://meduza.io/news/2026/11/25/v-germanii-zhenschine-prisevshey-poplakat-na-detskoy-ploschadke-vypisali-shtraf",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ドイツの地方自治体による行政規制の逸話を事実中心に報道した短編で、ロシアとの関係性がない。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Умерла Верушка — первая немецкая супермодель",
+    "link": "https://meduza.io/news/2026/11/25/umerla-verushka-pervaya-nemetskaya-supermodel",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 2,
+      "reason": "ドイツの著名モデル・女優の訃報記事で、事実中心に略歴を述べており、カリーニングラード生まれという点でロシアとの限定的な関連性がある"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Бывший совладелец «Челси» Тедд Боули заявил, что договорился о покупке зарубежных активов «Лукойла». Долю будущей прибыли получат власти США",
+    "link": "https://meduza.io/news/2026/11/25/byvshiy-sovladelets-chelsi-tedd-bouli-zayavil-chto-dogovorilsya-o-pokupke-zarubezhnyh-aktivov-lukoyla-dolyu-buduschey-pribyli-poluchat-vlasti-ssha",
+    "meta": {
+      "category": "economy",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "ロシア主要企業ルクオイルの資産売却について、事実中心に報道しているが、米国政府機関が利益配分を受けるという特異な構造を強調する書き方に若干の評価的傾向がある。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Кушнер выступил за создание горячих линий между Россией и НАТО",
+    "link": "https://www.rbc.ru/politics/22/11/2026/6b033bb251398ff5591e5d25",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "米国特使による停戦後の米ロNATO間通信機構構築提案についての事実報道で、一方的な見解ではなく、発言内容を客観的に伝えており、ウクライナ戦争の文脈にありながら政治外交が主題となっている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Рютте заявил, что Россия никогда не нападала на страны НАТО",
+    "link": "https://www.rbc.ru/politics/17/12/2023/657ef4999a79471f6c39fee3",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 3,
+      "reason": "NATO事務総長の発言を報道する記事で、事実中心だが速報的で短く、ロシアは他国との関係における当事者として登場している"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Хакер взломал один из самых популярных менеджеров паролей",
+    "link": "https://www.rbc.ru/technology_and_media/26/11/2026/6b075248d65ce6735f564edc",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "パスワード管理アプリケーションへのサイバー攻撃に関する速報で、事実中心の報道だが、ロシアとの関連性が低く、記事は企業の公式声明の要約が主体である。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Эксперты оценили влияние новых пошлин на импорт деликатесов",
+    "link": "https://www.rbc.ru/rbcfreenews/6afd541bfc6b6c9557d0755c",
+    "meta": {
+      "category": "economy",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシアの輸入関税政策とその経済的影響を専門家意見で報じた記事であり、事実中心だが「友好的でない国」という評価的表現を含む"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "К вечеру московские аэропорты работали без отмен из-за непогоды",
+    "link": "https://www.rbc.ru/rbcfreenews/6b05a10aaae71cd728512c69",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "モスクワの空港が悪天候下で正常に運航している状況を、公式発表に基づいて事実中心に報道した短い速報記事である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Посольство заявило о подготовке «антироссийской» провокации в Молдавии",
+    "link": "https://www.rbc.ru/rbcfreenews/6a929ffa1118395f795eca03",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 2,
+      "russia": 4,
+      "reason": "ロシア大使館の警告発表を報じた記事で、一方的な主張が中心であり、具体的な証拠なく「провокацию」と断定している点で中立性が低い"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Кушнер заявил, что Трамп не оказывает давления на Зеленского",
+    "link": "https://www.interfax.ru/world/1131442",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 3,
+      "reason": "米国とウクライナの紛争解決交渉に関する記事で、クシュナー氏の発言を中心に報じているが、トランプ大統領の発言を「厳しいコメント」と表現するなど、一定の評価的な表現が含まれている。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Посольство РФ в Молдавии заявило о готовящейся в ближайшие дни антироссийской провокации",
+    "link": "https://www.interfax.ru/russia/1131441",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 2,
+      "russia": 4,
+      "reason": "ロシア大使館の警告という一方的な発表を報道しており、根拠不明の「準備中の挑発」という断定的で評価的な表現が中心で、中立性に欠ける"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Глава Евросовета назвал условия вступления в ЕС стран Западных Балкан",
+    "link": "https://www.interfax.ru/world/1131440",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "西バルカン諸国のEU加盟条件に関するEU首脳会談の報道で、事実中心だが、ロシアとの関わりがほぼなく、国際政治の標準的な報道である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Кушнер полагает, что РФ стремится к украинскому урегулированию, но не на любых условиях",
+    "link": "https://www.interfax.ru/russia/1131439",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 3,
+      "reason": "米国特使の発言を引用する形式だが、ロシアの意図や行動に関する解釈的な説明が含まれており、やや一方的な観点が示されている"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Кушнер полагает, что Украина не вступит в НАТО после завершения конфликта",
+    "link": "https://www.interfax.ru/world/1131438",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "米国の特使による停戦交渉についての発言を報道した記事で、戦争終結の可能性を示唆する重要な情報を含むが、一方的な見解を中心としており、ウクライナ側の立場が示されていない"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "\"Барселона\" разгромила \"Сабах\" в матче Лиги чемпионов в Баку",
+    "link": "https://www.sport-interfax.ru/1131437",
+    "meta": {
+      "category": "sports",
+      "neutrality": 5,
+      "value": 2,
+      "russia": 1,
+      "reason": "スポーツの試合結果を事実中心で報道した速報記事であり、ロシアとの関わりはほぼないが、スコア・得点者・順位などが列挙されているのみで学習教材としての価値は限定的である。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Владимир Бортко припомнил кремлевского горца // Выходит сериал «Сталин»",
+    "link": "https://www.kommersant.ru/doc/9130625",
+    "meta": {
+      "category": "culture",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシアの映画監督ボルトコによるスターリンを題材とした新作セリアル（テレビドラマ）の紹介記事で、スターリンの生い立ちについて事実を報道しながら、心理的背景の解説を含むため、やや評価的な観点が入っている。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Победительницей конкурса «Мисс Вселенная-2026» стала участница из Пуэрто-Рико",
+    "link": "https://www.kommersant.ru/doc/9130053",
+    "meta": {
+      "category": "culture",
+      "neutrality": 5,
+      "value": 1,
+      "russia": 1,
+      "reason": "国際美人コンテストの優勝者を報じる短い事実報道であり、ロシアとの関連性がなく、学習教材としての価値も限定的である。"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "source": "Meduza",
+    "title": "Минцифры хочет создать платный аналог GitHub для российского софта",
+    "link": "https://meduza.io/news/2026/11/25/mintsifry-hochet-sozdat-platnyy-analog-github-dlya-rossiyskogo-softa",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシア政府がGitHubに代わる国産プラットフォーム構想を発表した政治・産業政策の記事で、事実中心の報道であり、ロシア国内のIT産業戦略が中心的なテーマである。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Умерла Верушка — первая немецкая супермодель",
+    "link": "https://meduza.io/news/2026/11/25/umerla-verushka-pervaya-nemetskaya-supermodel",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 2,
+      "reason": "ドイツの著名モデル・女優の訃報記事で、事実中心に略歴を述べており、カリーニングラード生まれという点でロシアとの限定的な関連性がある"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Европейский зонд прислал первые снимки астероида, по которому четыре года назад ударил зонд НАСА",
+    "link": "https://www.bbc.com/russian/articles/cm3vgd2qg954o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "science",
+      "neutrality": 5,
+      "value": 4,
+      "russia": 1,
+      "reason": "欧州宇宙機関による小惑星観測の事実報道であり、ロシアとの関わりがなく、科学的背景を含む標準的な内容"
+    }
+  }
+]
