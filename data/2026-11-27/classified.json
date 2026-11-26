@@ -1,0 +1,266 @@
+[
+  {
+    "source": "BBC",
+    "title": "Война в Украине: дроны вызвали пожар и разлив нефти на НПЗ в Краснодарском крае; Трамп призывал Путина «свернуть агрессию против Европы»",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "ウクライナでのドローン攻撃と火災・油流出の事実報道が中心で、評価的表現はほぼなく、ロシアとウクライナ両国が関わる武力紛争の速報的な内容である"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "«Папы нет, да?» Что известно о японском журналисте, арестованном ФСБ. Рассылка «Контекст»",
+    "link": "https://www.bbc.com/russian/articles/c90k6zgzz6v4o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "ロシアで逮捕された日本人ジャーナリストの事件を、背景情報や人物描写を含めて報道しており、事実中心で評価的表現が少なく、ロシア当局による拘束という重要な出来事がロシア関連の中心的話題である"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Жерар Депардье пойдет под суд по обвинению в изнасиловании молодой актрисы",
+    "link": "https://www.bbc.com/russian/articles/cr2klzg5kdk1o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "フランスの著名俳優による性的暴力事件の司法手続きについて、事実中心に報道した記事であり、ロシアとの関係性がない。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Британское правительство обновляет базу данных резервистов на случай войны",
+    "link": "https://www.bbc.com/russian/articles/cmqlqe5gp7vko?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 2,
+      "reason": "イギリスの国防政策としての予備役データベース更新が主題で、ロシアは文脈上の脅威要因として言及されているが、記事の中心はイギリス国内の防衛準備にあり、事実的な報道姿勢が維持されている。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "«Прежде чем моя жизнь оборвется в петле». Иранки, приговоренные к смертной казни за участие в протестах, взывают о помощи",
+    "link": "https://www.bbc.com/russian/articles/cwj3kl11xpzjo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "society",
+      "neutrality": 2,
+      "value": 4,
+      "russia": 1,
+      "reason": "イランの死刑判決を受けた女性たちの人権侵害と苦しみを詳細に報じており、感情的・同情的な表現が顕著で、ロシアとの関わりはない"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Переписанные смерти. Как в России манипулируют данными об умерших",
+    "link": "https://www.bbc.com/russian/articles/cx24ezpydnzeo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "society",
+      "neutrality": 2,
+      "value": 4,
+      "russia": 5,
+      "reason": "ロシアの死亡統計操作という社会問題が主題で、政府の隠蔽疑惑に対して批判的な論調が明らかであるが、医師や専門家への取材という調査報道の手法を用いている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Батуми произошли беспорядки во время игры израильского и турецкого футбольных клубов. Матч останавливали на полчаса",
+    "link": "https://meduza.io/news/2026/11/26/v-batumi-proizoshli-besporyadki-vo-vremya-igry-izrailskogo-i-turetskogo-futbolnyh-klubov-match-ostanavlivali-na-polchasa",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "バトゥミでの国際サッカー試合中の暴動事件であり、ロシアとの直接的な関係がなく、事実的な報道だが情報量は限定的である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Лукашенко заявил, что ничего не знал о начале войны. Но при этом показал на карте, откуда готовилось нападение (России на Украину)",
+    "link": "https://meduza.io/news/2026/11/26/lukashenko-zayavil-chto-nichego-ne-znal-o-nachale-voyny-no-pri-etom-pokazal-na-karte-otkuda-gotovilos-napadenie-rossii-na-ukrainu",
+    "meta": {
+      "category": "war",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "ルカシェンコによるウクライナ侵攻への関与否定と矛盾した発言を事実ベースで報道していますが、見出しが矛盾を皮肉的に強調しています。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Токаев рассказал на конференции Сбера об успешном стартапе Higgsfield из Казахстана. Его сооснователь — Александр Машрабов, отказавшийся от гражданства России",
+    "link": "https://meduza.io/news/2026/11/26/tokaev-pohvastalsya-na-konferentsii-sbera-uspeshnym-startapom-higgsfield-iz-kazahstana-ego-soosnovatel-aleksandr-mashrabov-otkazavshiysya-ot-grazhdanstva-rossii",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 3,
+      "reason": "カザフスタンのAIスタートアップ成功事例の報道であり、ロシア市民権放棄という背景情報を含むが、事実中心の記事で評価的表現は最小限"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Гражданин Украины поджег себя напротив президентского дворца в Варшаве. Таким образом он якобы протестовал против дискриминации украинцев в Польше. Официально эта версия не подтверждена",
+    "link": "https://meduza.io/feature/2026/11/26/grazhdanin-ukrainy-podzheg-sebya-naprotiv-prezidentskogo-dvortsa-v-varshave",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "ポーランドでのウクライナ市民の焼身自殺事件についての報道で、事実描写が中心だが、抗議の動機は «якобы» で留保されており、ロシアとの直接的な関連はない"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Бывший руководитель Nvidia Джей Пури женился на бывшей руководительнице Super Micro Сенли Чен. Сотрудников этой компании обвинили в контрабанде чипов в Китай",
+    "link": "https://meduza.io/feature/2026/11/26/v-rukovodstve-nvidia-est-esche-odin-chelovek-kotoryy-sostoit-v-otnosheniyah-s-sotrudnitsey-drugoy-kompanii-eto-dzhey-puri-vozglavlyavshiy-otdel-globalnyh-prodazh",
+    "meta": {
+      "category": "economy",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 1,
+      "reason": "米国IT企業幹部の結婚と利益相反疑惑に関する事実報道だが、スキャンダルの文脈を強調する書きぶりがあり、ロシアとの関わりはほぼない"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "ФИФА подверглась кибератаке. Хакеры утверждают, что похитили данные о руководстве и финансовую отчетность",
+    "link": "https://meduza.io/news/2026/11/26/fifa-podverglas-kiberatake-hakery-utverzhdayut-chto-pohitili-dannye-o-rukovodstve-i-finansovuyu-otchetnost",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "FIFAへのサイバー攻撃事件を事実ベースで報道しており、ロシアとの直接的な関連性がない国際インシデント記事である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Израильский клуб проиграл в прерванном из-за беспорядков матче еврокубка",
+    "link": "https://www.rbc.ru/sport/26/11/2026/6b08377b0b8c9f8575a362df",
+    "meta": {
+      "category": "sports",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 1,
+      "reason": "スポーツ記事であり、ロシアとほぼ関係がないが、試合中止の背景にある政治的な紛争（イスラエル-パレスチナ）についての記述が含まれているため中立性が若干低い"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Начался прием вопросов для прямой линии с Путиным",
+    "link": "https://www.rbc.ru/rbcfreenews/6945fad09a79470a7d5a957d",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "プーチン大統領との直接対話企画の開始を事実的に報道した事務的な告知記事で、ロシア政府の公式情報を中心に構成されている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Лариса Долина выступила в Пхеньяне перед Ким Чен Ыном",
+    "link": "https://www.rbc.ru/rbcfreenews/6aa1ce034d6a7fa13907bd35",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 4,
+      "reason": "ロシアの著名な芸術家が北朝鮮で公演を行った文化交流イベントの事実報道であり、評価的表現は少ないが、速報的な内容で教材としての深みに欠ける"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Макрон заявил об ошибке ЕС после провала переговоров о бюджете",
+    "link": "https://www.rbc.ru/rbcfreenews/6b06ff1a8f000e3be67e246e",
+    "meta": {
+      "category": "politics",
+      "neutrality": 2,
+      "value": 3,
+      "russia": 1,
+      "reason": "EUの予算交渉に関するフランス大統領の見解を報道しているが、マクロン発言の「戦略的誤り」という評価的表現が見出しと冒頭に強調されており、やや一方的な構成となっている。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "МИД Украины связался с Ливией из-за атаки на порт Бенгази",
+    "link": "https://www.rbc.ru/politics/25/11/2026/6b067b4064dabb8c26692ebb",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "ウクライナによるベンガジ港への攻撃と、それに伴うウクライナ外相とリビア外相の外交電話が報道されており、戦争関連の国際的な動きが主題であるが、ロシアの関与が明確でなく、ウクライナ側の正当性を暗に示す表現がある。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Умер главный советник Клинтона по России Строуб Тэлботт",
+    "link": "https://www.rbc.ru/politics/03/03/2026/69a660959a794737ee2e2e49",
+    "meta": {
+      "category": "incident",
+      "neutrality": 5,
+      "value": 2,
+      "russia": 3,
+      "reason": "米国の元高官の訃報を事実的に報じた記事で、ロシア関連の経歴が言及されているが、基本的には訃報速報である"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Росавиация сообщила о задержке восьми рейсов в аэропортах Москвы из-за непогоды",
+    "link": "https://www.interfax.ru/moscow/1131712",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "モスクワの複数空港での悪天候による便の遅延を事実ベースで報道しており、ロシア航空局の公式発表を中心とした客観的な記事である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "ЦСКА впервые в сезоне победил \"Спартак\" в КХЛ",
+    "link": "https://www.sport-interfax.ru/1131711",
+    "meta": {
+      "category": "sports",
+      "neutrality": 5,
+      "value": 2,
+      "russia": 5,
+      "reason": "モスクワの2つのプロホッケーチームの試合結果を事実的に報道した速報で、ロシア国内のスポーツ（KHL）が話題の中心だが、スコアと得点者の列挙が主体で教材価値は限定的である。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Саудовская Аравия сообщила об одном погибшем после обстрела НПЗ",
+    "link": "https://www.interfax.ru/world/1131710",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 1,
+      "reason": "サウジアラビアの石油精製所への砲撃による人的被害と施設被害を報じた速報記事であり、ロシアとの直接的な関わりがなく、詳細な背景説明に乏しい。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Греф считает, что на рынке ИИ есть пузырь, но мировой экономике он не угрожает",
+    "link": "https://www.interfax.ru/business/1131709",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "ロシア大手銀行の幹部によるAI市場のバブル論を報道した経済記事で、事実中心の報道だが、見解は一個人の意見であり、市場動向の具体的背景が限定的である。"
+    }
+  }
+]

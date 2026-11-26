@@ -1,0 +1,38 @@
+[
+  {
+    "source": "Interfax",
+    "title": "Греф считает, что на рынке ИИ есть пузырь, но мировой экономике он не угрожает",
+    "link": "https://www.interfax.ru/business/1131709",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 4,
+      "reason": "ロシア大手銀行の幹部によるAI市場のバブル論を報道した経済記事で、事実中心の報道だが、見解は一個人の意見であり、市場動向の具体的背景が限定的である。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "«Папы нет, да?» Что известно о японском журналисте, арестованном ФСБ. Рассылка «Контекст»",
+    "link": "https://www.bbc.com/russian/articles/c90k6zgzz6v4o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "ロシアで逮捕された日本人ジャーナリストの事件を、背景情報や人物描写を含めて報道しており、事実中心で評価的表現が少なく、ロシア当局による拘束という重要な出来事がロシア関連の中心的話題である"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Британское правительство обновляет базу данных резервистов на случай войны",
+    "link": "https://www.bbc.com/russian/articles/cmqlqe5gp7vko?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 2,
+      "reason": "イギリスの国防政策としての予備役データベース更新が主題で、ロシアは文脈上の脅威要因として言及されているが、記事の中心はイギリス国内の防衛準備にあり、事実的な報道姿勢が維持されている。"
+    }
+  }
+]
