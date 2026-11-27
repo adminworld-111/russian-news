@@ -1,6 +1,7 @@
 # =====================================================================
 # ロシア語ニュース学習アプリ　GitHub Actions版
 # 作成：2026-11-01（Colab版 2026-10-31 時点のコードをもとに移植）
+# 更新：2026-11-27　文法問題に分野タグ（topic）を追加
 #
 # 実行環境：GitHub Actions（毎朝自動で実行）
 # 実行方法：python main.py
@@ -66,6 +67,24 @@ MIN_NEUTRALITY = 4    # 中立度の下限（1〜5）
 MIN_VALUE = 3         # 学習価値の下限（1〜5）
 PRIORITY = ["culture", "science", "economy", "society", "sports", "incident", "politics"]
 DAILY_COUNT = 3       # 1日に作る教材の数
+
+# 文法問題の分野（キー：AIが返す英語の名前、値：AIへの説明）
+# ※キーは記録の集計に使うので、一度決めたら変えない。増やすのはOK
+# ※index.html の TOPIC_LABEL にも同じキーを書く
+GRAMMAR_TOPICS = {
+    "case_government": "格支配（動詞・形容詞・名詞が要求する格）",
+    "prepositions":    "前置詞と格の使い分け",
+    "aspect":          "動詞の体（完了体・不完了体）",
+    "motion_verbs":    "運動の動詞と接頭辞",
+    "participles":     "形動詞（能動・受動、現在・過去）",
+    "gerunds":         "副動詞",
+    "short_forms":     "短語尾形（形容詞・受動形動詞）",
+    "numerals":        "数詞と格",
+    "pronouns":        "代名詞（свой・себя・который など）",
+    "conjunctions":    "接続詞と複文（чтобы・ли・что など）",
+    "verb_forms":      "動詞の変化（命令形・仮定法・再帰動詞など）",
+    "other":           "上のどれにも当てはまらないもの",
+}
 
 # 保存先
 DATA_DIR = "data"            # リポジトリの中の data フォルダ（Colab版はGoogleドライブ）
@@ -280,7 +299,7 @@ GENERATE_PROMPT = """あなたはロシア語検定1級レベルの学習者向�
     {"phrase": "熟語・コロケーション", "meaning": "日本語の意味", "example": "summary_ruからの例文"}
   ],
   "grammar": [
-    {"question": "空欄（___）を含むロシア語の文", "options": ["選択肢A", "選択肢B", "選択肢C", "選択肢D"], "answer": 0, "explanation": "日本語の文法解説"}
+    {"question": "空欄（___）を含むロシア語の文", "options": ["選択肢A", "選択肢B", "選択肢C", "選択肢D"], "answer": 0, "topic": "下の分野一覧の英語名を1つ", "explanation": "日本語の文法解説"}
   ],
   "cultural_notes": [
     {"reference": "文学・歴史・文化的な引用や背景知識", "explanation": "日本語の解説"}
@@ -299,13 +318,36 @@ GENERATE_PROMPT = """あなたはロシア語検定1級レベルの学習者向�
 - grammarは格変化、動詞の体、形動詞・副動詞、前置詞の使い分けなど、検定1級で問われる文法事項から出題する
 - grammarの選択肢は、同じ語の変化形同士、体のペア、形動詞の種類の違いなど、上級学習者でも迷う組み合わせにする。明らかに品詞や構文が合わない選択肢や、時制・人称・数の不一致、不定詞など、文の形だけで消去できる選択肢は入れない
 - grammarの正解は文法的に1つだけに決まること。他の選択肢は、その文脈では文法的に誤りになるものにする。「意味に合わない」「文脈にそぐわない」といった解釈の違いで正解が決まる問題は作らない。解説では、他の選択肢が文法的に誤りである理由を説明する
+- grammarのtopicには、その問題で問われている文法事項を、次の分野一覧の英語名（左側）から1つだけ選んで書く。一覧にない名前を作らない。3問はできるだけ別の分野にする
+__TOPICS__
 - cultural_notesには、見出しや本文に含まれる文学作品のもじり、歴史的な出来事、文化的な固有名詞など、背景知識がないと理解しにくいものを選ぶ。該当がなければ空のリストにする。作品の種類、日付、人物の経歴など、記事に書かれている事実と矛盾する内容は書かない
 - すべての問題はsummary_ruの内容に基づいて作る
 - 文字列の中で引用符が必要な場合は «» または「」を使い、半角の " は絶対に使わない"""
 
+# 分野一覧を「  - aspect：動詞の体（…）」の形の行にして、プロンプトの __TOPICS__ の位置に差し込む
+# （プロンプトにはJSONの { } が含まれるので、format() ではなく replace() を使う）
+GENERATE_PROMPT = GENERATE_PROMPT.replace(
+    "__TOPICS__", "\n".join(f"  - {key}：{desc}" for key, desc in GRAMMAR_TOPICS.items()))
+
+def fix_topics(lesson):
+    """文法問題のtopicを整える。一覧にない値や、topicがない問題は other にする。直した問題の番号のリストを返す"""
+    fixed = []
+    for i, q in enumerate(lesson.get("grammar", [])):
+        topic = str(q.get("topic", "")).strip().lower()    # 空白や大文字の揺れをなくす
+        if topic not in GRAMMAR_TOPICS:
+            fixed.append(f"{i}（{q.get('topic')}）")        # 何が返ってきたかを記録しておく
+            topic = "other"
+        q["topic"] = topic
+    return fixed
+
 def generate_lesson(article):
     text = f"媒体: {article['source']}\n見出し: {article['title']}\n本文: {article['body'][:6000]}"
-    return call_llm_json("lesson", GENERATE_PROMPT, text)
+    lesson = call_llm_json("lesson", GENERATE_PROMPT, text)
+    if lesson:                                     # JSONが読めたときだけ整える
+        fixed = fix_topics(lesson)
+        if fixed:
+            print(f"  形式： grammarのtopicが一覧になかったので other にした：{', '.join(fixed)}")
+    return lesson
 
 
 # %% 6 教材のチェック =====================================================
@@ -315,7 +357,7 @@ JA = re.compile(r"[ぁ-んァ-ヶ一-龯]")    # ひらがな・カタカナ・�
 
 def plain(text):
     """アクセント記号（\\u0301）を取り除く（要約にはアクセント記号がないため）"""
-    return text.replace("\u0301", "")
+    return text.replace("́", "")
 
 def norm(text):
     """比較用に整える：アクセント記号を除き、小文字にし、ё を е にそろえる"""
@@ -362,6 +404,11 @@ def check_lesson(lesson):
         for i, q in enumerate(lesson.get(sec, [])):
             if not 0 <= q["answer"] < len(q["options"]):
                 problems.append(f"{sec}[{i}] answerの番号が範囲外：{q['answer']}")
+
+    # 5. 文法問題の分野（topic）が other になっていないか（一覧に当てはまらなかった問題を知らせる）
+    for i, q in enumerate(lesson.get("grammar", [])):
+        if q.get("topic") == "other":
+            problems.append(f"grammar[{i}] 分野が other（一覧に当てはまらない、またはAIの返した値が一覧外）")
 
     return problems
 
