@@ -160,6 +160,10 @@ details ul { margin: 6px 0 0; padding-left: 1.2em; }
 .note b { font-family: var(--f-ru); }
 .foot { display: flex; justify-content: flex-end; }
 @media (prefers-reduced-motion: no-preference) { .opt { transition: border-color .15s, background-color .15s; } }
+  
+/* 記録の管理（バックアップ） */
+.data-tools .row { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
+.data-tools p { margin: 8px 0 0; }
 </style>
 </head>
 <body>
@@ -178,6 +182,19 @@ details ul { margin: 6px 0 0; padding-left: 1.2em; }
   <p class="msg" id="msg" hidden></p>
   <nav class="tabs" id="tabs" role="tablist" hidden></nav>
   <main id="view"></main>
+
+    <footer class="data-tools">
+    <details>
+      <summary>記録の管理（バックアップ）</summary>
+      <p>解答の記録はこのブラウザの中だけに保存されます。ときどき書き出しておくと、消えたときや別の端末に移るときに戻せます。</p>
+      <div class="row">
+        <button id="export" type="button" class="ghost">記録を書き出す</button>
+        <button id="import" type="button" class="ghost">記録を読み込む</button>
+        <input id="importFile" type="file" accept=".json,application/json" hidden>
+      </div>
+      <p id="persistNote"></p>
+    </details>
+  </footer>
 </div>
 
 <script>
@@ -185,7 +202,7 @@ details ul { margin: 6px 0 0; padding-left: 1.2em; }
 const DATA_DIR = "data";          // 教材の置き場所（このページから見た相対パス）
 const MAX_LESSONS = 3;            // 1日の教材の最大数（main.py の DAILY_COUNT と同じ）
 const LOOKBACK_DAYS = 14;         // 今日の分がないとき、何日前までさかのぼって探すか
-const STORE_KEY = "rnews-pages-v1";
+const STORE_KEY = "rnews-pages-test";　// ※変えると過去の記録が読めなくなるので、変更しない
 
 const CATEGORY = { culture: "文化", science: "科学", economy: "経済", society: "社会", sports: "スポーツ", incident: "事件", politics: "政治", war: "戦争" };
 const state = { date: null, lessons: [], active: 0, answers: {}, hideMeaning: false, cloze: false };
@@ -622,8 +639,67 @@ document.getElementById("prev").addEventListener("click", () => show(shiftDate(s
 document.getElementById("next").addEventListener("click", () => show(shiftDate(state.date, 1)));
 document.getElementById("date").addEventListener("change", (e) => { if (e.target.value) show(e.target.value); });
 
+// ===== 記録の書き出し（バックアップ） =====
+function exportData() {
+  const payload = { app: "rnews", version: 1,               // どのアプリの、どの形式の記録かの印
+    exported_at: new Date().toISOString(),
+    answers: state.answers, hideMeaning: state.hideMeaning };
+  const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });  // 記録をファイルの形にする
+  const url = URL.createObjectURL(blob);                     // そのファイルを指す一時的なURLを作る
+  const a = el("a", { href: url, download: `rnews-backup-${todayJST()}.json` });  // ダウンロード用のリンク
+  document.body.append(a); a.click(); a.remove();            // 見えないリンクを押して、すぐ片付ける
+  setTimeout(() => URL.revokeObjectURL(url), 1000);          // 一時URLを解放する
+  showMsg(`記録を書き出しました（解答 ${Object.keys(state.answers).length} 件）`);
+}
+
+// ===== 記録の読み込み（今の記録に合流させる） =====
+async function importData(file) {
+  try {
+    const data = JSON.parse(await file.text());              // ファイルを文字として読み、JSONに戻す
+    if (data.app !== "rnews" || !data.answers || typeof data.answers !== "object") {
+      throw new Error("このアプリの記録ファイルではありません");
+    }
+    let added = 0;
+    for (const [k, v] of Object.entries(data.answers)) {
+      if (!Number.isInteger(v)) continue;                    // 選択肢の番号（整数）以外は無視する
+      if (!(k in state.answers)) added++;
+      state.answers[k] = v;                                  // 同じ問題があれば、読み込んだ方を優先する
+    }
+    if (typeof data.hideMeaning === "boolean") state.hideMeaning = data.hideMeaning;
+    persist();
+    if (state.lessons.length) render();                      // 教材が表示中なら、採点を描き直す
+    showMsg(`記録を読み込みました（新しく ${added} 件を追加）`);
+  } catch (e) {
+    showMsg(`読み込めませんでした：${e.message}`, "err");
+  }
+}
+
+// ===== 自動削除からの保護をブラウザに頼む =====
+async function protectStorage() {
+  const note = document.getElementById("persistNote");
+  try {
+    if (!(navigator.storage && navigator.storage.persist)) throw new Error();  // 対応していないブラウザ
+    const ok = (await navigator.storage.persisted()) || (await navigator.storage.persist());
+    note.textContent = ok
+      ? "✓ このブラウザでは、記録が自動で消されにくい設定になっています（手動でデータを消した場合は消えます）"
+      : "このブラウザでは保護を設定できませんでした。定期的に書き出してください";
+  } catch (e) {
+    note.textContent = "このブラウザでは保護を設定できません。定期的に書き出してください";
+  }
+}
+
+document.getElementById("export").addEventListener("click", exportData);
+document.getElementById("import").addEventListener("click", () => document.getElementById("importFile").click());
+document.getElementById("importFile").addEventListener("change", (e) => {
+  const file = e.target.files[0];
+  if (file) importData(file);
+  e.target.value = "";                                       // 同じファイルをもう一度選べるように空にする
+});
+
 restore();
+protectStorage();
 start();
+  
 </script>
 </body>
 </html>
