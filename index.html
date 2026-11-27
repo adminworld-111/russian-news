@@ -9,7 +9,6 @@
 <meta name="theme-color" content="#d9534a">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Новости">
-  
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400&family=Noto+Sans+JP:wght@400;500;700&family=PT+Mono&display=swap">
@@ -110,6 +109,7 @@ section { display: flex; flex-direction: column; gap: 12px; }
 .gloss .g-word { font-family: var(--f-ru); font-size: 18px; font-weight: 700; }
 .gloss .g-mean { font-size: 14px; }
 .gloss .g-gram { font-size: 12.5px; color: var(--muted); }
+.gloss .g-saved { font-size: 11.5px; color: var(--ok); }
 .legend { align-items: center; }
 .legend .ghost { margin-left: auto; }
 
@@ -139,6 +139,7 @@ section { display: flex; flex-direction: column; gap: 12px; }
 
 .q { display: flex; flex-direction: column; gap: 10px; padding: 16px; border: 1px solid var(--rule); border-radius: 12px; background: var(--surface); }
 .q-num { font-family: var(--f-mono); font-size: 12px; color: var(--muted); }
+.q-topic { margin-left: 8px; padding: 1px 8px; border-radius: 999px; background: var(--warn-soft); color: var(--warn); font-family: var(--f-ui); }
 .q-text { margin: 0; font-family: var(--f-ru); font-size: 17px; line-height: 1.6; }
 .blank { display: inline-block; min-width: 4.5em; border-bottom: 2px solid var(--accent); margin: 0 2px; }
 .blank.filled { min-width: 0; padding: 0 2px; color: var(--accent); font-weight: 700; }
@@ -166,10 +167,36 @@ details ul { margin: 6px 0 0; padding-left: 1.2em; }
 .note b { font-family: var(--f-ru); }
 .foot { display: flex; justify-content: flex-end; }
 @media (prefers-reduced-motion: no-preference) { .opt { transition: border-color .15s, background-color .15s; } }
-  
+
 /* 記録の管理（バックアップ） */
 .data-tools .row { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
 .data-tools p { margin: 8px 0 0; }
+
+/* 単語帳 */
+.bookbtn { padding: 6px 14px; font-size: 13px; color: var(--accent); border-color: var(--accent); }
+.bookbtn.has-due { background: var(--accent); color: var(--surface); }
+.b-stats { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13px; color: var(--muted); }
+.b-stats b { font-family: var(--f-mono); color: var(--ink); font-size: 15px; }
+.b-word { margin: 0; font-family: var(--f-ru); font-size: 26px; font-weight: 700; line-height: 1.3; }
+.b-back { display: flex; flex-direction: column; gap: 4px; padding-top: 10px; border-top: 1px dashed var(--rule); }
+.b-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+.b-actions button { flex: 1 1 120px; padding: 10px 12px; border-radius: 8px; border: 1px solid var(--rule); background: var(--paper); font-size: 15px; }
+.b-actions .yes { background: var(--ok-soft); border-color: var(--ok); color: var(--ok); font-weight: 700; }
+.b-actions .no { background: var(--ng-soft); border-color: var(--ng); color: var(--ng); }
+.b-actions .start { background: var(--accent); border-color: var(--accent); color: var(--surface); font-weight: 700; }
+.b-done { margin: 0; color: var(--ok); font-weight: 700; }
+.b-meta { display: flex; flex-wrap: wrap; gap: 4px 10px; font-size: 12px; color: var(--muted); }
+.b-meta .del { margin-left: auto; padding: 0 10px; }
+.b-empty { margin: 0; color: var(--muted); font-size: 14px; }
+.b-list { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--rule); }
+.b-list li { border-bottom: 1px solid var(--rule); }
+.b-line { display: flex; align-items: baseline; gap: 12px; width: 100%; padding: 10px 2px; border: 0; background: none; text-align: left; }
+.b-ru { flex: 0 0 auto; max-width: 55%; font-family: var(--f-ru); font-size: 17px; font-weight: 700; overflow-wrap: anywhere; }
+.b-ja { flex: 1 1 auto; min-width: 0; font-size: 13.5px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.b-list li.open .b-ja { white-space: normal; color: var(--ink); }
+.b-status { flex: 0 0 auto; font-size: 11px; padding: 0 7px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); }
+.b-status.done { background: var(--ok-soft); color: var(--ok); }
+.b-detail { display: flex; flex-direction: column; gap: 4px; padding: 0 2px 12px; }
 </style>
 </head>
 <body>
@@ -184,15 +211,15 @@ details ul { margin: 6px 0 0; padding-left: 1.2em; }
       <input id="date" type="date" aria-label="日付">
       <button id="next" type="button" aria-label="次の日">▶</button>
     </div>
+    <button id="bookBtn" type="button" class="ghost bookbtn">単語帳</button>
   </header>
   <p class="msg" id="msg" hidden></p>
   <nav class="tabs" id="tabs" role="tablist" hidden></nav>
   <main id="view"></main>
-
-    <footer class="data-tools">
+  <footer class="data-tools">
     <details>
       <summary>記録の管理（バックアップ）</summary>
-      <p>解答の記録はこのブラウザの中だけに保存されます。ときどき書き出しておくと、消えたときや別の端末に移るときに戻せます。</p>
+      <p>解答の記録と単語帳はこのブラウザの中だけに保存されます。ときどき書き出しておくと、消えたときや別の端末に移るときに戻せます。</p>
       <div class="row">
         <button id="export" type="button" class="ghost">記録を書き出す</button>
         <button id="import" type="button" class="ghost">記録を読み込む</button>
@@ -208,21 +235,32 @@ details ul { margin: 6px 0 0; padding-left: 1.2em; }
 const DATA_DIR = "data";          // 教材の置き場所（このページから見た相対パス）
 const MAX_LESSONS = 3;            // 1日の教材の最大数（main.py の DAILY_COUNT と同じ）
 const LOOKBACK_DAYS = 14;         // 今日の分がないとき、何日前までさかのぼって探すか
-const STORE_KEY = "rnews-pages-test";　// ※変えると過去の記録が読めなくなるので、変更しない
+const STORE_KEY = "rnews-pages-v1";   // ※変えると過去の記録が読めなくなるので、変更しない
+const REVIEW_DAYS = [1, 3, 7, 14, 30];   // 単語帳：「覚えた」を押した回数ごとの、次の復習までの日数（5回で習得）
+const SOURCE_LABEL = { tap: "要約で確認", cloze: "穴埋めで誤答", reveal: "意味を表示" };   // 単語帳に入ったきっかけ
 
+// 文法問題の分野（main.py の GRAMMAR_TOPICS と同じキー）。弱点の集計にも使う
+const TOPIC_LABEL = { case_government: "格支配", prepositions: "前置詞と格", aspect: "動詞の体", motion_verbs: "運動の動詞",
+  participles: "形動詞", gerunds: "副動詞", short_forms: "短語尾形", numerals: "数詞と格", pronouns: "代名詞",
+  conjunctions: "接続詞と複文", verb_forms: "動詞の変化", other: "その他" };
 const CATEGORY = { culture: "文化", science: "科学", economy: "経済", society: "社会", sports: "スポーツ", incident: "事件", politics: "政治", war: "戦争" };
-const state = { date: null, lessons: [], active: 0, answers: {}, hideMeaning: false, cloze: false };
+const state = { date: null, lessons: [], active: 0, answers: {}, hideMeaning: false, cloze: false,
+  words: {},          // 単語帳（キーは比較用に整えた語、値は意味・例文・復習の予定など）
+  view: "lesson",     // 今の画面（"lesson"＝教材、"book"＝単語帳）
+  review: null,       // 復習中の状態（復習していないときは null）
+  bookOpen: null };   // 単語帳の一覧で、詳細を開いている語（なければ null）
 
-// ===== 保存と復元（解答と表示設定。このブラウザの中だけ） =====
+// ===== 保存と復元（解答・単語帳・表示設定。このブラウザの中だけ） =====
 function restore() {
   try {
     const saved = JSON.parse(localStorage.getItem(STORE_KEY) || "{}");
     state.answers = saved.answers || {};
     state.hideMeaning = !!saved.hideMeaning;
+    state.words = saved.words || {};                     // 単語帳がまだない古い記録でも動くように
   } catch (e) { /* 保存領域が使えなくても画面は動く */ }
 }
 function persist() {
-  try { localStorage.setItem(STORE_KEY, JSON.stringify({ answers: state.answers, hideMeaning: state.hideMeaning })); }
+  try { localStorage.setItem(STORE_KEY, JSON.stringify({ answers: state.answers, hideMeaning: state.hideMeaning, words: state.words })); }
   catch (e) { /* 保存できなくても画面は動く */ }
 }
 
@@ -274,6 +312,7 @@ function fixStressMarks(lesson) {
 }
 
 async function show(date) {
+  state.view = "lesson"; state.review = null;              // 日付を変えたら教材の画面に戻る
   showMsg("読み込み中…");
   const lessons = await loadDate(date);
   setDate(date);
@@ -282,6 +321,7 @@ async function show(date) {
     showMsg(`${date} の教材はありません。`, "err");
     document.getElementById("tabs").hidden = true;
     document.getElementById("view").replaceChildren();
+    updateBookBtn();
     return;
   }
   state.lessons = lessons;
@@ -398,7 +438,10 @@ function clozeSummary(L) {
         el("button", { type: "button", class: "c-chip", lang: "ru", onclick: (e) => {
           if (!sel) return;
           if (m === sel) { filled.add(m); sel = nextOpen(); draw(); }          // 正解：埋めて次の空欄へ
-          else { const b = e.currentTarget; b.classList.add("ng"); setTimeout(() => b.classList.remove("ng"), 600); }  // 不正解：赤く光らせる
+          else {
+            addWord(sel.item, "cloze");                                       // 不正解：この空欄の語を単語帳へ
+            const b = e.currentTarget; b.classList.add("ng"); setTimeout(() => b.classList.remove("ng"), 600);  // 赤く光らせる
+          }
         } }, m.item.word || m.item.phrase))) : null
     );
   };
@@ -464,9 +507,11 @@ function markSummary(L) {
       el("div", { class: "g-head" },
         el("span", { class: "g-word", lang: "ru" }, m.item.word || m.item.phrase || ""),
         el("span", { class: "g-mean" }, m.item.meaning || "")),
-      ...(m.item.grammar ? [el("div", { class: "g-gram" }, m.item.grammar)] : [])   // 文法欄がある単語だけ表示する
+      ...(m.item.grammar ? [el("div", { class: "g-gram" }, m.item.grammar)] : []),   // 文法欄がある単語だけ表示する
+      el("div", { class: "g-saved" }, "＋ 単語帳に入れました")
     );
     gloss.hidden = false;
+    addWord(m.item, "tap");                                 // 意味を確認した語は、知らなかった語として単語帳へ
   };
 
   // 印の位置にボタンを置き、それ以外は文字のまま並べる
@@ -497,10 +542,146 @@ function scoreOf(l) {
   return { total, correct };
 }
 
+// ===== 単語帳 =====
+// 語を単語帳に入れる。既にある語なら「また分からなかった」として、復習を最初からやり直す
+function addWord(item, src) {
+  const text = item.word || item.phrase;
+  if (!text) return;
+  const key = normRu(text);                                 // アクセント記号や ё の有無で別の語にならないように
+  const w = state.words[key];
+  if (w) {
+    w.count += 1; w.box = 0; w.due = todayJST();
+  } else {
+    state.words[key] = { text, meaning: item.meaning || "", grammar: item.grammar || "", example: item.example || "",
+      src, date: state.date, count: 1, box: 0, due: todayJST() };   // box＝「覚えた」を押した回数、due＝次に復習する日
+  }
+  persist();
+  updateBookBtn();
+}
+
+// 今日復習する語（習得済みを除き、予定日が今日以前の語）
+function dueKeys() {
+  const today = todayJST();
+  return Object.keys(state.words).filter((k) => state.words[k].box < REVIEW_DAYS.length && state.words[k].due <= today);
+}
+
+// 画面上部の「単語帳」ボタンの表示を、今の状態に合わせる
+function updateBookBtn() {
+  const btn = document.getElementById("bookBtn");
+  const n = dueKeys().length;
+  if (state.view === "book") { btn.textContent = "← 教材に戻る"; btn.classList.remove("has-due"); return; }
+  btn.textContent = n ? `単語帳・復習 ${n}` : `単語帳 ${Object.keys(state.words).length}`;
+  btn.classList.toggle("has-due", n > 0);                  // 復習する語があるときはボタンを目立たせる
+}
+
+function renderBook() {
+  const root = el("div", { class: "wrap" });
+  const keys = Object.keys(state.words);
+  const due = dueKeys();
+  const mastered = keys.filter((k) => state.words[k].box >= REVIEW_DAYS.length).length;
+
+  root.append(el("section", null,
+    el("div", { class: "sec-head" }, el("h3", null, "自分の単語帳", el("span", { lang: "ru" }, "Мой словарь"))),
+    el("div", { class: "b-stats" },
+      el("span", null, "登録 ", el("b", null, keys.length), " 語"),
+      el("span", null, "今日の復習 ", el("b", null, due.length), " 語"),
+      el("span", null, "習得 ", el("b", null, mastered), " 語"))
+  ));
+
+  if (!keys.length) {
+    root.append(el("p", { class: "b-empty" },
+      "まだ語がありません。要約の下線の語を押す・穴埋めで間違える・隠した意味をタップすると、その語がここに集まります。"));
+    return root;
+  }
+
+  root.append(renderReview(due));
+
+  // 一覧（新しく入った順）
+  const list = keys.map((k) => [k, state.words[k]])
+    .sort((a, b) => (b[1].date || "").localeCompare(a[1].date || "") || b[1].count - a[1].count);
+  // 一覧は「語＋意味」の1行だけ。押した語だけ、文法・例文・削除ボタンを開く
+  root.append(el("section", null,
+    el("div", { class: "sec-head" }, el("h3", null, "一覧", el("span", { lang: "ru" }, "Все слова"))),
+    el("ul", { class: "b-list" }, list.map(([k, w]) => {
+      const open = state.bookOpen === k;                    // 今開いている語か
+      const status = w.box >= REVIEW_DAYS.length ? "✓" : w.due <= todayJST() ? "今日" : "";   // 右端の小さな印
+      return el("li", { class: open ? "open" : null },
+        el("button", { type: "button", class: "b-line", "aria-expanded": String(open),
+          onclick: () => { state.bookOpen = open ? null : k; render(); } },   // もう一度押すと閉じる
+          el("span", { class: "b-ru", lang: "ru" }, w.text),
+          el("span", { class: "b-ja" }, w.meaning),
+          status ? el("span", { class: "b-status" + (status === "✓" ? " done" : "") }, status) : null),
+        open ? el("div", { class: "b-detail" },
+          w.grammar ? el("div", { class: "w-gram" }, w.grammar) : null,
+          w.example ? el("div", { class: "w-ex", lang: "ru" }, w.example) : null,
+          el("div", { class: "b-meta" },
+            el("span", null, SOURCE_LABEL[w.src] || ""),
+            w.count > 1 ? el("span", null, `つまずき ${w.count} 回`) : null,
+            el("span", null, w.box >= REVIEW_DAYS.length ? "✓ 習得"
+              : w.due <= todayJST() ? "今日復習" : `次の復習 ${w.due.slice(5).replace("-", "/")}`),
+            el("button", { type: "button", class: "ghost del", onclick: () => { delete state.words[k]; state.bookOpen = null; persist(); render(); } }, "削除"))
+        ) : null);
+    }))
+  ));
+  return root;
+}
+
+// 復習カード：語だけを見て意味を思い出し、「覚えた／まだ」で次の復習日を決める
+function renderReview(due) {
+  const sec = el("section", null, el("div", { class: "sec-head" }, el("h3", null, "復習", el("span", { lang: "ru" }, "Повторение"))));
+  const r = state.review;
+
+  if (!r) {                                                 // まだ復習を始めていない
+    sec.append(due.length
+      ? el("div", { class: "b-actions" }, el("button", { type: "button", class: "start",
+          onclick: () => { state.review = { queue: [...due], open: false, done: 0 }; render(); } }, `復習を始める（${due.length} 語）`))
+      : el("p", { class: "b-empty" }, "今日復習する語はありません。"));
+    return sec;
+  }
+  if (!r.queue.length) {                                    // 全部終わった
+    sec.append(el("p", { class: "b-done" }, `今日の復習は完了です（${r.done} 語）`),
+      el("div", { class: "b-actions" }, el("button", { type: "button", onclick: () => { state.review = null; render(); } }, "閉じる")));
+    return sec;
+  }
+
+  const k = r.queue[0], w = state.words[k];
+  if (!w) { r.queue.shift(); return renderReview(due); }   // 復習中に削除された語は飛ばす
+  const card = el("div", { class: "q" },
+    el("span", { class: "q-num" }, `残り ${r.queue.length} 語`),
+    el("p", { class: "b-word", lang: "ru" }, w.text));
+  if (!r.open) {
+    card.append(el("div", { class: "b-actions" },
+      el("button", { type: "button", onclick: () => { r.open = true; render(); } }, "意味を見る")));
+  } else {
+    card.append(el("div", { class: "b-back" },
+      el("span", { class: "w-mean" }, w.meaning),
+      w.grammar ? el("span", { class: "w-gram" }, w.grammar) : null,
+      w.example ? el("span", { class: "w-ex", lang: "ru" }, w.example) : null));
+    card.append(el("div", { class: "b-actions" },
+      el("button", { type: "button", class: "no", onclick: () => {
+        w.box = 0; w.due = todayJST();                      // まだ：最初からやり直し、今日の最後にもう一度出す
+        r.queue.push(r.queue.shift()); r.open = false; persist(); render();
+      } }, "まだ"),
+      el("button", { type: "button", class: "yes", onclick: () => {
+        w.box += 1;                                         // 覚えた：次の復習日を先に延ばす
+        w.due = w.box >= REVIEW_DAYS.length ? "" : shiftDate(todayJST(), REVIEW_DAYS[w.box - 1]);
+        r.queue.shift(); r.done += 1; r.open = false; persist(); render();
+      } }, "覚えた")));
+  }
+  sec.append(card);
+  return sec;
+}
+
 // ===== 画面の組み立て =====
 function render() {
+  updateBookBtn();
   const tabs = document.getElementById("tabs");
   tabs.replaceChildren();
+  if (state.view === "book") {                              // 単語帳の画面
+    tabs.hidden = true;
+    document.getElementById("view").replaceChildren(renderBook());
+    return;
+  }
   tabs.hidden = state.lessons.length < 2;
   state.lessons.forEach((l, i) => {
     const s = scoreOf(l);
@@ -562,7 +743,10 @@ function renderLesson(l) {
       ),
       el("ul", { class: "words" }, items.map((v) => {
         const mean = el("span", { class: "w-mean" + (state.hideMeaning ? " hidden-meaning" : ""), title: state.hideMeaning ? "タップで表示" : null,
-          onclick: (e) => e.currentTarget.classList.remove("hidden-meaning") }, v.meaning || "");
+          onclick: (e) => {
+            if (e.currentTarget.classList.contains("hidden-meaning")) addWord(v, "reveal");   // 隠した意味を見た語は単語帳へ
+            e.currentTarget.classList.remove("hidden-meaning");
+          } }, v.meaning || "");
         return el("li", null,
           el("div", { class: "w-row" }, el("span", { class: "w-word", lang: "ru" }, v[field] || ""), mean),
           v.grammar ? el("div", { class: "w-gram" }, v.grammar) : null,
@@ -605,7 +789,8 @@ function renderQuestion(q, i, sec, akey) {
   const done = chosen !== undefined;
   const c = q.check;
   const card = el("div", { class: "q" });
-  card.append(el("span", { class: "q-num" }, `問${i + 1}`));
+  const topic = q.topic && TOPIC_LABEL[q.topic];           // 分野タグがある問題だけ表示する（古い教材にはない）
+  card.append(el("span", { class: "q-num" }, `問${i + 1}`, topic ? el("span", { class: "q-topic" }, topic) : null));
   card.append(el("p", { class: "q-text", lang: "ru" }, sec === "grammar" ? withBlank(q.question, done ? q.options[q.answer] : "") : q.question));
 
   card.append(el("div", { class: "opts" }, (q.options || []).map((o, n) => {
@@ -645,17 +830,26 @@ document.getElementById("prev").addEventListener("click", () => show(shiftDate(s
 document.getElementById("next").addEventListener("click", () => show(shiftDate(state.date, 1)));
 document.getElementById("date").addEventListener("change", (e) => { if (e.target.value) show(e.target.value); });
 
+// ===== 単語帳と教材の切り替え =====
+document.getElementById("bookBtn").addEventListener("click", () => {
+  state.view = state.view === "book" ? "lesson" : "book";
+  state.review = null;
+  if (state.view === "lesson" && !state.lessons.length) { show(state.date); return; }   // 教材がまだ読めていなければ読み直す
+  render();
+  window.scrollTo({ top: 0 });
+});
+
 // ===== 記録の書き出し（バックアップ） =====
 function exportData() {
-  const payload = { app: "rnews", version: 1,               // どのアプリの、どの形式の記録かの印
+  const payload = { app: "rnews", version: 2,               // version 2：単語帳を追加
     exported_at: new Date().toISOString(),
-    answers: state.answers, hideMeaning: state.hideMeaning };
+    answers: state.answers, hideMeaning: state.hideMeaning, words: state.words };
   const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });  // 記録をファイルの形にする
   const url = URL.createObjectURL(blob);                     // そのファイルを指す一時的なURLを作る
   const a = el("a", { href: url, download: `rnews-backup-${todayJST()}.json` });  // ダウンロード用のリンク
   document.body.append(a); a.click(); a.remove();            // 見えないリンクを押して、すぐ片付ける
   setTimeout(() => URL.revokeObjectURL(url), 1000);          // 一時URLを解放する
-  showMsg(`記録を書き出しました（解答 ${Object.keys(state.answers).length} 件）`);
+  showMsg(`記録を書き出しました（解答 ${Object.keys(state.answers).length} 件・単語帳 ${Object.keys(state.words).length} 語）`);
 }
 
 // ===== 記録の読み込み（今の記録に合流させる） =====
@@ -671,10 +865,18 @@ async function importData(file) {
       if (!(k in state.answers)) added++;
       state.answers[k] = v;                                  // 同じ問題があれば、読み込んだ方を優先する
     }
+    let addedWords = 0;
+    if (data.words && typeof data.words === "object") {      // version 1 のファイルには単語帳がないので飛ばす
+      for (const [k, w] of Object.entries(data.words)) {
+        if (!w || typeof w.text !== "string" || k in state.words) continue;   // 形が違う語と、既にある語は飛ばす
+        state.words[k] = w; addedWords++;
+      }
+    }
     if (typeof data.hideMeaning === "boolean") state.hideMeaning = data.hideMeaning;
     persist();
-    if (state.lessons.length) render();                      // 教材が表示中なら、採点を描き直す
-    showMsg(`記録を読み込みました（新しく ${added} 件を追加）`);
+    if (state.lessons.length || state.view === "book") render();   // 表示中の画面を描き直す
+    else updateBookBtn();
+    showMsg(`記録を読み込みました（解答 ${added} 件・単語 ${addedWords} 語を追加）`);
   } catch (e) {
     showMsg(`読み込めませんでした：${e.message}`, "err");
   }
@@ -703,9 +905,9 @@ document.getElementById("importFile").addEventListener("change", (e) => {
 });
 
 restore();
+updateBookBtn();
 protectStorage();
 start();
-  
 </script>
 </body>
 </html>
