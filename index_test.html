@@ -1,0 +1,629 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ロシア語ニュース教材</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400&family=Noto+Sans+JP:wght@400;500;700&family=PT+Mono&display=swap">
+<style>
+/* 学習画面（GitHub Pages版）。見た目はClaude上の学習画面と同じ */
+:root {
+  --paper: #f3f5f8; --surface: #ffffff; --ink: #1b2230; --muted: #5a6476; --rule: #d8dde6;
+  --accent: #2a47a0; --accent-soft: #e5eaf7; --ok: #1d7448; --ok-soft: #e2f2e9;
+  --ng: #b0281f; --ng-soft: #fae6e4; --warn: #855600; --warn-soft: #fcf0d6;
+  --f-ru: "PT Serif", Georgia, "Times New Roman", serif;
+  --f-ui: "Noto Sans JP", "Hiragino Sans", "Yu Gothic", system-ui, sans-serif;
+  --f-mono: "PT Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #11161f; --surface: #19202c; --ink: #e5e8ef; --muted: #98a2b4; --rule: #2b3444;
+    --accent: #93abff; --accent-soft: #222c47; --ok: #63c592; --ok-soft: #16301f;
+    --ng: #ff8c82; --ng-soft: #381c1a; --warn: #f0b84c; --warn-soft: #332810;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #11161f; --surface: #19202c; --ink: #e5e8ef; --muted: #98a2b4; --rule: #2b3444;
+  --accent: #93abff; --accent-soft: #222c47; --ok: #63c592; --ok-soft: #16301f;
+  --ng: #ff8c82; --ng-soft: #381c1a; --warn: #f0b84c; --warn-soft: #332810;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { background: var(--paper); }
+body {
+  margin: 0; background: var(--paper); color: var(--ink); font-family: var(--f-ui); font-size: 15px; line-height: 1.7;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 20px 48px;
+}
+.wrap { max-width: 720px; margin: 0 auto; display: flex; flex-direction: column; gap: 20px; }
+[lang="ru"] { font-family: var(--f-ru); }
+button, input { font: inherit; color: inherit; }
+button { cursor: pointer; }
+button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* 見出しと日付の切り替え */
+.top { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; }
+.brand { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.brand h1 { margin: 0; font-family: var(--f-ru); font-size: 22px; font-weight: 700; letter-spacing: 0.01em; }
+.brand small { color: var(--muted); font-size: 12px; }
+.datebar { display: flex; align-items: center; gap: 6px; }
+.datebar button { width: 36px; height: 36px; border: 1px solid var(--rule); border-radius: 999px; background: var(--surface); font-size: 15px; }
+.datebar button:disabled { opacity: 0.35; cursor: default; }
+.datebar input { height: 36px; padding: 0 10px; border: 1px solid var(--rule); border-radius: 999px; background: var(--surface);
+  font-family: var(--f-mono); font-size: 14px; font-variant-numeric: tabular-nums; }
+.msg { margin: 0; padding: 10px 14px; border-radius: 8px; font-size: 13px; white-space: pre-line; background: var(--accent-soft); color: var(--ink); }
+.msg.err { background: var(--ng-soft); color: var(--ng); }
+
+/* タブ */
+.tabs { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 2px; }
+.tab { flex: 0 0 auto; display: flex; flex-direction: column; align-items: flex-start; gap: 2px; max-width: 220px;
+  padding: 8px 12px; border: 1px solid var(--rule); border-radius: 10px; background: var(--surface); text-align: left; }
+.tab[aria-selected="true"] { border-color: var(--accent); box-shadow: inset 0 0 0 1px var(--accent); }
+.tab .t1 { font-size: 12px; color: var(--muted); font-family: var(--f-mono); }
+.tab .t2 { font-size: 13px; font-family: var(--f-ru); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 196px; }
+
+/* 記事の見出し */
+.article { display: flex; flex-direction: column; gap: 8px; padding-bottom: 16px; border-bottom: 1px solid var(--rule); }
+.kicker { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 12px; color: var(--muted); }
+.chip { padding: 1px 8px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); font-weight: 500; }
+.article h2 { margin: 0; font-family: var(--f-ru); font-size: 23px; line-height: 1.35; text-wrap: balance; overflow-wrap: anywhere; }
+.article a { color: var(--accent); font-size: 13px; }
+.score { margin-left: auto; font-family: var(--f-mono); font-variant-numeric: tabular-nums; color: var(--ink); }
+
+/* 各欄 */
+section { display: flex; flex-direction: column; gap: 12px; }
+.sec-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.sec-head h3 { margin: 0; font-size: 13px; font-weight: 700; letter-spacing: 0.08em; color: var(--muted); }
+.sec-head h3 span { font-family: var(--f-ru); font-weight: 400; letter-spacing: 0; margin-left: 6px; }
+.ghost { border: 1px solid var(--rule); background: var(--surface); border-radius: 999px; padding: 3px 12px; font-size: 12px; color: var(--muted); }
+.summary { margin: 0; font-family: var(--f-ru); font-size: 18.5px; line-height: 1.75; max-width: 65ch; hyphens: auto; }
+.summary-ja { margin: 0; padding: 12px 14px; border-left: 3px solid var(--rule); color: var(--muted); font-size: 14px; }
+
+/* 要約の中の印（単語＝下線、熟語＝波線）と、押したときの意味の欄 */
+.mark { display: inline; padding: 0; margin: 0; border: 0; background: none; font: inherit; color: inherit; line-height: inherit;
+  text-decoration-thickness: 2px; text-underline-offset: 4px; border-radius: 3px; }
+.mark.word { text-decoration-line: underline; text-decoration-color: var(--accent); }
+.mark.phrase { text-decoration-line: underline; text-decoration-style: wavy; text-decoration-color: var(--warn); text-decoration-thickness: 1.5px; }
+.mark:hover, .mark.on { background: var(--accent-soft); }
+.mark.phrase.on, .mark.phrase:hover { background: var(--warn-soft); }
+.legend { font-size: 12px; color: var(--muted); display: flex; gap: 14px; flex-wrap: wrap; }
+.legend .lw { text-decoration: underline 2px var(--accent); text-underline-offset: 3px; }
+.legend .lp { text-decoration: underline wavy 1.5px var(--warn); text-underline-offset: 3px; }
+.gloss { position: fixed; z-index: 10; left: 0; right: 0; bottom: max(16px, env(safe-area-inset-bottom, 0px));
+  width: min(688px, calc(100% - 32px)); margin: 0 auto;
+  display: flex; flex-direction: column; gap: 2px; padding: 12px 40px 12px 14px; border-radius: 10px; background: var(--surface);
+  border: 1px solid var(--rule); border-left: 3px solid var(--accent); box-shadow: 0 6px 24px rgba(0, 0, 0, 0.18); }
+.gloss[hidden] { display: none; }
+.gloss .g-close { position: absolute; top: 6px; right: 6px; width: 30px; height: 30px; border: 0; border-radius: 999px;
+  background: none; color: var(--muted); font-size: 16px; }
+.gloss.phrase { border-left-color: var(--warn); }
+.gloss .g-head { display: flex; align-items: baseline; gap: 6px 12px; flex-wrap: wrap; }
+.gloss .g-word { font-family: var(--f-ru); font-size: 18px; font-weight: 700; }
+.gloss .g-mean { font-size: 14px; }
+.gloss .g-gram { font-size: 12.5px; color: var(--muted); }
+.legend { align-items: center; }
+.legend .ghost { margin-left: auto; }
+
+/* 穴埋めモード */
+.cloze { display: flex; flex-direction: column; gap: 12px; }
+.c-bar { display: flex; justify-content: space-between; align-items: center; font-family: var(--f-mono); font-size: 13px; color: var(--muted); }
+.c-clear { color: var(--ok); font-weight: 700; font-family: var(--f-ui); }
+.c-blank { display: inline-block; min-width: 3.2em; margin: 0 2px; padding: 0 6px; border: 0; border-bottom: 2px solid var(--rule);
+  border-radius: 4px 4px 0 0; background: var(--paper); color: var(--muted); font-family: var(--f-mono); font-size: 12px; line-height: 1.6; vertical-align: baseline; }
+.c-blank.sel { border-bottom-color: var(--accent); background: var(--accent-soft); color: var(--accent); }
+.c-done { color: var(--ok); font-weight: 700; }
+.c-bank { display: flex; flex-wrap: wrap; gap: 8px; padding-top: 12px; border-top: 1px solid var(--rule);
+  position: sticky; bottom: 0; background: var(--paper); padding-bottom: max(8px, env(safe-area-inset-bottom, 0px)); }
+.c-chip { padding: 6px 12px; border: 1px solid var(--rule); border-radius: 999px; background: var(--surface); font-family: var(--f-ru); font-size: 15px; }
+.c-chip:hover { border-color: var(--accent); }
+.c-chip.ng { background: var(--ng-soft); border-color: var(--ng); color: var(--ng); }
+
+.words { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; }
+.words li { display: grid; grid-template-columns: minmax(0, 1fr); gap: 2px; padding: 12px 0; border-top: 1px solid var(--rule); }
+.words li:first-child { border-top: 0; padding-top: 0; }
+.w-row { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; }
+.w-word { font-family: var(--f-ru); font-size: 18px; font-weight: 700; }
+.w-mean { font-size: 14px; }
+.w-mean.hidden-meaning { filter: blur(5px); user-select: none; cursor: pointer; }
+.w-gram { font-size: 12.5px; color: var(--muted); }
+.w-ex { font-family: var(--f-ru); font-style: italic; font-size: 15px; color: var(--ink); opacity: 0.85; }
+
+.q { display: flex; flex-direction: column; gap: 10px; padding: 16px; border: 1px solid var(--rule); border-radius: 12px; background: var(--surface); }
+.q-num { font-family: var(--f-mono); font-size: 12px; color: var(--muted); }
+.q-text { margin: 0; font-family: var(--f-ru); font-size: 17px; line-height: 1.6; }
+.blank { display: inline-block; min-width: 4.5em; border-bottom: 2px solid var(--accent); margin: 0 2px; }
+.blank.filled { min-width: 0; padding: 0 2px; color: var(--accent); font-weight: 700; }
+.opts { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; }
+.opt { padding: 9px 12px; border: 1px solid var(--rule); border-radius: 8px; background: var(--paper); text-align: left;
+  font-family: var(--f-ru); font-size: 16px; line-height: 1.4; min-height: 42px; }
+.opt:hover:not(:disabled) { border-color: var(--accent); }
+.opt:disabled { cursor: default; }
+.opt.correct { background: var(--ok-soft); border-color: var(--ok); color: var(--ok); font-weight: 700; }
+.opt.wrong { background: var(--ng-soft); border-color: var(--ng); color: var(--ng); }
+.opt.also { border-style: dashed; border-color: var(--warn); }
+.verdict { font-weight: 700; font-size: 14px; }
+.verdict.ok { color: var(--ok); }
+.verdict.ng { color: var(--ng); }
+.expl { margin: 0; font-size: 14px; }
+.check { display: flex; flex-direction: column; gap: 6px; padding: 10px 12px; border-radius: 8px; font-size: 13.5px; }
+.check.warn { background: var(--warn-soft); color: var(--warn); }
+.check.fine { background: var(--ok-soft); color: var(--ok); }
+.check ul { margin: 0; padding-left: 1.2em; }
+.check b[lang="ru"] { font-family: var(--f-ru); }
+details { font-size: 13px; color: var(--muted); }
+details summary { cursor: pointer; }
+details ul { margin: 6px 0 0; padding-left: 1.2em; }
+.notes { display: flex; flex-direction: column; gap: 10px; }
+.note b { font-family: var(--f-ru); }
+.foot { display: flex; justify-content: flex-end; }
+@media (prefers-reduced-motion: no-preference) { .opt { transition: border-color .15s, background-color .15s; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <h1 lang="ru">Новости дня</h1>
+      <small>露検1級レベルのニュース教材</small>
+    </div>
+    <div class="datebar">
+      <button id="prev" type="button" aria-label="前の日">◀</button>
+      <input id="date" type="date" aria-label="日付">
+      <button id="next" type="button" aria-label="次の日">▶</button>
+    </div>
+  </header>
+  <p class="msg" id="msg" hidden></p>
+  <nav class="tabs" id="tabs" role="tablist" hidden></nav>
+  <main id="view"></main>
+</div>
+
+<script>
+// ===== 設定 =====
+const DATA_DIR = "data";          // 教材の置き場所（このページから見た相対パス）
+const MAX_LESSONS = 3;            // 1日の教材の最大数（main.py の DAILY_COUNT と同じ）
+const LOOKBACK_DAYS = 14;         // 今日の分がないとき、何日前までさかのぼって探すか
+const STORE_KEY = "rnews-pages-v1";
+
+const CATEGORY = { culture: "文化", science: "科学", economy: "経済", society: "社会", sports: "スポーツ", incident: "事件", politics: "政治", war: "戦争" };
+const state = { date: null, lessons: [], active: 0, answers: {}, hideMeaning: false, cloze: false };
+
+// ===== 保存と復元（解答と表示設定。このブラウザの中だけ） =====
+function restore() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(STORE_KEY) || "{}");
+    state.answers = saved.answers || {};
+    state.hideMeaning = !!saved.hideMeaning;
+  } catch (e) { /* 保存領域が使えなくても画面は動く */ }
+}
+function persist() {
+  try { localStorage.setItem(STORE_KEY, JSON.stringify({ answers: state.answers, hideMeaning: state.hideMeaning })); }
+  catch (e) { /* 保存できなくても画面は動く */ }
+}
+
+// ===== 日付の計算（日本時間） =====
+function todayJST() {
+  const now = new Date(Date.now() + 9 * 3600 * 1000);   // UTCに9時間足すと日本時間
+  return now.toISOString().slice(0, 10);               // "2026-11-07" の形
+}
+function shiftDate(d, days) {
+  const t = new Date(d + "T00:00:00Z");
+  t.setUTCDate(t.getUTCDate() + days);
+  return t.toISOString().slice(0, 10);
+}
+
+// ===== 教材の読み込み =====
+async function getJSON(path) {
+  try {
+    const res = await fetch(path, { cache: "no-cache" });   // 毎回、最新のファイルを確かめる
+    if (!res.ok) return null;                               // 404（ファイルなし）など
+    return await res.json();
+  } catch (e) { return null; }
+}
+
+// 指定した日の教材を読む。教材が1本もなければ null を返す
+async function loadDate(date) {
+  const selected = await getJSON(`${DATA_DIR}/${date}/selected.json`);
+  if (!selected) return null;
+  const lessons = [];
+  for (let i = 0; i < MAX_LESSONS; i++) {
+    const lesson = await getJSON(`${DATA_DIR}/${date}/lesson_${i}.json`);
+    if (!lesson) continue;                                  // 削除した教材や、作られなかった番号は飛ばす
+    fixStressMarks(lesson);                                 // 大文字で書かれたアクセントを記号に直す
+    const a = selected[i];
+    lessons.push({ index: i, lesson,
+      meta: a ? { title: a.title, link: a.link, source: a.source, category: a.meta && a.meta.category, russia: a.meta && a.meta.russia } : null });
+  }
+  return lessons.length ? lessons : null;
+}
+
+// AIがアクセントを大文字で書いた場合（закрепИть）に、記号付き（закрепи́ть）に直す
+// 語の途中にある大文字の母音だけを対象にする（語頭の大文字は固有名詞の可能性があるので触らない）
+function fixStress(s) {
+  return String(s).replace(/([а-яё]+)([АЕИОУЫЭЮЯЁ])(?=[а-яё]*)/g, (all, before, v) =>
+    before + v.toLowerCase() + (v === "Ё" ? "" : "́"));   // ё はもともと必ず強勢なので記号は付けない
+}
+function fixStressMarks(lesson) {
+  (lesson.vocabulary || []).forEach((v) => { if (v.word) v.word = fixStress(v.word); });
+  (lesson.phrases || []).forEach((p) => { if (p.phrase) p.phrase = fixStress(p.phrase); });
+}
+
+async function show(date) {
+  showMsg("読み込み中…");
+  const lessons = await loadDate(date);
+  setDate(date);
+  if (!lessons) {
+    state.lessons = [];
+    showMsg(`${date} の教材はありません。`, "err");
+    document.getElementById("tabs").hidden = true;
+    document.getElementById("view").replaceChildren();
+    return;
+  }
+  state.lessons = lessons;
+  state.active = 0;
+  showMsg("");
+  render();
+}
+
+// 起動時：今日の分から、教材のある日までさかのぼる（朝6時前は前日の分を表示）
+async function start() {
+  let d = todayJST();
+  for (let i = 0; i <= LOOKBACK_DAYS; i++) {
+    const lessons = await loadDate(d);
+    if (lessons) { state.lessons = lessons; setDate(d); showMsg(""); render(); return; }
+    d = shiftDate(d, -1);
+  }
+  setDate(todayJST());
+  showMsg(`最近${LOOKBACK_DAYS}日間の教材が見つかりませんでした。`, "err");
+}
+
+function setDate(d) {
+  state.date = d;
+  const input = document.getElementById("date");
+  input.value = d;
+  input.max = todayJST();
+  document.getElementById("next").disabled = d >= todayJST();
+}
+
+// ===== 小さな道具 =====
+function el(tag, attrs, ...kids) {
+  const n = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs || {})) {
+    if (v === null || v === undefined || v === false) continue;
+    if (k === "class") n.className = v;
+    else if (k.startsWith("on")) n.addEventListener(k.slice(2), v);
+    else n.setAttribute(k, v === true ? "" : v);
+  }
+  for (const kid of kids.flat()) {
+    if (kid === null || kid === undefined || kid === false) continue;
+    n.append(kid instanceof Node ? kid : document.createTextNode(String(kid)));
+  }
+  return n;
+}
+function lessonKey(l) { return state.date + "#" + l.index; }   // 解答は「日付＋教材番号」で覚える
+function showMsg(text, kind) {
+  const m = document.getElementById("msg");
+  m.textContent = text;
+  m.className = "msg" + (kind ? " " + kind : "");
+  m.hidden = !text;
+}
+function withBlank(text, filled) {
+  const parts = String(text).split(/_{2,}/);
+  const out = [];
+  parts.forEach((p, i) => {
+    out.push(p);
+    if (i < parts.length - 1) out.push(el("span", { class: "blank" + (filled ? " filled" : "") }, filled || ""));
+  });
+  return out;
+}
+
+// ===== 要約の中に、単語と熟語の印を付ける =====
+// 単語欄は辞書形（приступи́ть）、要約は変化形（приступила）なので、語の頭の部分（語幹）で探す
+function normRu(s) { return String(s).replace(/́/g, "").toLowerCase().replace(/ё/g, "е"); }
+const GAP = 3;                                              // 熟語の語と語の間に、別の語がいくつまで入ってよいか
+function stemOf(w) {
+  const word = normRu(w);
+  if (word.length <= 3) return { stem: word, exact: true }; // к・по・на などの短い語は完全一致
+  let s = word.replace(/(ся|сь)$/, "");                     // 再帰動詞の -ся / -сь を外す
+  if (/(ова|ева)ть$/.test(s)) s = s.slice(0, -5);            // свидетельствовать → свидетельств（-ует にも合う）
+  else if (/[аяиеуы]ть$/.test(s)) s = s.slice(0, -3);        // приступить → приступ、лишить → лиш
+  else if (/(ый|ий|ой)$/.test(s)) s = s.slice(0, -2);        // заблокированный → заблокированн
+  else if (/[аяоеиыуюь]$/.test(s) && s.length > 4) s = s.slice(0, -1);  // вахта → вахт、неизбежно → неизбежн
+  if (s.length < 3) s = word.slice(0, 3);                   // 削りすぎたときの保険
+  return { stem: s, exact: false };
+}
+function tokenMatches(token, st) {
+  const t = normRu(token);
+  return st.exact ? t === st.stem : t.startsWith(st.stem);
+}
+
+// ===== 穴埋めモード =====
+// 印を付けた語を空欄にし、辞書形の語群から選んで埋める。正解すると次の空欄へ進む
+function clozeSummary(L) {
+  const { parts, marks } = findMarks(L);
+  const box = el("div", { class: "cloze" });
+  const filled = new Set();                                 // 埋め終わった空欄
+  const order = [...marks].sort((a, b) => a.from - b.from); // 要約に出てくる順
+  let sel = order[0] || null;                               // 今選んでいる空欄（最初の空欄から始める）
+  const bank = [...marks].sort((a, b) =>                    // 語群はアルファベット順（出てくる順を明かさない）
+    normRu(a.item.word || a.item.phrase).localeCompare(normRu(b.item.word || b.item.phrase), "ru"));
+  const nextOpen = () => order.find((m) => !filled.has(m)) || null;
+
+  const draw = () => {
+    const byStart = new Map(marks.map((m) => [m.from, m]));
+    const para = [];
+    for (let i = 0; i < parts.length; i++) {
+      const m = byStart.get(i);
+      if (!m) { para.push(parts[i]); continue; }
+      const surface = parts.slice(m.from, m.to + 1).join("");
+      if (filled.has(m)) para.push(el("span", { class: "c-done" }, surface));
+      else para.push(el("button", { type: "button", class: "c-blank" + (m === sel ? " sel" : ""),
+        "aria-label": `空欄 ${order.indexOf(m) + 1}`, onclick: () => { sel = m; draw(); } }, String(order.indexOf(m) + 1)));
+      i = m.to;
+    }
+    const left = bank.filter((m) => !filled.has(m));
+    box.replaceChildren(
+      el("div", { class: "c-bar" },
+        el("span", null, `${filled.size} / ${marks.length}`),
+        filled.size < marks.length
+          ? el("button", { type: "button", class: "ghost", onclick: () => { marks.forEach((m) => filled.add(m)); sel = null; draw(); } }, "答えを全部見る")
+          : el("span", { class: "c-clear" }, "全問完了")),
+      el("p", { class: "summary", lang: "ru" }, para),
+      left.length ? el("div", { class: "c-bank" }, left.map((m) =>
+        el("button", { type: "button", class: "c-chip", lang: "ru", onclick: (e) => {
+          if (!sel) return;
+          if (m === sel) { filled.add(m); sel = nextOpen(); draw(); }          // 正解：埋めて次の空欄へ
+          else { const b = e.currentTarget; b.classList.add("ng"); setTimeout(() => b.classList.remove("ng"), 600); }  // 不正解：赤く光らせる
+        } }, m.item.word || m.item.phrase))) : null
+    );
+  };
+  draw();
+  return box;
+}
+
+// 要約を「語」と「語以外」に分け、単語・熟語が出てくる位置を探す
+function findMarks(L) {
+  const text = L.summary_ru || "";
+  // 文を「語」と「語以外（空白・句読点）」に分ける。奇数番目が語になる
+  const parts = text.split(/([A-Za-zА-Яа-яЁё́]+(?:-[A-Za-zА-Яа-яЁё́]+)*)/);
+  const wordPos = [];
+  parts.forEach((p, i) => { if (i % 2 === 1) wordPos.push(i); });
+  const taken = new Set();                                  // 既に印を付けた位置（重ならないように）
+  const marks = [];                                         // { from, to, kind, item }
+
+  const place = (phrase, kind, item) => {
+    const stems = normRu(phrase).split(/[\s,]+/).filter(Boolean).map(stemOf);
+    if (!stems.length) return;
+    for (let w = 0; w < wordPos.length; w++) {
+      if (!tokenMatches(parts[wordPos[w]], stems[0])) continue;   // 熟語の1語目が見つかったら
+      const hits = [w];
+      for (let k = 1; k < stems.length; k++) {                    // 2語目以降を、少し先まで探す
+        const prev = hits[hits.length - 1];
+        let found = -1;
+        for (let j = prev + 1; j <= Math.min(prev + 1 + GAP, wordPos.length - 1); j++) {
+          if (tokenMatches(parts[wordPos[j]], stems[k])) { found = j; break; }
+        }
+        if (found < 0) break;
+        hits.push(found);
+      }
+      if (hits.length < stems.length) continue;
+      const from = wordPos[hits[0]], to = wordPos[hits[hits.length - 1]];
+      const inside = wordPos.filter((p) => p >= from && p <= to);
+      if (inside.some((p) => taken.has(p))) continue;             // 既に印のある語と重なるなら別の場所を探す
+      inside.forEach((p) => taken.add(p));
+      marks.push({ from, to, kind, item });
+      return;                                                     // 最初に出てくる1か所だけに印を付ける
+    }
+  };
+  (L.phrases || []).forEach((p) => place(p.phrase || "", "phrase", p));   // 長い熟語を先に
+  (L.vocabulary || []).forEach((v) => place(v.word || "", "word", v));
+  return { parts, marks };
+}
+
+// 通常表示：印を付けた語を押すと、意味が出る
+function markSummary(L) {
+  const { parts, marks } = findMarks(L);
+
+  // 押したときに意味を出す欄（1つだけ）
+  const gloss = el("div", { class: "gloss" });
+  gloss.hidden = true;
+  let current = null;
+  const open = (btn, m) => {
+    if (current === btn) { btn.classList.remove("on"); gloss.hidden = true; current = null; return; }
+    if (current) current.classList.remove("on");
+    btn.classList.add("on"); current = btn;
+    gloss.className = "gloss" + (m.kind === "phrase" ? " phrase" : "");
+    gloss.replaceChildren(
+      el("button", { type: "button", class: "g-close", "aria-label": "閉じる",
+        onclick: () => { btn.classList.remove("on"); gloss.hidden = true; current = null; } }, "✕"),
+      el("div", { class: "g-head" },
+        el("span", { class: "g-word", lang: "ru" }, m.item.word || m.item.phrase || ""),
+        el("span", { class: "g-mean" }, m.item.meaning || "")),
+      ...(m.item.grammar ? [el("div", { class: "g-gram" }, m.item.grammar)] : [])   // 文法欄がある単語だけ表示する
+    );
+    gloss.hidden = false;
+  };
+
+  // 印の位置にボタンを置き、それ以外は文字のまま並べる
+  const byStart = new Map(marks.map((m) => [m.from, m]));
+  const nodes = [];
+  for (let i = 0; i < parts.length; i++) {
+    const m = byStart.get(i);
+    if (!m) { nodes.push(parts[i]); continue; }
+    const btn = el("button", { type: "button", class: "mark " + m.kind, "data-item": m.item.word || m.item.phrase || "" },
+      parts.slice(m.from, m.to + 1).join(""));
+    btn.addEventListener("click", () => open(btn, m));
+    nodes.push(btn);
+    i = m.to;
+  }
+  return { nodes, gloss, count: marks.length };
+}
+
+// ===== 採点 =====
+function scoreOf(l) {
+  const key = lessonKey(l);
+  let total = 0, correct = 0;
+  for (const sec of ["comprehension", "grammar"]) {
+    (l.lesson[sec] || []).forEach((q, i) => {
+      total++;
+      if (state.answers[`${key}|${sec}|${i}`] === q.answer) correct++;
+    });
+  }
+  return { total, correct };
+}
+
+// ===== 画面の組み立て =====
+function render() {
+  const tabs = document.getElementById("tabs");
+  tabs.replaceChildren();
+  tabs.hidden = state.lessons.length < 2;
+  state.lessons.forEach((l, i) => {
+    const s = scoreOf(l);
+    const cat = l.meta && CATEGORY[l.meta.category];
+    tabs.append(el("button", {
+      class: "tab", role: "tab", "aria-selected": String(i === state.active),
+      onclick: () => { state.active = i; render(); window.scrollTo({ top: 0 }); }
+    },
+      el("span", { class: "t1" }, `[${l.index}] ${cat || ""} · ${s.correct}/${s.total}`),
+      el("span", { class: "t2", lang: "ru" }, (l.meta && l.meta.title) || `lesson_${l.index}`)
+    ));
+  });
+  document.getElementById("view").replaceChildren(renderLesson(state.lessons[state.active]));
+}
+
+function renderLesson(l) {
+  const L = l.lesson, key = lessonKey(l), s = scoreOf(l), m = l.meta;
+  const root = el("div", { class: "wrap" });
+
+  root.append(el("div", { class: "article" },
+    el("div", { class: "kicker" },
+      m && m.source ? el("span", null, m.source) : null,
+      m && CATEGORY[m.category] ? el("span", { class: "chip" }, CATEGORY[m.category]) : null,
+      m && m.russia ? el("span", { class: "chip" }, `ロシア関連度 ${m.russia}`) : null,
+      el("span", { class: "score" }, `正解 ${s.correct} / ${s.total}`)
+    ),
+    el("h2", { lang: "ru" }, (m && m.title) || `lesson_${l.index}.json`),
+    m && m.link ? el("a", { href: m.link, target: "_blank", rel: "noopener" }, "元記事を開く ↗") : null
+  ));
+
+  const ja = el("p", { class: "summary-ja" }, L.summary_ja || "");
+  ja.hidden = true;
+  const marked = markSummary(L);
+  root.append(el("section", null,
+    el("div", { class: "sec-head" },
+      el("h3", null, "要約", el("span", { lang: "ru" }, "Пересказ")),
+      L.summary_ja ? el("button", { class: "ghost", onclick: (e) => { ja.hidden = !ja.hidden; e.target.textContent = ja.hidden ? "日本語訳を表示" : "日本語訳を隠す"; } }, "日本語訳を表示") : null
+    ),
+    marked.count ? el("div", { class: "legend" },
+      state.cloze
+        ? el("span", null, "空欄に入る語を、下の語群から選んでください（辞書形で並んでいます）")
+        : [el("span", null, el("span", { class: "lw" }, "下線"), "＝単語"),
+           el("span", null, el("span", { class: "lp" }, "波線"), "＝熟語"),
+           el("span", null, "押すと意味が出ます")],
+      el("button", { type: "button", class: "ghost", onclick: () => { state.cloze = !state.cloze; render(); } },
+        state.cloze ? "通常表示に戻す" : "穴埋めで読む")) : null,
+    state.cloze && marked.count ? clozeSummary(L) : el("p", { class: "summary", lang: "ru" }, marked.nodes),
+    marked.gloss,
+    ja
+  ));
+
+  const wordList = (items, field, title, ru) => {
+    if (!items || !items.length) return null;
+    return el("section", null,
+      el("div", { class: "sec-head" },
+        el("h3", null, title, el("span", { lang: "ru" }, ru)),
+        el("button", { class: "ghost", onclick: () => { state.hideMeaning = !state.hideMeaning; persist(); render(); } },
+          state.hideMeaning ? "意味を表示" : "意味を隠す")
+      ),
+      el("ul", { class: "words" }, items.map((v) => {
+        const mean = el("span", { class: "w-mean" + (state.hideMeaning ? " hidden-meaning" : ""), title: state.hideMeaning ? "タップで表示" : null,
+          onclick: (e) => e.currentTarget.classList.remove("hidden-meaning") }, v.meaning || "");
+        return el("li", null,
+          el("div", { class: "w-row" }, el("span", { class: "w-word", lang: "ru" }, v[field] || ""), mean),
+          v.grammar ? el("div", { class: "w-gram" }, v.grammar) : null,
+          v.example ? el("div", { class: "w-ex", lang: "ru" }, v.example) : null
+        );
+      }))
+    );
+  };
+  root.append(wordList(L.vocabulary, "word", "単語", "Слова") || "");
+  root.append(wordList(L.phrases, "phrase", "熟語", "Выражения") || "");
+
+  const quiz = (sec, title, ru) => {
+    const qs = L[sec] || [];
+    if (!qs.length) return null;
+    return el("section", null,
+      el("div", { class: "sec-head" }, el("h3", null, title, el("span", { lang: "ru" }, ru))),
+      qs.map((q, i) => renderQuestion(q, i, sec, `${key}|${sec}|${i}`))
+    );
+  };
+  root.append(quiz("comprehension", "内容理解", "Понимание") || "");
+  root.append(quiz("grammar", "文法", "Грамматика") || "");
+
+  if (L.cultural_notes && L.cultural_notes.length) {
+    root.append(el("section", null,
+      el("div", { class: "sec-head" }, el("h3", null, "背景知識", el("span", { lang: "ru" }, "Контекст"))),
+      el("div", { class: "notes" }, L.cultural_notes.map((n) =>
+        el("p", { class: "note expl" }, el("b", { lang: "ru" }, n.reference || ""), "　", n.explanation || "")))
+    ));
+  }
+
+  root.append(el("div", { class: "foot" }, el("button", { class: "ghost", onclick: () => {
+    for (const k of Object.keys(state.answers)) if (k.startsWith(key + "|")) delete state.answers[k];
+    persist(); render();
+  } }, "この教材の解答をリセット")));
+  return root;
+}
+
+function renderQuestion(q, i, sec, akey) {
+  const chosen = state.answers[akey];
+  const done = chosen !== undefined;
+  const c = q.check;
+  const card = el("div", { class: "q" });
+  card.append(el("span", { class: "q-num" }, `問${i + 1}`));
+  card.append(el("p", { class: "q-text", lang: "ru" }, sec === "grammar" ? withBlank(q.question, done ? q.options[q.answer] : "") : q.question));
+
+  card.append(el("div", { class: "opts" }, (q.options || []).map((o, n) => {
+    let cls = "opt";
+    if (done) {
+      if (n === q.answer) cls += " correct";
+      else if (n === chosen) cls += " wrong";
+      if (c && !c.ok && c.valid.includes(n) && n !== q.answer) cls += " also";
+    }
+    return el("button", { class: cls, lang: "ru", disabled: done, onclick: () => { state.answers[akey] = n; persist(); render(); } }, o === "" ? "（なし）" : o);
+  })));
+
+  if (done) {
+    const right = chosen === q.answer;
+    card.append(el("span", { class: "verdict " + (right ? "ok" : "ng") }, right ? "正解" : `不正解（正解：${q.options[q.answer] || "（なし）"}）`));
+    if (q.explanation) card.append(el("p", { class: "expl" }, q.explanation));
+    if (c) {
+      if (c.ok) {
+        card.append(el("div", { class: "check fine" }, "✓ 検証済み：文法的に成立するのは正解の1つだけ"));
+      } else {
+        const others = c.valid.filter((n) => n !== q.answer);
+        card.append(el("div", { class: "check warn" },
+          el("strong", null, "⚠ 正解が複数ある可能性"),
+          el("span", null, "検証では、次の選択肢も文法的に成立すると判定されました（点線の枠）。"),
+          el("ul", null, others.map((n) => el("li", null, el("b", { lang: "ru" }, q.options[n]), "：", c.reasons[n] || "")))
+        ));
+      }
+      card.append(el("details", null, el("summary", null, "検証の詳細（全選択肢）"),
+        el("ul", null, q.options.map((o, n) => el("li", null, c.valid.includes(n) ? "○ " : "× ", el("span", { lang: "ru" }, o), "：", c.reasons[n] || "")))));
+    }
+  }
+  return card;
+}
+
+// ===== 日付の切り替え =====
+document.getElementById("prev").addEventListener("click", () => show(shiftDate(state.date, -1)));
+document.getElementById("next").addEventListener("click", () => show(shiftDate(state.date, 1)));
+document.getElementById("date").addEventListener("change", (e) => { if (e.target.value) show(e.target.value); });
+
+restore();
+start();
+</script>
+</body>
+</html>
