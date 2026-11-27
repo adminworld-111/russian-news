@@ -1,0 +1,38 @@
+[
+  {
+    "source": "RBK",
+    "title": "Решетников предложил проект «самонаполняющегося холодильника» с ИИ",
+    "link": "https://www.rbc.ru/rbcfreenews/6b0941c02369b79e8b376be9",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア経済発展相が提案したAI冷蔵庫プロジェクトについての報道であり、ロシア国内の技術・経済政策が主題であり、事実中心で評価的表現は少ない"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Санкт-Петербурге за два дня выявили три случая заражения оспой обезьян",
+    "link": "https://meduza.io/news/2026/11/27/v-sankt-peterburge-za-dva-dnya-vyyavili-tri-sluchaya-zarazheniya-ospoy-obezyan",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "サンクトペテルブルクにおけるサル痘の感染事例報告であり、事実ベースの健康・社会的ニュースで、ロシア国内の特定地域の事象が中心である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Дмитриев оценил, можно ли писать международные соглашения с помощью ИИ",
+    "link": "https://www.rbc.ru/politics/06/11/2026/6aecf7a72a64df9788ee501b",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシアの政府高官がAIを国際交渉に活用する可能性について述べた記事で、事実報道が中心だが引用された発言に評価的表現が含まれている。"
+    }
+  }
+]

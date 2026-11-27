@@ -1,0 +1,278 @@
+[
+  {
+    "source": "BBC",
+    "title": "Война в Украине: Киев вернул детей с оккупированных территорий при посредничестве Мелании Трамп",
+    "link": "https://www.bbc.co.uk/russian/live/cmjrwvyj4jy8t?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 4,
+      "reason": "ウクライナへのロシアの攻撃と被害報告が中心で、見出しの人道的側面（メラニア・トランプの仲介による子どもの返還）が本文冒頭では未登場であり、一部の報道的不均衡がある"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "США предлагают Украине гарантии «как в НАТО». Поможет ли это обеспечить мир с Россией?",
+    "link": "https://www.bbc.com/russian/articles/c81dvx2ngx9no?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 4,
+      "reason": "ウクライナ戦争の停戦交渉と安全保障ガイダンスが主題であり、専門家の懐疑的な見方が含まれているため中立性は部分的であるが、背景説明と複数の視点があり学習教材として価値がある"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "Высший суд Канады оставил в силе большую часть закона Квебека о запрете религиозных символов для госслужащих",
+    "link": "https://www.bbc.com/russian/articles/cvkg5yklp3l0o?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 1,
+      "reason": "カナダの最高裁判所による宗教シンボル禁止法の判断という政治・法律判断が主題であり、事実中心で背景説明も充実しているが、ロシアとの関係性がない。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "«Я служил стране верой и правдой». Бывший глава полиции Италии в предсмертной записке отрицал связи с мафией",
+    "link": "https://www.bbc.com/russian/articles/cmvg24we5kljo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "イタリアの元警察トップの自殺事件に関する報道で、ロシアとの関係がなく、事実中心の記述である。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "В Министерстве труда и пенсий Великобритании расследуют «серьезный киберинцидент». Не исключаются действия злоумышленников",
+    "link": "https://www.bbc.com/russian/articles/crkgvjwxnkwxo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 1,
+      "reason": "イギリスの政府機関でのサイバーインシデントについて、事実ベースで報道されており、ロシアとの直接的な関わりはない。"
+    }
+  },
+  {
+    "source": "BBC",
+    "title": "В Польше на памятниках появились надписи «Слава УПА». Полиция подозревает российскую разведку",
+    "link": "https://www.bbc.com/russian/articles/c3qj5yplw1ypo?at_medium=RSS&at_campaign=rss",
+    "meta": {
+      "category": "incident",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "ポーランドの記念碑への落書き事件を報道していますが、ロシア諜報機関関与の疑惑や「ハイブリッド戦争」という表現に評価的なニュアンスが含まれており、またウクライナ大使館の非難声明が引用されているため完全に中立的とは言えません。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Санкт-Петербурге за два дня выявили три случая заражения оспой обезьян",
+    "link": "https://meduza.io/news/2026/11/27/v-sankt-peterburge-za-dva-dnya-vyyavili-tri-sluchaya-zarazheniya-ospoy-obezyan",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "サンクトペテルブルクにおけるサル痘の感染事例報告であり、事実ベースの健康・社会的ニュースで、ロシア国内の特定地域の事象が中心である"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "На фронте впервые погиб военный, родившийся во время президентства Медведева. Когда началась война, ему было 13 лет",
+    "link": "https://meduza.io/news/2026/11/27/na-fronte-vpervye-pogib-voennyy-rodivshiysya-vo-vremya-prezidentstva-medvedeva-kogda-nachalas-voyna-emu-bylo-13-let",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア兵の戦死者を報じる記事であり、特定の個人の死亡例を象徴的に取り上げることで、ロシアの高い人的損失という一方的な観点を強調している"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "В Беларуси заблокируют Spotify. Власти заявили, что компания не выплатила долги по налогам",
+    "link": "https://meduza.io/news/2026/11/27/v-belarusi-zablokiruyut-spotify-vlasti-zayavili-chto-kompaniya-ne-vyplatila-dolgi-po-nalogam",
+    "meta": {
+      "category": "economy",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "ベラルーシの税務当局によるSpotify規制の事実報道だが、当局の説明を中心に「активные попытки контактов」など当局側に好意的な表現が含まれており、やや一方的である。"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "Умер бывший главный нарколог Минздрава Евгений Брюн. В начале года его по состоянию здоровья досрочно освободили из колонии",
+    "link": "https://meduza.io/news/2026/11/27/umer-byvshiy-glavnyy-narkolog-minzdrava-evgeniy-bryun-v-nachale-goda-ego-po-sostoyaniyu-zdorovya-dosrochno-osvobodili-iz-kolonii",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア保健省の元主要麻薬専門家の死去を報じる記事で、事実中心の報道であるが、訃報としての情報量は限定的である"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "С помощью российских ИИ можно готовить «геополитические прорывы», заявил спецпредставитель Путина Кирилл Дмитриев. Он участвует в переговорах с США по Украине",
+    "link": "https://meduza.io/news/2026/11/27/s-pomoschyu-rossiyskih-ii-mozhno-gotovit-geopoliticheskie-proryvy-zayavil-spetspredstavitel-putina-kirill-dmitriev-on-uchastvuet-v-peregovorah-s-ssha-po-ukraine",
+    "meta": {
+      "category": "politics",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア高官がAIツールを外交交渉に活用する方針を述べた記事で、ロシア側の発言が中心だが、AI活用への肯定的なトーン（«очень важный инструмент»など）により一定の評価性が含まれている"
+    }
+  },
+  {
+    "source": "Meduza",
+    "title": "«Важные истории»: компании, связанные с Дерипаской, проводили деньги через «ландромат» венгерского банка, близкого к Орбану",
+    "link": "https://meduza.io/news/2026/11/27/vazhnye-istorii-kompanii-svyazannye-s-deripaskoy-provodili-dengi-cherez-landromat-vengerskogo-banka-blizkogo-k-orbanu",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 4,
+      "russia": 4,
+      "reason": "ロシア実業家デリパスカに関連する企業の疑わしい資金移動をめぐる調査報道であり、事実に基づいた報告で評価的表現は控えめだが、«ランドロマット»«ダミー会社»といった問題を示唆する用語が使用されている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "KI узнал об отмене операций ВСУ из-за ограничений военного Starlink",
+    "link": "https://www.rbc.ru/politics/28/11/2026/6b09f92c5509a3c1711f584b",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 4,
+      "russia": 3,
+      "reason": "ウクライナ軍のドローン作戦とStarlink制限に関する戦闘報道で、匿名情報源の発言を中心としており、具体的な軍事的影響が述べられているが、一方の見解が中心となっている"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Решетников предложил проект «самонаполняющегося холодильника» с ИИ",
+    "link": "https://www.rbc.ru/rbcfreenews/6b0941c02369b79e8b376be9",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア経済発展相が提案したAI冷蔵庫プロジェクトについての報道であり、ロシア国内の技術・経済政策が主題であり、事実中心で評価的表現は少ない"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Bloomberg сообщил о напряженном разговоре Мелони и Зеленского",
+    "link": "https://www.rbc.ru/politics/26/11/2026/6b0881ebd825205c50e94c8b",
+    "meta": {
+      "category": "war",
+      "neutrality": 3,
+      "value": 3,
+      "russia": 1,
+      "reason": "ウクライナの軍事作戦とイタリアの反応が主軸で、ロシアは関係なく、一方的な見解が引用されているため"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Spiegel рассказал, как «князья ИИ» готовятся к концу света",
+    "link": "https://www.rbc.ru/technology_and_media/05/11/2026/6aec65426452ccaafc385cb4",
+    "meta": {
+      "category": "science",
+      "neutrality": 2,
+      "value": 2,
+      "russia": 1,
+      "reason": "AI企業指導者の防災施設建設という科学技術関連ニュースだが、センセーショナルな見出し「世界の終わりに備える」と「AIの君主」というレッテル貼りにより、事実報道に評価的・感情的表現が強く含まれており、またロシアとの関連性がない。"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "В Петербурге выявили новый случай заражения оспой обезьян",
+    "link": "https://www.rbc.ru/society/19/10/2026/6ad61d0b511276762cd41087",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア（サンクトペテルブルク）での感染症事例の医学的事実報道であり、感情的表現が少なく中立的だが、速報的な内容で教材価値は標準的である"
+    }
+  },
+  {
+    "source": "RBK",
+    "title": "Дмитриев оценил, можно ли писать международные соглашения с помощью ИИ",
+    "link": "https://www.rbc.ru/politics/06/11/2026/6aecf7a72a64df9788ee501b",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシアの政府高官がAIを国際交渉に活用する可能性について述べた記事で、事実報道が中心だが引用された発言に評価的表現が含まれている。"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Правительство РФ утвердило список аэропортов Новапорта для инвестсборов на реконструкцию",
+    "link": "https://www.interfax.ru/russia/1131964",
+    "meta": {
+      "category": "economy",
+      "neutrality": 4,
+      "value": 3,
+      "russia": 5,
+      "reason": "ロシア政府がノヴァポルト社傘下の20の地方空港に対してインフラ整備費の徴収を承認する政策決定についての事実報道であり、ロシア国内の経済・インフラ関連の記事"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Очередной случай оспы обезьян расследуется в Петербурге",
+    "link": "https://www.interfax.ru/russia/1131962",
+    "meta": {
+      "category": "society",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア（サンクトペテルブルク）国内で確認されたサル痘の事例に関する速報的な報道で、事実中心だが背景情報に乏しく、当局の対応状況を簡潔に伝えている"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "\"Росморпорт\" получил в пользование часть акватории Финского залива Балтийского моря",
+    "link": "https://www.interfax.ru/russia/1131961",
+    "meta": {
+      "category": "politics",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "ロシア政府がバルト海フィンランド湾の水域をロシア海運公社に20年間提供する政府命令に関する事実報道であり、防衛・国家安全保障を理由とした公式決定の発表"
+    }
+  },
+  {
+    "source": "Interfax",
+    "title": "Аэропорт \"Домодедово\" принимает и отправляет рейсы по согласованию",
+    "link": "https://www.interfax.ru/russia/1131960",
+    "meta": {
+      "category": "incident",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 5,
+      "reason": "モスクワの主要空港の運航状況に関する速報で、ロシア航空当局の公式発表を事実的に伝えているが、制限の理由や背景の詳細が限定的である。"
+    }
+  },
+  {
+    "source": "Kommersant_Culture",
+    "title": "Прокатная десятка // Что посмотреть в кино на выходных 28–29 ноября",
+    "link": "https://www.kommersant.ru/doc/9144286",
+    "meta": {
+      "category": "culture",
+      "neutrality": 4,
+      "value": 2,
+      "russia": 2,
+      "reason": "週末の映画上映情報を扱う文化記事で、批評家の見解と映画配給会社の説明が中心であり、事実中心だが速報的で学習価値に乏しい"
+    }
+  }
+]
